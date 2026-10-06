@@ -1,0 +1,50 @@
+{
+  "kode": "REAL",
+  "nama": "PT Repower Asia Indonesia Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Diversified",
+  "harga": 44.0,
+  "rasio_kunci": {
+    "pe": 343.74997,
+    "pb": 0.7786921,
+    "ps": 31.596989,
+    "roe": -0.00093999994,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.038259998,
+    "current_ratio": 26.156,
+    "dividend_yield": 0.01,
+    "eps": 0.128,
+    "bv": 56.505
+  },
+  "statistik": {
+    "market_cap": 291878862848.0,
+    "enterprise_value": 291328884736.0,
+    "shares_outstanding": 6633610151.0,
+    "float_shares": 2658286596.0,
+    "free_float_pct": 0.40073000002860737,
+    "avg_volume": 87136321.0,
+    "beta": 0.428,
+    "harga": 44.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.466,
+    "vol_trend": 340.3,
+    "price_chg_20d": -12.0
+  },
+  "update": "2026-10-06 10:34"
+}

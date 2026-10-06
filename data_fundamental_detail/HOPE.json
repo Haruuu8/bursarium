@@ -1,0 +1,50 @@
+{
+  "kode": "HOPE",
+  "nama": "PT Harapan Duta Pertiwi Tbk",
+  "sektor": "Industrials",
+  "industri": "Metal Fabrication",
+  "harga": 262.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 10.243578,
+    "ps": 5.676517,
+    "roe": -0.18923001,
+    "roic": null,
+    "de": 123.845,
+    "margin_net": -0.26683,
+    "current_ratio": 1.06,
+    "dividend_yield": 0.0,
+    "eps": -3.045,
+    "bv": 25.577
+  },
+  "statistik": {
+    "market_cap": 558154383360.0,
+    "enterprise_value": 702600839168.0,
+    "shares_outstanding": 2130360203.0,
+    "float_shares": 1203184835.0,
+    "free_float_pct": 0.5647799997886085,
+    "avg_volume": 54115647.0,
+    "beta": 0.405,
+    "harga": 262.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.077,
+    "vol_trend": 1.26,
+    "price_chg_20d": 20.0
+  },
+  "update": "2026-10-06 10:22"
+}

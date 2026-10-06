@@ -1,0 +1,28 @@
+{
+  "kode": "ANTM",
+  "sumber": "yfinance",
+  "metrics": {
+    "per": 8.639309,
+    "pbv": 2.0632796,
+    "roe": 0.26827,
+    "roa": 0.11491,
+    "der": 15.598,
+    "eps": 370.4,
+    "bv": 1550.929,
+    "dividend_yield": 6.69,
+    "net_margin": 0.100760005,
+    "gross_margin": 0.19583,
+    "revenue": 88336991518720.0,
+    "net_income": 8901050236928.0,
+    "market_cap": 76898445033472.0,
+    "total_asset": null,
+    "total_equity": null,
+    "current_ratio": 1.991
+  },
+  "info_extra": {
+    "nama": "PT Antam (Persero) Tbk",
+    "sektor": "Basic Materials",
+    "industri": "Gold",
+    "harga": 3200.0
+  }
+}

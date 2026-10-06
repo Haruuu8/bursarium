@@ -1,0 +1,50 @@
+{
+  "kode": "NAYZ",
+  "nama": "PT Hassana Boga Sejahtera Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 88.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.566941,
+    "ps": 23.129633,
+    "roe": -0.09241,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.62829,
+    "current_ratio": 5.853,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 24.671
+  },
+  "statistik": {
+    "market_cap": 224400998400.0,
+    "enterprise_value": 197908054016.0,
+    "shares_outstanding": 2550011472.0,
+    "float_shares": 838443772.0,
+    "free_float_pct": 0.3288000000025098,
+    "avg_volume": 29505728.0,
+    "beta": 0.59,
+    "harga": 88.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 10,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.281,
+    "vol_trend": 3.77,
+    "price_chg_20d": 5.26
+  },
+  "update": "2026-10-06 10:31"
+}

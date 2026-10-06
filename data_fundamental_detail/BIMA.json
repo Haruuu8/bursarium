@@ -1,0 +1,50 @@
+{
+  "kode": "BIMA",
+  "nama": "PT. Primarindo Asia Infrastructure, Tbk.",
+  "sektor": "Consumer Cyclical",
+  "industri": "Footwear & Accessories",
+  "harga": 82.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.058233,
+    "ps": 0.5012042,
+    "roe": -0.73797995,
+    "roic": null,
+    "de": 190.065,
+    "margin_net": -0.3026,
+    "current_ratio": 0.23,
+    "dividend_yield": null,
+    "eps": -33.322,
+    "bv": 39.84
+  },
+  "statistik": {
+    "market_cap": 49870409728.0,
+    "enterprise_value": 94818705408.0,
+    "shares_outstanding": 608175716.0,
+    "float_shares": 81702326.0,
+    "free_float_pct": 0.1343400005139304,
+    "avg_volume": 0.0,
+    "beta": -0.387,
+    "harga": 82.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:21"
+}

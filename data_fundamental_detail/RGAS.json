@@ -1,0 +1,50 @@
+{
+  "kode": "RGAS",
+  "nama": "PT Kian Santang Muliatama Tbk",
+  "sektor": "Energy",
+  "industri": "Oil & Gas Equipment & Services",
+  "harga": 94.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.2951226,
+    "ps": 0.7752411,
+    "roe": 0.16799,
+    "roic": null,
+    "de": 3.098,
+    "margin_net": 0.09345999,
+    "current_ratio": 7.559,
+    "dividend_yield": 1.22,
+    "eps": null,
+    "bv": 72.58
+  },
+  "statistik": {
+    "market_cap": 137168003072.0,
+    "enterprise_value": 99050479616.0,
+    "shares_outstanding": 1459234110.0,
+    "float_shares": 341738036.0,
+    "free_float_pct": 0.2341899998486192,
+    "avg_volume": 85329428.0,
+    "beta": -1.062,
+    "harga": 94.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.17,
+    "vol_trend": 0.6,
+    "price_chg_20d": -23.73
+  },
+  "update": "2026-10-06 10:34"
+}

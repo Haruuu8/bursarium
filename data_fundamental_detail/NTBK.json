@@ -1,0 +1,50 @@
+{
+  "kode": "NTBK",
+  "nama": "PT Nusatama Berkah Tbk",
+  "sektor": "Industrials",
+  "industri": "Farm & Heavy Construction Machinery",
+  "harga": 68.0,
+  "rasio_kunci": {
+    "pe": 303.5714,
+    "pb": 2.0702043,
+    "ps": 2.4565458,
+    "roe": null,
+    "roic": null,
+    "de": 9.938,
+    "margin_net": -0.072270006,
+    "current_ratio": 2.912,
+    "dividend_yield": 0.08,
+    "eps": 0.224,
+    "bv": 32.847
+  },
+  "statistik": {
+    "market_cap": 183604412416.0,
+    "enterprise_value": 182757687296.0,
+    "shares_outstanding": 2700064877.0,
+    "float_shares": 1014630379.0,
+    "free_float_pct": 0.37577999982257465,
+    "avg_volume": 120106430.0,
+    "beta": 0.468,
+    "harga": 68.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.248,
+    "vol_trend": 0.61,
+    "price_chg_20d": -25.0
+  },
+  "update": "2026-10-06 10:32"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "TAYS",
+  "nama": "PT Jaya Swarasa Agung Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 50.0,
+  "rasio_kunci": {
+    "pe": 8.343067,
+    "pb": 1.2359105,
+    "ps": 0.48011342,
+    "roe": -0.81096,
+    "roic": null,
+    "de": 477.558,
+    "margin_net": -0.52712,
+    "current_ratio": 0.607,
+    "dividend_yield": 0.0,
+    "eps": 5.993,
+    "bv": 40.456
+  },
+  "statistik": {
+    "market_cap": 54945996800.0,
+    "enterprise_value": 267084103680.0,
+    "shares_outstanding": 1098920000.0,
+    "float_shares": 404160798.0,
+    "free_float_pct": 0.3677800003639937,
+    "avg_volume": 0.0,
+    "beta": -0.4,
+    "harga": 50.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:37"
+}

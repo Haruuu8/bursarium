@@ -1,0 +1,50 @@
+{
+  "kode": "RAFI",
+  "nama": "PT Sari Kreasi Boga Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Restaurants",
+  "harga": 36.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.46078822,
+    "ps": 0.31119066,
+    "roe": -0.18386999,
+    "roic": null,
+    "de": 21.413,
+    "margin_net": -0.14873,
+    "current_ratio": 1.63,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 78.127
+  },
+  "statistik": {
+    "market_cap": 112613056512.0,
+    "enterprise_value": 216763039744.0,
+    "shares_outstanding": 3128140475.0,
+    "float_shares": 1865779386.0,
+    "free_float_pct": 0.5964499998997008,
+    "avg_volume": 0.0,
+    "beta": 0.441,
+    "harga": 36.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:34"
+}

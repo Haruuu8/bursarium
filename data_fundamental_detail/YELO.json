@@ -1,0 +1,50 @@
+{
+  "kode": "YELO",
+  "nama": "PT Yelooo Integra Datanet Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Travel Services",
+  "harga": 81.0,
+  "rasio_kunci": {
+    "pe": 4.911472,
+    "pb": 0.58405316,
+    "ps": 3.3270166,
+    "roe": -0.08046,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.47307,
+    "current_ratio": 20.242,
+    "dividend_yield": 0.0,
+    "eps": 16.492,
+    "bv": 138.686
+  },
+  "statistik": {
+    "market_cap": 154934722560.0,
+    "enterprise_value": 151127982080.0,
+    "shares_outstanding": 1912774405.0,
+    "float_shares": 1033969332.0,
+    "free_float_pct": 0.5405599998082367,
+    "avg_volume": 104382006.0,
+    "beta": 0.318,
+    "harga": 81.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.202,
+    "vol_trend": 0.87,
+    "price_chg_20d": -20.79
+  },
+  "update": "2026-10-06 10:39"
+}

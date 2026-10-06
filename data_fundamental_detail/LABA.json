@@ -1,0 +1,50 @@
+{
+  "kode": "LABA",
+  "nama": "PT Green Power Group Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Steel",
+  "harga": 109.0,
+  "rasio_kunci": {
+    "pe": 3.8787277,
+    "pb": 1.2946599,
+    "ps": 4.614249,
+    "roe": 0.26572,
+    "roic": null,
+    "de": 0.684,
+    "margin_net": 0.90085,
+    "current_ratio": 9.711,
+    "dividend_yield": 0.0,
+    "eps": 28.102,
+    "bv": 84.192
+  },
+  "statistik": {
+    "market_cap": 120270872576.0,
+    "enterprise_value": 63401676800.0,
+    "shares_outstanding": 1103402553.0,
+    "float_shares": 684208889.0,
+    "free_float_pct": 0.6200899999186426,
+    "avg_volume": 33761719.0,
+    "beta": 0.539,
+    "harga": 109.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.156,
+    "vol_trend": 0.38,
+    "price_chg_20d": -17.05
+  },
+  "update": "2026-10-06 10:23"
+}

@@ -1,0 +1,28 @@
+{
+  "kode": "BBCA",
+  "sumber": "yfinance",
+  "metrics": {
+    "per": 13.082627,
+    "pbv": 2.8048904,
+    "roe": 0.21818,
+    "roa": 0.03671,
+    "der": null,
+    "eps": 472.0,
+    "bv": 2201.512,
+    "dividend_yield": 6.25,
+    "net_margin": 0.53118,
+    "gross_margin": 0.0,
+    "revenue": 109295182020608.0,
+    "net_income": 58055320403968.0,
+    "market_cap": 758547797245952.0,
+    "total_asset": null,
+    "total_equity": null,
+    "current_ratio": null
+  },
+  "info_extra": {
+    "nama": "PT Bank Central Asia Tbk",
+    "sektor": "Financial Services",
+    "industri": "Banks - Regional",
+    "harga": 6175.0
+  }
+}

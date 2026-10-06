@@ -1,0 +1,50 @@
+{
+  "kode": "IOTF",
+  "nama": "PT Sumber Sinergi Makmur Tbk",
+  "sektor": "Technology",
+  "industri": "Communication Equipment",
+  "harga": 52.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.7543267,
+    "ps": 3.9754071,
+    "roe": 0.0053600003,
+    "roic": null,
+    "de": 5.195,
+    "margin_net": 0.0121,
+    "current_ratio": 15.103,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 29.641
+  },
+  "statistik": {
+    "market_cap": 275095486464.0,
+    "enterprise_value": 252662235136.0,
+    "shares_outstanding": 5290298067.0,
+    "float_shares": 1690303135.0,
+    "free_float_pct": 0.3195099999268151,
+    "avg_volume": 54065240.0,
+    "beta": -0.398,
+    "harga": 52.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.316,
+    "vol_trend": 0.74,
+    "price_chg_20d": -29.85
+  },
+  "update": "2026-10-06 10:22"
+}

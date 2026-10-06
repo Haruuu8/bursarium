@@ -1,0 +1,50 @@
+{
+  "kode": "HADE",
+  "nama": "PT Himalaya Energi Perkasa Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Specialty Retail",
+  "harga": 27.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 13.663968,
+    "ps": 12.986076,
+    "roe": -0.04557,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.07198,
+    "current_ratio": 3.415,
+    "dividend_yield": 0.0,
+    "eps": -0.069,
+    "bv": 1.976
+  },
+  "statistik": {
+    "market_cap": 57239998464.0,
+    "enterprise_value": 56781447168.0,
+    "shares_outstanding": 2120000000.0,
+    "float_shares": 1202803200.0,
+    "free_float_pct": 0.56736,
+    "avg_volume": 11648584.0,
+    "beta": -0.102,
+    "harga": 27.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": -0.072,
+    "vol_trend": 1.4,
+    "price_chg_20d": 13.64
+  },
+  "update": "2026-10-06 10:22"
+}

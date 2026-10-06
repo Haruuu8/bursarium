@@ -1,0 +1,50 @@
+{
+  "kode": "WINR",
+  "nama": "PT Winner Nusantara Jaya Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 25.0,
+  "rasio_kunci": {
+    "pe": 0.027538408,
+    "pb": 0.35466528,
+    "ps": 2.5714521,
+    "roe": 0.03639,
+    "roic": null,
+    "de": 24.454,
+    "margin_net": 0.27703,
+    "current_ratio": 2.753,
+    "dividend_yield": 0.0,
+    "eps": 907.823,
+    "bv": 70.489
+  },
+  "statistik": {
+    "market_cap": 130882904064.0,
+    "enterprise_value": 241173086208.0,
+    "shares_outstanding": 5235316030.0,
+    "float_shares": 2805187035.0,
+    "free_float_pct": 0.5358199999628294,
+    "avg_volume": 42388100.0,
+    "beta": 0.548,
+    "harga": 25.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.157,
+    "vol_trend": 1.38,
+    "price_chg_20d": -13.79
+  },
+  "update": "2026-10-06 10:39"
+}

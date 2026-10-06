@@ -1,0 +1,50 @@
+{
+  "kode": "BINO",
+  "nama": "PT Perma Plasindo Tbk",
+  "sektor": "Industrials",
+  "industri": "Business Equipment & Supplies",
+  "harga": 107.0,
+  "rasio_kunci": {
+    "pe": 19.127638,
+    "pb": 0.592522,
+    "ps": 0.5694797,
+    "roe": -0.02098,
+    "roic": null,
+    "de": 17.819,
+    "margin_net": -0.01968,
+    "current_ratio": 2.18,
+    "dividend_yield": 0.0,
+    "eps": 5.594,
+    "bv": 180.584
+  },
+  "statistik": {
+    "market_cap": 243458834432.0,
+    "enterprise_value": 294705397760.0,
+    "shares_outstanding": 2275316111.0,
+    "float_shares": 149579281.0,
+    "free_float_pct": 0.06573999993972705,
+    "avg_volume": 1736436.0,
+    "beta": 0.113,
+    "harga": 107.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.657,
+    "vol_trend": 0.35,
+    "price_chg_20d": -12.5
+  },
+  "update": "2026-10-06 10:22"
+}

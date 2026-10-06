@@ -1,0 +1,50 @@
+{
+  "kode": "PTDU",
+  "nama": "PT Djasa Ubersakti Tbk",
+  "sektor": "Industrials",
+  "industri": "Engineering & Construction",
+  "harga": 70.0,
+  "rasio_kunci": {
+    "pe": 11.330527,
+    "pb": -9.019456,
+    "ps": 1.4252744,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.34374002,
+    "current_ratio": 0.299,
+    "dividend_yield": 0.0,
+    "eps": 6.178,
+    "bv": -7.761
+  },
+  "statistik": {
+    "market_cap": 105000001536.0,
+    "enterprise_value": 175256715264.0,
+    "shares_outstanding": 1500000000.0,
+    "float_shares": 400005000.0,
+    "free_float_pct": 0.26667,
+    "avg_volume": 0.0,
+    "beta": -0.186,
+    "harga": 70.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:34"
+}

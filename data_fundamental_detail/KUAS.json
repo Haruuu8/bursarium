@@ -1,0 +1,50 @@
+{
+  "kode": "KUAS",
+  "nama": "PT Ace Oldfields Tbk",
+  "sektor": "Industrials",
+  "industri": "Building Products & Equipment",
+  "harga": 91.0,
+  "rasio_kunci": {
+    "pe": 16.734093,
+    "pb": 0.68813235,
+    "ps": 0.6343813,
+    "roe": 0.054279998,
+    "roic": null,
+    "de": 68.977,
+    "margin_net": 0.04908,
+    "current_ratio": 1.912,
+    "dividend_yield": 1.74,
+    "eps": 5.438,
+    "bv": 132.242
+  },
+  "statistik": {
+    "market_cap": 117645541376.0,
+    "enterprise_value": 189407068160.0,
+    "shares_outstanding": 1292808150.0,
+    "float_shares": 611213837.0,
+    "free_float_pct": 0.47277999987855895,
+    "avg_volume": 34433377.0,
+    "beta": 0.194,
+    "harga": 91.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.422,
+    "vol_trend": 0.66,
+    "price_chg_20d": -11.76
+  },
+  "update": "2026-10-06 10:23"
+}

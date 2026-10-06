@@ -1,0 +1,50 @@
+{
+  "kode": "ENZO",
+  "nama": "PT Morenzo Abadi Perkasa Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 64.0,
+  "rasio_kunci": {
+    "pe": 13.03197,
+    "pb": 0.7898602,
+    "ps": 0.299933,
+    "roe": 0.09105,
+    "roic": null,
+    "de": 94.148,
+    "margin_net": 0.033010002,
+    "current_ratio": 1.33,
+    "dividend_yield": 0.0,
+    "eps": 4.911,
+    "bv": 81.027
+  },
+  "statistik": {
+    "market_cap": 138403020800.0,
+    "enterprise_value": 292968333312.0,
+    "shares_outstanding": 2162547122.0,
+    "float_shares": 663642461.0,
+    "free_float_pct": 0.3068800000927795,
+    "avg_volume": 46917938.0,
+    "beta": 1.36,
+    "harga": 64.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.131,
+    "vol_trend": 0.27,
+    "price_chg_20d": -21.33
+  },
+  "update": "2026-10-06 10:22"
+}

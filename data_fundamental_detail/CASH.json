@@ -1,0 +1,50 @@
+{
+  "kode": "CASH",
+  "nama": "PT Cashlez Worldwide Indonesia Tbk",
+  "sektor": "Industrials",
+  "industri": "Business Equipment & Supplies",
+  "harga": 250.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -6.9818754,
+    "ps": 4.451793,
+    "roe": -2.85934,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.67259,
+    "current_ratio": 1.0,
+    "dividend_yield": 0.0,
+    "eps": -7.2,
+    "bv": -35.807
+  },
+  "statistik": {
+    "market_cap": 606950522880.0,
+    "enterprise_value": 364329369600.0,
+    "shares_outstanding": 2427802216.0,
+    "float_shares": 143198419.0,
+    "free_float_pct": 0.05898273675519209,
+    "avg_volume": 2889982.0,
+    "beta": -0.439,
+    "harga": 250.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.393,
+    "vol_trend": 0.38,
+    "price_chg_20d": 8.7
+  },
+  "update": "2026-10-06 10:22"
+}

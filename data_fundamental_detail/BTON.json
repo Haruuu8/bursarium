@@ -1,0 +1,50 @@
+{
+  "kode": "BTON",
+  "nama": "PT Betonjaya Manunggal Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Steel",
+  "harga": 370.0,
+  "rasio_kunci": {
+    "pe": 27.647015,
+    "pb": 0.80046904,
+    "ps": 1.8906746,
+    "roe": 0.15967,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.34935,
+    "current_ratio": 2.942,
+    "dividend_yield": 0.0,
+    "eps": 13.383,
+    "bv": 462.229
+  },
+  "statistik": {
+    "market_cap": 266400006144.0,
+    "enterprise_value": -98175885312.0,
+    "shares_outstanding": 720000000.0,
+    "float_shares": 73497600.0,
+    "free_float_pct": 0.10208,
+    "avg_volume": 42439.0,
+    "beta": 0.199,
+    "harga": 370.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.37,
+    "vol_trend": 0.13,
+    "price_chg_20d": 2.76
+  },
+  "update": "2026-10-06 10:22"
+}

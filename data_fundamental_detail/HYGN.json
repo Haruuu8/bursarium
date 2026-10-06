@@ -1,0 +1,50 @@
+{
+  "kode": "HYGN",
+  "nama": "PT Ecocare Indo Pasifik Tbk",
+  "sektor": "Industrials",
+  "industri": "Specialty Business Services",
+  "harga": 193.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.8714685,
+    "ps": 1.2145522,
+    "roe": 0.13317999,
+    "roic": null,
+    "de": 9.184,
+    "margin_net": 0.054619998,
+    "current_ratio": 2.419,
+    "dividend_yield": 1.63,
+    "eps": null,
+    "bv": 67.213
+  },
+  "statistik": {
+    "market_cap": 481847705600.0,
+    "enterprise_value": 477772120064.0,
+    "shares_outstanding": 2496620300.0,
+    "float_shares": 492608151.0,
+    "free_float_pct": 0.1973099998425872,
+    "avg_volume": 2725049.0,
+    "beta": -0.25,
+    "harga": 193.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.144,
+    "vol_trend": 0.47,
+    "price_chg_20d": 4.84
+  },
+  "update": "2026-10-06 10:22"
+}

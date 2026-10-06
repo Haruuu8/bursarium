@@ -1,0 +1,50 @@
+{
+  "kode": "IDEA",
+  "nama": "PT Idea Indonesia Akademi Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Education & Training Services",
+  "harga": 162.0,
+  "rasio_kunci": {
+    "pe": 73.9726,
+    "pb": 2.6993701,
+    "ps": 7.567737,
+    "roe": 0.02602,
+    "roic": null,
+    "de": 17.398,
+    "margin_net": 0.07276,
+    "current_ratio": 3.498,
+    "dividend_yield": 0.68,
+    "eps": 2.19,
+    "bv": 60.014
+  },
+  "statistik": {
+    "market_cap": 172114870272.0,
+    "enterprise_value": 161155104768.0,
+    "shares_outstanding": 1062437500.0,
+    "float_shares": 355119734.0,
+    "free_float_pct": 0.33424999964703805,
+    "avg_volume": 7646596.0,
+    "beta": 0.307,
+    "harga": 162.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.916,
+    "vol_trend": 0.0,
+    "price_chg_20d": 120.9
+  },
+  "update": "2026-10-06 10:22"
+}

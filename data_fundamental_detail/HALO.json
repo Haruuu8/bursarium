@@ -1,0 +1,50 @@
+{
+  "kode": "HALO",
+  "nama": "PT Haloni Jane Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Chemicals",
+  "harga": 67.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.6535044,
+    "ps": 1.9270164,
+    "roe": 0.0799,
+    "roic": null,
+    "de": 0.05,
+    "margin_net": 0.07785,
+    "current_ratio": 4.886,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 40.52
+  },
+  "statistik": {
+    "market_cap": 407274848256.0,
+    "enterprise_value": 321108049920.0,
+    "shares_outstanding": 6078729117.0,
+    "float_shares": 754491858.0,
+    "free_float_pct": 0.1241199999996644,
+    "avg_volume": 22686574.0,
+    "beta": 1.224,
+    "harga": 67.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.518,
+    "vol_trend": 0.12,
+    "price_chg_20d": -21.25
+  },
+  "update": "2026-10-06 10:22"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "LOPI",
+  "nama": "PT Logisticsplus International Tbk",
+  "sektor": "Industrials",
+  "industri": "Integrated Freight & Logistics",
+  "harga": 55.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.99068755,
+    "ps": 0.45007396,
+    "roe": 0.031170001,
+    "roic": null,
+    "de": 63.477,
+    "margin_net": 0.01339,
+    "current_ratio": 2.483,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 55.517
+  },
+  "statistik": {
+    "market_cap": 60500619264.0,
+    "enterprise_value": 98864930816.0,
+    "shares_outstanding": 1100011289.0,
+    "float_shares": 484466972.0,
+    "free_float_pct": 0.44042000008965365,
+    "avg_volume": 12474328.0,
+    "beta": 0.105,
+    "harga": 55.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.257,
+    "vol_trend": 0.59,
+    "price_chg_20d": -10.94
+  },
+  "update": "2026-10-06 10:23"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "MDKI",
+  "nama": "PT Emdeki Utama Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 195.0,
+  "rasio_kunci": {
+    "pe": 12.619726,
+    "pb": 0.51214033,
+    "ps": 1.5528939,
+    "roe": 0.030269999,
+    "roic": null,
+    "de": 1.589,
+    "margin_net": 0.089379996,
+    "current_ratio": 5.605,
+    "dividend_yield": 4.64,
+    "eps": 15.452,
+    "bv": 380.755
+  },
+  "statistik": {
+    "market_cap": 493379223552.0,
+    "enterprise_value": 303563243520.0,
+    "shares_outstanding": 2530150002.0,
+    "float_shares": 421851910.0,
+    "free_float_pct": 0.1667300000658222,
+    "avg_volume": 314660.0,
+    "beta": 0.138,
+    "harga": 195.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.301,
+    "vol_trend": 0.85,
+    "price_chg_20d": -1.52
+  },
+  "update": "2026-10-06 10:30"
+}

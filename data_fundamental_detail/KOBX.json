@@ -1,0 +1,50 @@
+{
+  "kode": "KOBX",
+  "nama": "PT Kobexindo Tractors Tbk",
+  "sektor": "Industrials",
+  "industri": "Farm & Heavy Construction Machinery",
+  "harga": 171.0,
+  "rasio_kunci": {
+    "pe": 28500.0,
+    "pb": 0.804634,
+    "ps": 0.2165204,
+    "roe": -0.37352002,
+    "roic": null,
+    "de": 281.506,
+    "margin_net": -0.08224,
+    "current_ratio": 0.691,
+    "dividend_yield": 0.0,
+    "eps": 0.006,
+    "bv": 212.519
+  },
+  "statistik": {
+    "market_cap": 388597481472.0,
+    "enterprise_value": 1711046393856.0,
+    "shares_outstanding": 2272500000.0,
+    "float_shares": 219796200.0,
+    "free_float_pct": 0.09672,
+    "avg_volume": 10741882.0,
+    "beta": 0.106,
+    "harga": 171.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.243,
+    "vol_trend": 0.42,
+    "price_chg_20d": -5.59
+  },
+  "update": "2026-10-06 10:23"
+}

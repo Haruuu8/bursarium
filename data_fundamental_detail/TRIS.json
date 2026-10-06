@@ -1,0 +1,50 @@
+{
+  "kode": "TRIS",
+  "nama": "PT Trisula International Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Apparel Manufacturing",
+  "harga": 170.0,
+  "rasio_kunci": {
+    "pe": 46.23334,
+    "pb": 0.97759014,
+    "ps": 0.28345853,
+    "roe": 0.14182,
+    "roic": null,
+    "de": 28.788,
+    "margin_net": 0.03234,
+    "current_ratio": 1.908,
+    "dividend_yield": 5.89,
+    "eps": 3.677,
+    "bv": 173.897
+  },
+  "statistik": {
+    "market_cap": 525845921792.0,
+    "enterprise_value": 837783388160.0,
+    "shares_outstanding": 3093211331.0,
+    "float_shares": 1050578296.0,
+    "free_float_pct": 0.3396399998510157,
+    "avg_volume": 1397689.0,
+    "beta": 0.264,
+    "harga": 170.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.524,
+    "vol_trend": 0.35,
+    "price_chg_20d": -5.06
+  },
+  "update": "2026-10-06 10:38"
+}

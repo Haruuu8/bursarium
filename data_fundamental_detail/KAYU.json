@@ -1,0 +1,50 @@
+{
+  "kode": "KAYU",
+  "nama": "PT Darmi Bersaudara Tbk",
+  "sektor": "",
+  "industri": "",
+  "harga": 18.0,
+  "rasio_kunci": {
+    "pe": 86.1244,
+    "pb": 0.14753978,
+    "ps": null,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": null,
+    "current_ratio": null,
+    "dividend_yield": null,
+    "eps": null,
+    "bv": 122.001
+  },
+  "statistik": {
+    "market_cap": 11969999872.0,
+    "enterprise_value": null,
+    "shares_outstanding": 665000000.0,
+    "float_shares": null,
+    "free_float_pct": null,
+    "avg_volume": null,
+    "beta": null,
+    "harga": 18.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:23"
+}

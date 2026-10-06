@@ -1,0 +1,50 @@
+{
+  "kode": "HAJJ",
+  "nama": "PT Arsy Buana Travelindo Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Travel Services",
+  "harga": 109.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.2287228,
+    "ps": 0.34198415,
+    "roe": 0.00882,
+    "roic": null,
+    "de": 63.548,
+    "margin_net": 0.00242,
+    "current_ratio": 2.325,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 88.71
+  },
+  "statistik": {
+    "market_cap": 269066076160.0,
+    "enterprise_value": 379966554112.0,
+    "shares_outstanding": 2468496061.0,
+    "float_shares": 703184764.0,
+    "free_float_pct": 0.2848636362478684,
+    "avg_volume": 7729373.0,
+    "beta": -0.03,
+    "harga": 109.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.057,
+    "vol_trend": 0.51,
+    "price_chg_20d": -3.51
+  },
+  "update": "2026-10-06 10:22"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "PPRI",
+  "nama": "PT Paperocks Indonesia Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Packaging & Containers",
+  "harga": 184.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.0030699,
+    "ps": 1.3282236,
+    "roe": 0.02807,
+    "roic": null,
+    "de": 16.023,
+    "margin_net": 0.01835,
+    "current_ratio": 3.877,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 91.859
+  },
+  "statistik": {
+    "market_cap": 197805031424.0,
+    "enterprise_value": 189976264704.0,
+    "shares_outstanding": 1075027288.0,
+    "float_shares": 289268343.0,
+    "free_float_pct": 0.26908000032088486,
+    "avg_volume": 9026533.0,
+    "beta": 0.117,
+    "harga": 184.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.145,
+    "vol_trend": 1.07,
+    "price_chg_20d": -8.82
+  },
+  "update": "2026-10-06 10:34"
+}

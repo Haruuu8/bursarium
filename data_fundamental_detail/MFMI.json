@@ -1,0 +1,50 @@
+{
+  "kode": "MFMI",
+  "nama": "PT Multifiling Mitra Indonesia Tbk",
+  "sektor": "Industrials",
+  "industri": "Specialty Business Services",
+  "harga": 1300.0,
+  "rasio_kunci": {
+    "pe": 37.839096,
+    "pb": 8.798884,
+    "ps": 5.726992,
+    "roe": 0.22145,
+    "roic": null,
+    "de": 249.499,
+    "margin_net": 0.14283,
+    "current_ratio": 3.208,
+    "dividend_yield": null,
+    "eps": 34.356,
+    "bv": 147.746
+  },
+  "statistik": {
+    "market_cap": 984855281664.0,
+    "enterprise_value": 1176293867520.0,
+    "shares_outstanding": 757581000.0,
+    "float_shares": 4947004.0,
+    "free_float_pct": 0.006530000092399361,
+    "avg_volume": 0.0,
+    "beta": 0.045,
+    "harga": 1300.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:30"
+}

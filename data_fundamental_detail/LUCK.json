@@ -1,0 +1,50 @@
+{
+  "kode": "LUCK",
+  "nama": "PT Sentral Mitra Informatika Tbk",
+  "sektor": "Technology",
+  "industri": "Computer Hardware",
+  "harga": 108.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.65125364,
+    "ps": 0.5916855,
+    "roe": null,
+    "roic": null,
+    "de": 8.161,
+    "margin_net": -0.07517,
+    "current_ratio": 4.398,
+    "dividend_yield": 0.0,
+    "eps": -0.512,
+    "bv": 165.834
+  },
+  "statistik": {
+    "market_cap": 77300957184.0,
+    "enterprise_value": 59362201600.0,
+    "shares_outstanding": 715749640.0,
+    "float_shares": 190861799.0,
+    "free_float_pct": 0.26665999999664686,
+    "avg_volume": 7332682.0,
+    "beta": 0.338,
+    "harga": 108.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.165,
+    "vol_trend": 0.34,
+    "price_chg_20d": -12.3
+  },
+  "update": "2026-10-06 10:29"
+}

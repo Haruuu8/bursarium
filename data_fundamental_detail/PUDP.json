@@ -1,0 +1,50 @@
+{
+  "kode": "PUDP",
+  "nama": "PT Pudjiadi Prestige Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate Services",
+  "harga": 266.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.3491721,
+    "ps": 4.1165223,
+    "roe": -0.011729999,
+    "roic": null,
+    "de": 5.347,
+    "margin_net": -0.1392,
+    "current_ratio": 6.895,
+    "dividend_yield": 0.39,
+    "eps": -53.827,
+    "bv": 761.802
+  },
+  "statistik": {
+    "market_cap": 175325921280.0,
+    "enterprise_value": 141761331200.0,
+    "shares_outstanding": 659120000.0,
+    "float_shares": 68845084.0,
+    "free_float_pct": 0.10445,
+    "avg_volume": 143241.0,
+    "beta": 0.455,
+    "harga": 266.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.196,
+    "vol_trend": 0.16,
+    "price_chg_20d": -1.47
+  },
+  "update": "2026-10-06 10:34"
+}

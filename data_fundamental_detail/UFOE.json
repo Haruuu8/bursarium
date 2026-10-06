@@ -1,0 +1,50 @@
+{
+  "kode": "UFOE",
+  "nama": "PT Damai Sejahtera Abadi Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Department Stores",
+  "harga": 143.0,
+  "rasio_kunci": {
+    "pe": 26.819206,
+    "pb": 1.6348835,
+    "ps": 0.33106682,
+    "roe": null,
+    "roic": null,
+    "de": 54.113,
+    "margin_net": 0.017439999,
+    "current_ratio": 1.025,
+    "dividend_yield": 0.0,
+    "eps": 5.332,
+    "bv": 87.468
+  },
+  "statistik": {
+    "market_cap": 414451433472.0,
+    "enterprise_value": 544742408192.0,
+    "shares_outstanding": 2898261693.0,
+    "float_shares": 423204172.0,
+    "free_float_pct": 0.14601999985789413,
+    "avg_volume": 1231876.0,
+    "beta": -0.105,
+    "harga": 143.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.292,
+    "vol_trend": 0.59,
+    "price_chg_20d": -3.4
+  },
+  "update": "2026-10-06 10:38"
+}

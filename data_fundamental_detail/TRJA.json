@@ -1,0 +1,50 @@
+{
+  "kode": "TRJA",
+  "nama": "PT Transkon Jaya Tbk",
+  "sektor": "Industrials",
+  "industri": "Rental & Leasing Services",
+  "harga": 119.0,
+  "rasio_kunci": {
+    "pe": 3.7039344,
+    "pb": 0.46184894,
+    "ps": 0.39077285,
+    "roe": 0.00074,
+    "roic": null,
+    "de": 75.92,
+    "margin_net": 0.00066,
+    "current_ratio": 0.946,
+    "dividend_yield": 0.0,
+    "eps": 32.128,
+    "bv": 257.66
+  },
+  "statistik": {
+    "market_cap": 179713802240.0,
+    "enterprise_value": 457709223936.0,
+    "shares_outstanding": 1510200000.0,
+    "float_shares": 174458304.0,
+    "free_float_pct": 0.11552,
+    "avg_volume": 3701393.0,
+    "beta": 0.32,
+    "harga": 119.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.193,
+    "vol_trend": 0.09,
+    "price_chg_20d": -9.92
+  },
+  "update": "2026-10-06 10:38"
+}

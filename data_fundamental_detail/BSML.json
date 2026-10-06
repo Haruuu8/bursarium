@@ -1,0 +1,50 @@
+{
+  "kode": "BSML",
+  "nama": "PT Bintang Samudera Mandiri Lines Tbk",
+  "sektor": "Industrials",
+  "industri": "Marine Shipping",
+  "harga": 550.0,
+  "rasio_kunci": {
+    "pe": 166.61617,
+    "pb": 7.66433,
+    "ps": 23.64184,
+    "roe": 0.014630001,
+    "roic": null,
+    "de": 13.346,
+    "margin_net": 0.04483,
+    "current_ratio": 1.243,
+    "dividend_yield": 0.0,
+    "eps": 3.301,
+    "bv": 71.761
+  },
+  "statistik": {
+    "market_cap": 1017623740416.0,
+    "enterprise_value": 1034876026880.0,
+    "shares_outstanding": 1850225000.0,
+    "float_shares": 356316331.0,
+    "free_float_pct": 0.19258000027023742,
+    "avg_volume": 13248912.0,
+    "beta": -0.413,
+    "harga": 550.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.268,
+    "vol_trend": 0.68,
+    "price_chg_20d": 4.76
+  },
+  "update": "2026-10-06 10:22"
+}

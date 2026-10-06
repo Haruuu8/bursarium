@@ -1,0 +1,50 @@
+{
+  "kode": "TBMS",
+  "nama": "PT Tembaga Mulia Semanan Tbk",
+  "sektor": "Industrials",
+  "industri": "Metal Fabrication",
+  "harga": 1195.0,
+  "rasio_kunci": {
+    "pe": 62894.74,
+    "pb": 11380.953,
+    "ps": 865.1141,
+    "roe": 0.05659,
+    "roic": null,
+    "de": 80.958,
+    "margin_net": 0.00421,
+    "current_ratio": 1.487,
+    "dividend_yield": 2.39,
+    "eps": 0.019,
+    "bv": 0.105
+  },
+  "statistik": {
+    "market_cap": 877942603776.0,
+    "enterprise_value": 877989330944.0,
+    "shares_outstanding": 734680000.0,
+    "float_shares": 100768709.0,
+    "free_float_pct": 0.13716000027222736,
+    "avg_volume": 30722.0,
+    "beta": 0.284,
+    "harga": 1195.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.103,
+    "vol_trend": 0.47,
+    "price_chg_20d": -2.45
+  },
+  "update": "2026-10-06 10:37"
+}

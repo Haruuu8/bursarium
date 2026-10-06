@@ -1,0 +1,50 @@
+{
+  "kode": "PEVE",
+  "nama": "PT. Penta Valent Tbk",
+  "sektor": "Healthcare",
+  "industri": "Pharmaceutical Retailers",
+  "harga": 322.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.5077941,
+    "ps": 0.15369968,
+    "roe": 0.16306,
+    "roic": null,
+    "de": 112.085,
+    "margin_net": 0.0155299995,
+    "current_ratio": 1.356,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 213.557
+  },
+  "statistik": {
+    "market_cap": 568531222528.0,
+    "enterprise_value": 975728803840.0,
+    "shares_outstanding": 1765625000.0,
+    "float_shares": 324875000.0,
+    "free_float_pct": 0.184,
+    "avg_volume": 1192422.0,
+    "beta": -0.199,
+    "harga": 322.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.479,
+    "vol_trend": 1.26,
+    "price_chg_20d": -1.24
+  },
+  "update": "2026-10-06 10:32"
+}

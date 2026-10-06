@@ -1,0 +1,50 @@
+{
+  "kode": "EAST",
+  "nama": "PT Eastparc Hotel Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Lodging",
+  "harga": 88.0,
+  "rasio_kunci": {
+    "pe": 21.245773,
+    "pb": 0.79157335,
+    "ps": 3.8200972,
+    "roe": 0.071090005,
+    "roic": null,
+    "de": 1.428,
+    "margin_net": 0.34861,
+    "current_ratio": 1.192,
+    "dividend_yield": 6.52,
+    "eps": 4.142,
+    "bv": 111.171
+  },
+  "statistik": {
+    "market_cap": 363123671040.0,
+    "enterprise_value": 363685052416.0,
+    "shares_outstanding": 4126405336.0,
+    "float_shares": 1587593189.0,
+    "free_float_pct": 0.38474000000663044,
+    "avg_volume": 1388630.0,
+    "beta": -0.253,
+    "harga": 88.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.372,
+    "vol_trend": 0.55,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

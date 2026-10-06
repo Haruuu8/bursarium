@@ -1,0 +1,50 @@
+{
+  "kode": "DADA",
+  "nama": "PT Diamond Citra Propertindo Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate Services",
+  "harga": 25.0,
+  "rasio_kunci": {
+    "pe": 7.4738417,
+    "pb": 0.5117707,
+    "ps": 3.1876702,
+    "roe": 0.02607,
+    "roic": null,
+    "de": 27.876,
+    "margin_net": 0.16014,
+    "current_ratio": 0.895,
+    "dividend_yield": 1.13,
+    "eps": 3.345,
+    "bv": 48.85
+  },
+  "statistik": {
+    "market_cap": 185788268544.0,
+    "enterprise_value": 285122527232.0,
+    "shares_outstanding": 7431530800.0,
+    "float_shares": 5796519709.0,
+    "free_float_pct": 0.779990000041445,
+    "avg_volume": 27168277.0,
+    "beta": 0.847,
+    "harga": 25.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.245,
+    "vol_trend": 3578.31,
+    "price_chg_20d": -50.0
+  },
+  "update": "2026-10-06 10:22"
+}

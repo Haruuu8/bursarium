@@ -1,0 +1,50 @@
+{
+  "kode": "CRSN",
+  "nama": "PT Carsurin Tbk",
+  "sektor": "Industrials",
+  "industri": "Specialty Business Services",
+  "harga": 149.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.8516906,
+    "ps": 0.8395736,
+    "roe": 0.025239998,
+    "roic": null,
+    "de": 42.922,
+    "margin_net": 0.011410001,
+    "current_ratio": 2.085,
+    "dividend_yield": 0.22,
+    "eps": null,
+    "bv": 80.467
+  },
+  "statistik": {
+    "market_cap": 430908014592.0,
+    "enterprise_value": 519113768960.0,
+    "shares_outstanding": 2892000000.0,
+    "float_shares": 592223760.0,
+    "free_float_pct": 0.20478,
+    "avg_volume": 2545176.0,
+    "beta": 0.378,
+    "harga": 149.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.555,
+    "vol_trend": 0.23,
+    "price_chg_20d": 7.19
+  },
+  "update": "2026-10-06 10:22"
+}

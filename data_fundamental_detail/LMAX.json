@@ -1,0 +1,50 @@
+{
+  "kode": "LMAX",
+  "nama": "PT Lupromax Pelumas Indonesia Tbk",
+  "sektor": "Energy",
+  "industri": "Oil & Gas Refining & Marketing",
+  "harga": 99.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.256106,
+    "ps": 0.9503528,
+    "roe": 0.0143099995,
+    "roic": null,
+    "de": 11.905,
+    "margin_net": 0.01074,
+    "current_ratio": 3.907,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 78.815
+  },
+  "statistik": {
+    "market_cap": 64350867456.0,
+    "enterprise_value": 42606432256.0,
+    "shares_outstanding": 650008775.0,
+    "float_shares": 159531654.0,
+    "free_float_pct": 0.24543000054114655,
+    "avg_volume": 959833.0,
+    "beta": -0.374,
+    "harga": 99.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.244,
+    "vol_trend": 0.93,
+    "price_chg_20d": -9.01
+  },
+  "update": "2026-10-06 10:23"
+}

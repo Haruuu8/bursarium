@@ -1,0 +1,50 @@
+{
+  "kode": "OLIV",
+  "nama": "PT Atlas Nexus Group Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Furnishings, Fixtures & Appliances",
+  "harga": 52.0,
+  "rasio_kunci": {
+    "pe": 56.955093,
+    "pb": 2.9094167,
+    "ps": 5.8906684,
+    "roe": -0.21802,
+    "roic": null,
+    "de": 0.53,
+    "margin_net": -0.49563,
+    "current_ratio": 41.111,
+    "dividend_yield": 0.0,
+    "eps": 0.913,
+    "bv": 17.873
+  },
+  "statistik": {
+    "market_cap": 98803810304.0,
+    "enterprise_value": 92906602496.0,
+    "shares_outstanding": 1900073314.0,
+    "float_shares": 512981793.0,
+    "free_float_pct": 0.26997999983489057,
+    "avg_volume": 11702731.0,
+    "beta": 0.32,
+    "harga": 52.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.355,
+    "vol_trend": 0.15,
+    "price_chg_20d": -20.63
+  },
+  "update": "2026-10-06 10:32"
+}

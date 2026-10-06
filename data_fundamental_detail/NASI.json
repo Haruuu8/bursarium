@@ -1,0 +1,50 @@
+{
+  "kode": "NASI",
+  "nama": "PT Wahana Inti Makmur Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 176.0,
+  "rasio_kunci": {
+    "pe": 34.969204,
+    "pb": 2.583752,
+    "ps": 4.0169644,
+    "roe": -0.09042,
+    "roic": null,
+    "de": 14.656,
+    "margin_net": -0.14717,
+    "current_ratio": 4.025,
+    "dividend_yield": 0.0,
+    "eps": 5.033,
+    "bv": 68.118
+  },
+  "statistik": {
+    "market_cap": 142102396928.0,
+    "enterprise_value": 150463463424.0,
+    "shares_outstanding": 807400000.0,
+    "float_shares": 191022766.0,
+    "free_float_pct": 0.23659,
+    "avg_volume": 17350268.0,
+    "beta": 0.196,
+    "harga": 176.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.159,
+    "vol_trend": 0.94,
+    "price_chg_20d": 8.59
+  },
+  "update": "2026-10-06 10:31"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "KKES",
+  "nama": "PT Kusuma Kemindo Sentosa Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 71.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.6719258,
+    "ps": 0.47049373,
+    "roe": 0.01716,
+    "roic": null,
+    "de": 62.892,
+    "margin_net": 0.00478,
+    "current_ratio": 1.63,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 42.466
+  },
+  "statistik": {
+    "market_cap": 106499997696.0,
+    "enterprise_value": 144075784192.0,
+    "shares_outstanding": 1500000000.0,
+    "float_shares": 500430000.0,
+    "free_float_pct": 0.33362,
+    "avg_volume": 60118851.0,
+    "beta": -0.068,
+    "harga": 71.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.06,
+    "vol_trend": 0.78,
+    "price_chg_20d": -23.91
+  },
+  "update": "2026-10-06 10:23"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "NANO",
+  "nama": "PT Nanotech Indonesia Global Tbk",
+  "sektor": "Healthcare",
+  "industri": "Medical Devices",
+  "harga": 27.0,
+  "rasio_kunci": {
+    "pe": 10.35276,
+    "pb": 0.6797241,
+    "ps": 0.48649165,
+    "roe": 0.01617,
+    "roic": null,
+    "de": 10.558,
+    "margin_net": 0.01753,
+    "current_ratio": 2.922,
+    "dividend_yield": 0.0,
+    "eps": 2.608,
+    "bv": 39.722
+  },
+  "statistik": {
+    "market_cap": 115701317632.0,
+    "enterprise_value": 129039343616.0,
+    "shares_outstanding": 4285233928.0,
+    "float_shares": 2127532941.0,
+    "free_float_pct": 0.4964800000995418,
+    "avg_volume": 47024950.0,
+    "beta": 0.062,
+    "harga": 27.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.257,
+    "vol_trend": 2.27,
+    "price_chg_20d": -23.53
+  },
+  "update": "2026-10-06 10:31"
+}

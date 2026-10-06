@@ -1,0 +1,50 @@
+{
+  "kode": "NZIA",
+  "nama": "PT Nusantara Almazia Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 155.0,
+  "rasio_kunci": {
+    "pe": 117.87072,
+    "pb": 0.74379057,
+    "ps": 7.4357285,
+    "roe": -0.02683,
+    "roic": null,
+    "de": 10.66,
+    "margin_net": -0.29606,
+    "current_ratio": 5.975,
+    "dividend_yield": 0.0,
+    "eps": 1.315,
+    "bv": 208.392
+  },
+  "statistik": {
+    "market_cap": 340618805248.0,
+    "enterprise_value": 404432027648.0,
+    "shares_outstanding": 2197540705.0,
+    "float_shares": 461549474.0,
+    "free_float_pct": 0.21002999987661206,
+    "avg_volume": 31556417.0,
+    "beta": 0.736,
+    "harga": 155.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.687,
+    "vol_trend": 0.07,
+    "price_chg_20d": -22.22
+  },
+  "update": "2026-10-06 10:32"
+}

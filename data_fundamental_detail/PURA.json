@@ -1,0 +1,50 @@
+{
+  "kode": "PURA",
+  "nama": "PT Putra Rajawali Kencana Tbk",
+  "sektor": "Industrials",
+  "industri": "Trucking",
+  "harga": 37.0,
+  "rasio_kunci": {
+    "pe": 25.570145,
+    "pb": 0.44791475,
+    "ps": 0.51288605,
+    "roe": 0.02296,
+    "roic": null,
+    "de": 26.391,
+    "margin_net": 0.02599,
+    "current_ratio": 1.785,
+    "dividend_yield": 0.0,
+    "eps": 1.447,
+    "bv": 82.605
+  },
+  "statistik": {
+    "market_cap": 233171451904.0,
+    "enterprise_value": 367426600960.0,
+    "shares_outstanding": 6301930902.0,
+    "float_shares": 3751602485.0,
+    "free_float_pct": 0.5953099999572163,
+    "avg_volume": 10385530.0,
+    "beta": 0.431,
+    "harga": 37.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 9,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.094,
+    "vol_trend": 6.04,
+    "price_chg_20d": 15.62
+  },
+  "update": "2026-10-06 10:34"
+}

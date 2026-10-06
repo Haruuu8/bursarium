@@ -1,0 +1,50 @@
+{
+  "kode": "AXIO",
+  "nama": "PT Tera Data Indonusa Tbk",
+  "sektor": "Technology",
+  "industri": "Computer Hardware",
+  "harga": 116.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.2682863,
+    "ps": 0.39208186,
+    "roe": 0.13726,
+    "roic": null,
+    "de": 55.415,
+    "margin_net": 0.04359,
+    "current_ratio": 1.25,
+    "dividend_yield": 7.76,
+    "eps": null,
+    "bv": 91.462
+  },
+  "statistik": {
+    "market_cap": 677454675968.0,
+    "enterprise_value": 999997505536.0,
+    "shares_outstanding": 5840126500.0,
+    "float_shares": 1188582545.0,
+    "free_float_pct": 0.20351999995205583,
+    "avg_volume": 1319000.0,
+    "beta": 0.129,
+    "harga": 116.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.068,
+    "vol_trend": 0.75,
+    "price_chg_20d": -0.85
+  },
+  "update": "2026-10-06 10:21"
+}

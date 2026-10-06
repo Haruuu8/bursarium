@@ -1,0 +1,50 @@
+{
+  "kode": "GDYR",
+  "nama": "PT Goodyear Indonesia Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Auto Parts",
+  "harga": 1125.0,
+  "rasio_kunci": {
+    "pe": 187500.0,
+    "pb": 7550.3354,
+    "ps": 3149.5642,
+    "roe": 0.03205,
+    "roic": null,
+    "de": 2.085,
+    "margin_net": 0.01314,
+    "current_ratio": 1.189,
+    "dividend_yield": 0.0,
+    "eps": 0.006,
+    "bv": 0.149
+  },
+  "statistik": {
+    "market_cap": 461250002944.0,
+    "enterprise_value": 461233618944.0,
+    "shares_outstanding": 410000000.0,
+    "float_shares": 61500000.0,
+    "free_float_pct": 0.15,
+    "avg_volume": 20403.0,
+    "beta": 0.134,
+    "harga": 1125.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.182,
+    "vol_trend": 12.7,
+    "price_chg_20d": -0.44
+  },
+  "update": "2026-10-06 10:22"
+}

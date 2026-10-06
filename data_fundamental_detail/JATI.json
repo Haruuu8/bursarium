@@ -1,0 +1,50 @@
+{
+  "kode": "JATI",
+  "nama": "PT Informasi Teknologi Indonesia Tbk",
+  "sektor": "Technology",
+  "industri": "Information Technology Services",
+  "harga": 110.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.968187,
+    "ps": 0.38748822,
+    "roe": null,
+    "roic": null,
+    "de": 105.994,
+    "margin_net": 0.02103,
+    "current_ratio": 1.647,
+    "dividend_yield": 1.72,
+    "eps": null,
+    "bv": 55.889
+  },
+  "statistik": {
+    "market_cap": 358877200384.0,
+    "enterprise_value": 529893228544.0,
+    "shares_outstanding": 3262520106.0,
+    "float_shares": 652340688.0,
+    "free_float_pct": 0.19994993649243736,
+    "avg_volume": 18413504.0,
+    "beta": 0.173,
+    "harga": 110.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.098,
+    "vol_trend": 0.41,
+    "price_chg_20d": -0.89
+  },
+  "update": "2026-10-06 10:23"
+}

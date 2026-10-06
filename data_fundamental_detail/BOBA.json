@@ -1,0 +1,50 @@
+{
+  "kode": "BOBA",
+  "nama": "PT Formosa Ingredient Factory Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 195.0,
+  "rasio_kunci": {
+    "pe": 11.493576,
+    "pb": 1.3327591,
+    "ps": 1.2199063,
+    "roe": 0.11755,
+    "roic": null,
+    "de": 0.32,
+    "margin_net": 0.10441,
+    "current_ratio": 1.881,
+    "dividend_yield": 4.17,
+    "eps": 16.966,
+    "bv": 146.313
+  },
+  "statistik": {
+    "market_cap": 225371258880.0,
+    "enterprise_value": 212720107520.0,
+    "shares_outstanding": 1155750000.0,
+    "float_shares": 128438498.0,
+    "free_float_pct": 0.11113000043261952,
+    "avg_volume": 1215371.0,
+    "beta": 1.088,
+    "harga": 195.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.708,
+    "vol_trend": 0.13,
+    "price_chg_20d": -9.81
+  },
+  "update": "2026-10-06 10:22"
+}

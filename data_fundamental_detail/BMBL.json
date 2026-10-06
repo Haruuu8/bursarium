@@ -1,0 +1,50 @@
+{
+  "kode": "BMBL",
+  "nama": "PT Lavender Bina Cendikia Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Education & Training Services",
+  "harga": 30.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.46173027,
+    "ps": 2.1403067,
+    "roe": -0.046680003,
+    "roic": null,
+    "de": 2.329,
+    "margin_net": -0.22158001,
+    "current_ratio": 4.487,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 64.973
+  },
+  "statistik": {
+    "market_cap": 30902431744.0,
+    "enterprise_value": 32166723584.0,
+    "shares_outstanding": 1030080995.0,
+    "float_shares": 603946788.0,
+    "free_float_pct": 0.5863099998267612,
+    "avg_volume": 14888425.0,
+    "beta": 1.277,
+    "harga": 30.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.046,
+    "vol_trend": 0.26,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "PURI",
+  "nama": "PT Puri Global Sukses Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 143.0,
+  "rasio_kunci": {
+    "pe": 26.252983,
+    "pb": 1.5881125,
+    "ps": 2.9252002,
+    "roe": 0.01244,
+    "roic": null,
+    "de": 181.802,
+    "margin_net": 0.0571,
+    "current_ratio": 1.126,
+    "dividend_yield": 0.0,
+    "eps": 5.447,
+    "bv": 90.044
+  },
+  "statistik": {
+    "market_cap": 142999994368.0,
+    "enterprise_value": 359681916928.0,
+    "shares_outstanding": 1000000000.0,
+    "float_shares": 147350000.0,
+    "free_float_pct": 0.14735,
+    "avg_volume": 5478049.0,
+    "beta": 0.909,
+    "harga": 143.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.38,
+    "vol_trend": 0.05,
+    "price_chg_20d": -7.74
+  },
+  "update": "2026-10-06 10:34"
+}

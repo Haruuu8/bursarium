@@ -1,0 +1,50 @@
+{
+  "kode": "AKKU",
+  "nama": "PT Anugerah Kagum Karya Utama Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Lodging",
+  "harga": 54.0,
+  "rasio_kunci": {
+    "pe": 477.87613,
+    "pb": 0.8884063,
+    "ps": 44.201195,
+    "roe": -0.06454,
+    "roic": null,
+    "de": 18.069,
+    "margin_net": 0.0,
+    "current_ratio": 2.828,
+    "dividend_yield": 0.0,
+    "eps": 0.113,
+    "bv": 60.783
+  },
+  "statistik": {
+    "market_cap": 348271050752.0,
+    "enterprise_value": 413777985536.0,
+    "shares_outstanding": 6449463636.0,
+    "float_shares": 3938042496.0,
+    "free_float_pct": 0.6105999999780447,
+    "avg_volume": 2562231.0,
+    "beta": 0.549,
+    "harga": 54.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.291,
+    "vol_trend": 1.0,
+    "price_chg_20d": 42.11
+  },
+  "update": "2026-10-06 10:21"
+}

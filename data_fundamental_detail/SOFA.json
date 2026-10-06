@@ -1,0 +1,50 @@
+{
+  "kode": "SOFA",
+  "nama": "PT Solusi Environment Asia Tbk",
+  "sektor": "Utilities",
+  "industri": "Utilities - Renewable",
+  "harga": 238.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 11.837262,
+    "ps": 9.055851,
+    "roe": -0.29302,
+    "roic": null,
+    "de": 1.097,
+    "margin_net": -0.2634,
+    "current_ratio": 1.588,
+    "dividend_yield": 0.0,
+    "eps": -2.134,
+    "bv": 20.106
+  },
+  "statistik": {
+    "market_cap": 393550725120.0,
+    "enterprise_value": 408381194240.0,
+    "shares_outstanding": 1653574499.0,
+    "float_shares": 480082284.0,
+    "free_float_pct": 0.2903299998217982,
+    "avg_volume": 5131284.0,
+    "beta": 1.304,
+    "harga": 238.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.021,
+    "vol_trend": 1.1,
+    "price_chg_20d": -20.51
+  },
+  "update": "2026-10-06 10:36"
+}

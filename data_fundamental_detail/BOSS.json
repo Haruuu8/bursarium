@@ -1,0 +1,67 @@
+{
+  "kode": "BOSS",
+  "nama": "PT. Borneo Olah Sarana Sukses Tbk",
+  "sektor": "",
+  "industri": "",
+  "harga": 50.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -0.41981882,
+    "ps": null,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": null,
+    "current_ratio": null,
+    "dividend_yield": null,
+    "eps": null,
+    "bv": -119.099
+  },
+  "statistik": {
+    "market_cap": 70000001024.0,
+    "enterprise_value": null,
+    "shares_outstanding": 1400000000.0,
+    "float_shares": null,
+    "free_float_pct": null,
+    "avg_volume": null,
+    "beta": null,
+    "harga": 50.0
+  },
+  "riwayat": {
+    "eps": {
+      "2022": 27.88,
+      "2021": -118.0
+    },
+    "revenue": {
+      "2022": 456751065782.0,
+      "2021": 43523306126.0
+    },
+    "revenue_per_share": {
+      "2022": 326.2507612728571,
+      "2021": 31.088075804285715
+    },
+    "net_income": {
+      "2022": 39029782584.0,
+      "2021": -165363324167.0
+    }
+  },
+  "tren": {
+    "roe": {},
+    "roa": {
+      "2022": 5.582795573284756,
+      "2021": -31.586453839967522
+    },
+    "pe": {
+      "2022": 3.192252510760402
+    }
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

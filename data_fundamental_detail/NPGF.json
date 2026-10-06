@@ -1,0 +1,50 @@
+{
+  "kode": "NPGF",
+  "nama": "PT Nusa Palapa Gemilang Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Agricultural Inputs",
+  "harga": 44.0,
+  "rasio_kunci": {
+    "pe": 1466.6667,
+    "pb": 0.59125483,
+    "ps": 0.45968968,
+    "roe": 0.021070002,
+    "roic": null,
+    "de": 76.358,
+    "margin_net": 0.016210001,
+    "current_ratio": 1.776,
+    "dividend_yield": 0.68,
+    "eps": 0.03,
+    "bv": 74.418
+  },
+  "statistik": {
+    "market_cap": 142570373120.0,
+    "enterprise_value": 320046727168.0,
+    "shares_outstanding": 3240235840.0,
+    "float_shares": 644968944.0,
+    "free_float_pct": 0.19905000001481374,
+    "avg_volume": 25535690.0,
+    "beta": 0.256,
+    "harga": 44.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.444,
+    "vol_trend": 2.65,
+    "price_chg_20d": -24.14
+  },
+  "update": "2026-10-06 10:32"
+}

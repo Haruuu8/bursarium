@@ -1,0 +1,50 @@
+{
+  "kode": "OKAS",
+  "nama": "PT Ancora Indonesia Resources Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 103.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 14714.285,
+    "ps": 1510.0746,
+    "roe": 0.06567,
+    "roic": null,
+    "de": 70.501,
+    "margin_net": -0.025940001,
+    "current_ratio": 1.287,
+    "dividend_yield": 0.0,
+    "eps": -0.003,
+    "bv": 0.007
+  },
+  "statistik": {
+    "market_cap": 244465270784.0,
+    "enterprise_value": 239791063040.0,
+    "shares_outstanding": 2373449165.0,
+    "float_shares": 550023109.0,
+    "free_float_pct": 0.23173999979055798,
+    "avg_volume": 8060228.0,
+    "beta": 0.037,
+    "harga": 103.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.385,
+    "vol_trend": 0.52,
+    "price_chg_20d": -17.21
+  },
+  "update": "2026-10-06 10:32"
+}

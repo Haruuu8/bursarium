@@ -1,0 +1,50 @@
+{
+  "kode": "INRU",
+  "nama": "PT Toba Pulp Lestari Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Paper & Paper Products",
+  "harga": 590.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 98333.336,
+    "ps": 10316.779,
+    "roe": -1.64614,
+    "roic": null,
+    "de": 4196.38,
+    "margin_net": -0.97248,
+    "current_ratio": 0.886,
+    "dividend_yield": null,
+    "eps": 0.0,
+    "bv": 0.006
+  },
+  "statistik": {
+    "market_cap": 819441172480.0,
+    "enterprise_value": 819785236480.0,
+    "shares_outstanding": 1388883283.0,
+    "float_shares": 103624582.0,
+    "free_float_pct": 0.07461000018386714,
+    "avg_volume": 0.0,
+    "beta": 0.174,
+    "harga": 590.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

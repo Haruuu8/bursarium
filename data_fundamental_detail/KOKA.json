@@ -1,0 +1,50 @@
+{
+  "kode": "KOKA",
+  "nama": "PT Koka Indonesia Tbk",
+  "sektor": "Industrials",
+  "industri": "Engineering & Construction",
+  "harga": 155.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.0159748,
+    "ps": 6.006025,
+    "roe": -0.09872,
+    "roic": null,
+    "de": 2.962,
+    "margin_net": -0.20671,
+    "current_ratio": 2.571,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 51.393
+  },
+  "statistik": {
+    "market_cap": 443506622464.0,
+    "enterprise_value": 429808713728.0,
+    "shares_outstanding": 2861333000.0,
+    "float_shares": 1190514821.0,
+    "free_float_pct": 0.4160699998916589,
+    "avg_volume": 49091973.0,
+    "beta": 0.093,
+    "harga": 155.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.006,
+    "vol_trend": 0.19,
+    "price_chg_20d": -15.17
+  },
+  "update": "2026-10-06 10:23"
+}

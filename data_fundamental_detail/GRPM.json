@@ -1,0 +1,50 @@
+{
+  "kode": "GRPM",
+  "nama": "PT Graha Prima Mentari Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Beverages - Non-Alcoholic",
+  "harga": 129.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.5782983,
+    "ps": 0.224181,
+    "roe": 0.07073,
+    "roic": null,
+    "de": 24.425,
+    "margin_net": 0.00538,
+    "current_ratio": 1.62,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 50.033
+  },
+  "statistik": {
+    "market_cap": 202744971264.0,
+    "enterprise_value": 222526603264.0,
+    "shares_outstanding": 1571666469.0,
+    "float_shares": 326676013.0,
+    "free_float_pct": 0.2078532687713655,
+    "avg_volume": 5949226.0,
+    "beta": 1.827,
+    "harga": 129.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.039,
+    "vol_trend": 0.68,
+    "price_chg_20d": -23.21
+  },
+  "update": "2026-10-06 10:22"
+}

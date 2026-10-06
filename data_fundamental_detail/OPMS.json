@@ -1,0 +1,50 @@
+{
+  "kode": "OPMS",
+  "nama": "PT Optima Prima Metal Sinergi Tbk",
+  "sektor": "Industrials",
+  "industri": "Waste Management",
+  "harga": 93.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.0252227,
+    "ps": 11.824816,
+    "roe": -0.081499994,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.94098,
+    "current_ratio": 49.756,
+    "dividend_yield": 0.0,
+    "eps": -1.108,
+    "bv": 90.712
+  },
+  "statistik": {
+    "market_cap": 77848395776.0,
+    "enterprise_value": 60579737600.0,
+    "shares_outstanding": 837079500.0,
+    "float_shares": 239178726.0,
+    "free_float_pct": 0.2857300005555028,
+    "avg_volume": 17457885.0,
+    "beta": 0.633,
+    "harga": 93.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.222,
+    "vol_trend": 1.51,
+    "price_chg_20d": -24.59
+  },
+  "update": "2026-10-06 10:32"
+}

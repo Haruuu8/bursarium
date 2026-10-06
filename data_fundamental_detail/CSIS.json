@@ -1,0 +1,50 @@
+{
+  "kode": "CSIS",
+  "nama": "PT Cahayasakti Investindo Sukses Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 210.0,
+  "rasio_kunci": {
+    "pe": 30.355593,
+    "pb": 0.9802686,
+    "ps": 2.8823986,
+    "roe": 0.11611,
+    "roic": null,
+    "de": 6.865,
+    "margin_net": 0.21077,
+    "current_ratio": 4.776,
+    "dividend_yield": 1.79,
+    "eps": 6.918,
+    "bv": 214.227
+  },
+  "statistik": {
+    "market_cap": 384258867200.0,
+    "enterprise_value": 516071260160.0,
+    "shares_outstanding": 1829804156.0,
+    "float_shares": 277470872.0,
+    "free_float_pct": 0.15163965558290055,
+    "avg_volume": 3117187.0,
+    "beta": 0.248,
+    "harga": 210.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.291,
+    "vol_trend": 2.01,
+    "price_chg_20d": -22.94
+  },
+  "update": "2026-10-06 10:22"
+}

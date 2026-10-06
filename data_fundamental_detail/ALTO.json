@@ -1,0 +1,50 @@
+{
+  "kode": "ALTO",
+  "nama": "PT Tri Banyan Tirta Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Beverages - Non-Alcoholic",
+  "harga": 18.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.13290901,
+    "ps": 0.3486178,
+    "roe": -0.13365,
+    "roic": null,
+    "de": 191.36,
+    "margin_net": -0.37592,
+    "current_ratio": 0.644,
+    "dividend_yield": null,
+    "eps": -3.582,
+    "bv": 135.431
+  },
+  "statistik": {
+    "market_cap": 39453667328.0,
+    "enterprise_value": 609944600576.0,
+    "shares_outstanding": 2191870558.0,
+    "float_shares": 1034694416.0,
+    "free_float_pct": 0.47206000017816746,
+    "avg_volume": 0.0,
+    "beta": -0.012,
+    "harga": 18.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:21"
+}

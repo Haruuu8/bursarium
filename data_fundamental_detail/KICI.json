@@ -1,0 +1,50 @@
+{
+  "kode": "KICI",
+  "nama": "PT Kedaung Indah Can Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Furnishings, Fixtures & Appliances",
+  "harga": 270.0,
+  "rasio_kunci": {
+    "pe": 3.6516092,
+    "pb": 0.6765798,
+    "ps": 0.77692527,
+    "roe": -0.0286,
+    "roic": null,
+    "de": 28.897,
+    "margin_net": -0.03105,
+    "current_ratio": 5.326,
+    "dividend_yield": 0.0,
+    "eps": 73.94,
+    "bv": 399.066
+  },
+  "statistik": {
+    "market_cap": 74520002560.0,
+    "enterprise_value": 104386568192.0,
+    "shares_outstanding": 276000000.0,
+    "float_shares": 68318280.0,
+    "free_float_pct": 0.24753,
+    "avg_volume": 8117101.0,
+    "beta": 0.802,
+    "harga": 270.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.456,
+    "vol_trend": 0.15,
+    "price_chg_20d": 0.75
+  },
+  "update": "2026-10-06 10:23"
+}

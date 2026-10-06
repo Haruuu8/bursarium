@@ -1,0 +1,50 @@
+{
+  "kode": "ACRO",
+  "nama": "PT Samcro Hyosung Adilestari Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Apparel Manufacturing",
+  "harga": 52.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.99240434,
+    "ps": 3.936168,
+    "roe": null,
+    "roic": null,
+    "de": 24.763,
+    "margin_net": 0.16659,
+    "current_ratio": 1.154,
+    "dividend_yield": 6.14,
+    "eps": null,
+    "bv": 52.398
+  },
+  "statistik": {
+    "market_cap": 180405960704.0,
+    "enterprise_value": 187013120000.0,
+    "shares_outstanding": 3469345537.0,
+    "float_shares": 749274556.0,
+    "free_float_pct": 0.21597000010783302,
+    "avg_volume": 16265173.0,
+    "beta": 0.434,
+    "harga": 52.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.567,
+    "vol_trend": 1.76,
+    "price_chg_20d": -25.37
+  },
+  "update": "2026-10-06 10:19"
+}

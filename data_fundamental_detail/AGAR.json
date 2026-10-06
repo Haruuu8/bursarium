@@ -1,0 +1,50 @@
+{
+  "kode": "AGAR",
+  "nama": "PT Asia Sejahtera Mina Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 2050.0,
+  "rasio_kunci": {
+    "pe": 1030.1508,
+    "pb": 18.135654,
+    "ps": 7.130199,
+    "roe": 0.065,
+    "roic": null,
+    "de": 43.373,
+    "margin_net": 0.02478,
+    "current_ratio": 1.661,
+    "dividend_yield": 0.0,
+    "eps": 1.99,
+    "bv": 113.037
+  },
+  "statistik": {
+    "market_cap": 2050000027648.0,
+    "enterprise_value": 1976587911168.0,
+    "shares_outstanding": 1000000000.0,
+    "float_shares": 250070000.0,
+    "free_float_pct": 0.25007,
+    "avg_volume": 991367.0,
+    "beta": 0.523,
+    "harga": 2050.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.196,
+    "vol_trend": 0.66,
+    "price_chg_20d": 32.99
+  },
+  "update": "2026-10-06 10:20"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "KOPI",
+  "nama": "PT Mitra Energi Persada Tbk",
+  "sektor": "Energy",
+  "industri": "Oil & Gas Refining & Marketing",
+  "harga": 195.0,
+  "rasio_kunci": {
+    "pe": 81.82963,
+    "pb": 1.844774,
+    "ps": 0.51367307,
+    "roe": 0.12543,
+    "roic": null,
+    "de": 157.124,
+    "margin_net": 0.03313,
+    "current_ratio": 1.087,
+    "dividend_yield": 0.0,
+    "eps": 2.383,
+    "bv": 105.704
+  },
+  "statistik": {
+    "market_cap": 135967006720.0,
+    "enterprise_value": 253360848896.0,
+    "shares_outstanding": 697266668.0,
+    "float_shares": 47937083.0,
+    "free_float_pct": 0.0687499993904771,
+    "avg_volume": 2727426.0,
+    "beta": 0.239,
+    "harga": 195.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.737,
+    "vol_trend": 0.08,
+    "price_chg_20d": -6.25
+  },
+  "update": "2026-10-06 10:23"
+}

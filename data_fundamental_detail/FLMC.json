@@ -1,0 +1,50 @@
+{
+  "kode": "FLMC",
+  "nama": "PT Falmaco Nonwoven Industri Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Household & Personal Products",
+  "harga": 156.0,
+  "rasio_kunci": {
+    "pe": 9.67082,
+    "pb": 9.14259,
+    "ps": 8.011203,
+    "roe": -1.8023599,
+    "roic": null,
+    "de": 49.507,
+    "margin_net": -2.85992,
+    "current_ratio": 0.317,
+    "dividend_yield": 0.0,
+    "eps": 16.131,
+    "bv": 17.063
+  },
+  "statistik": {
+    "market_cap": 121874997248.0,
+    "enterprise_value": 129714290688.0,
+    "shares_outstanding": 781250000.0,
+    "float_shares": 303632813.0,
+    "free_float_pct": 0.38865000064,
+    "avg_volume": 5893853.0,
+    "beta": 1.565,
+    "harga": 156.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.208,
+    "vol_trend": 0.96,
+    "price_chg_20d": 28.46
+  },
+  "update": "2026-10-06 10:22"
+}

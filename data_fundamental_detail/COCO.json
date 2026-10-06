@@ -1,0 +1,50 @@
+{
+  "kode": "COCO",
+  "nama": "PT Wahana Interfood Nusantara Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Confectioners",
+  "harga": 131.0,
+  "rasio_kunci": {
+    "pe": 18.006872,
+    "pb": 5.671487,
+    "ps": 10.7354555,
+    "roe": -4.01938,
+    "roic": null,
+    "de": 431.349,
+    "margin_net": -1.1428701,
+    "current_ratio": 1.63,
+    "dividend_yield": 0.0,
+    "eps": 7.275,
+    "bv": 23.098
+  },
+  "statistik": {
+    "market_cap": 1865154953216.0,
+    "enterprise_value": 789934768128.0,
+    "shares_outstanding": 14237823696.0,
+    "float_shares": 1681985302.0,
+    "free_float_pct": 0.11813499997703582,
+    "avg_volume": 663435733.0,
+    "beta": 0.713,
+    "harga": 131.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.103,
+    "vol_trend": 0.58,
+    "price_chg_20d": -8.33
+  },
+  "update": "2026-10-06 10:22"
+}

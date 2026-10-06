@@ -1,0 +1,50 @@
+{
+  "kode": "RUNS",
+  "nama": "PT Global Sukses Solusi Tbk",
+  "sektor": "Technology",
+  "industri": "Software - Application",
+  "harga": 68.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.2705531,
+    "ps": 4.826615,
+    "roe": -0.15392,
+    "roic": null,
+    "de": 22.146,
+    "margin_net": -0.6684,
+    "current_ratio": 1.025,
+    "dividend_yield": 0.0,
+    "eps": -12.858,
+    "bv": 53.52
+  },
+  "statistik": {
+    "market_cap": 66699116544.0,
+    "enterprise_value": 83783794688.0,
+    "shares_outstanding": 980869375.0,
+    "float_shares": 203687334.0,
+    "free_float_pct": 0.20765999957945472,
+    "avg_volume": 1916306.0,
+    "beta": 0.318,
+    "harga": 68.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": 0.047,
+    "vol_trend": 0.39,
+    "price_chg_20d": -9.09
+  },
+  "update": "2026-10-06 10:35"
+}

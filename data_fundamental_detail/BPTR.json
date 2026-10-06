@@ -1,0 +1,50 @@
+{
+  "kode": "BPTR",
+  "nama": "PT Batavia Prosperindo Trans Tbk",
+  "sektor": "Industrials",
+  "industri": "Rental & Leasing Services",
+  "harga": 71.0,
+  "rasio_kunci": {
+    "pe": 8.572809,
+    "pb": 0.39598218,
+    "ps": 0.3706654,
+    "roe": 0.06366,
+    "roic": null,
+    "de": 225.417,
+    "margin_net": 0.057340004,
+    "current_ratio": 0.441,
+    "dividend_yield": 0.0,
+    "eps": 8.282,
+    "bv": 179.301
+  },
+  "statistik": {
+    "market_cap": 250914013184.0,
+    "enterprise_value": 1666796879872.0,
+    "shares_outstanding": 3534000000.0,
+    "float_shares": 718391520.0,
+    "free_float_pct": 0.20328,
+    "avg_volume": 10977684.0,
+    "beta": 0.381,
+    "harga": 71.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": 0.258,
+    "vol_trend": 1.97,
+    "price_chg_20d": -5.33
+  },
+  "update": "2026-10-06 10:22"
+}

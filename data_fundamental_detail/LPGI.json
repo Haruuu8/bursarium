@@ -1,0 +1,50 @@
+{
+  "kode": "LPGI",
+  "nama": "PT Lippo General Insurance Tbk",
+  "sektor": "Financial Services",
+  "industri": "Insurance - Diversified",
+  "harga": 645.0,
+  "rasio_kunci": {
+    "pe": 12.274025,
+    "pb": 1.7332746,
+    "ps": 0.39014566,
+    "roe": 0.14994,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.03179,
+    "current_ratio": 0.784,
+    "dividend_yield": 1.55,
+    "eps": 52.55,
+    "bv": 372.128
+  },
+  "statistik": {
+    "market_cap": 1934999945216.0,
+    "enterprise_value": 1842737577984.0,
+    "shares_outstanding": 3000000000.0,
+    "float_shares": 226020000.0,
+    "free_float_pct": 0.07534,
+    "avg_volume": 24369.0,
+    "beta": 0.063,
+    "harga": 645.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.11,
+    "vol_trend": 0.92,
+    "price_chg_20d": 0.78
+  },
+  "update": "2026-10-06 10:23"
+}

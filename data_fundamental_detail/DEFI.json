@@ -1,0 +1,50 @@
+{
+  "kode": "DEFI",
+  "nama": "PT Danasupra Erapacific Tbk",
+  "sektor": "Financial Services",
+  "industri": "Credit Services",
+  "harga": 93.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.6018353,
+    "ps": 10.8898115,
+    "roe": -0.36126998,
+    "roic": null,
+    "de": 5.774,
+    "margin_net": -1.85674,
+    "current_ratio": 4.498,
+    "dividend_yield": 0.0,
+    "eps": -4.198,
+    "bv": 35.744
+  },
+  "statistik": {
+    "market_cap": 62868000768.0,
+    "enterprise_value": 63150714880.0,
+    "shares_outstanding": 676000000.0,
+    "float_shares": 392384200.0,
+    "free_float_pct": 0.58045,
+    "avg_volume": 48214398.0,
+    "beta": 0.889,
+    "harga": 93.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.124,
+    "vol_trend": 0.4,
+    "price_chg_20d": -14.95
+  },
+  "update": "2026-10-06 10:22"
+}

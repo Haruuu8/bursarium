@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+yfinance
+scipy
+openpyxl
+requests
+beautifulsoup4
+scrapling
+curl_cffi

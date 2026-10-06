@@ -1,0 +1,50 @@
+{
+  "kode": "BIKA",
+  "nama": "PT Binakarya Jaya Abadi Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 55.0,
+  "rasio_kunci": {
+    "pe": 0.5161944,
+    "pb": -0.19020678,
+    "ps": 0.13057889,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.19704,
+    "current_ratio": 1.13,
+    "dividend_yield": null,
+    "eps": 106.549,
+    "bv": -289.159
+  },
+  "statistik": {
+    "market_cap": 32575399936.0,
+    "enterprise_value": 1049246826496.0,
+    "shares_outstanding": 592280000.0,
+    "float_shares": 164730836.0,
+    "free_float_pct": 0.2781299993246438,
+    "avg_volume": 0.0,
+    "beta": 0.119,
+    "harga": 55.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "SOSS",
+  "nama": "PT Alsok Indonesia Services Tbk",
+  "sektor": "Industrials",
+  "industri": "Staffing & Employment Services",
+  "harga": 1030.0,
+  "rasio_kunci": {
+    "pe": 23.286835,
+    "pb": 6.1060915,
+    "ps": 0.39072677,
+    "roe": -0.100509994,
+    "roic": null,
+    "de": 46.581,
+    "margin_net": -0.00879,
+    "current_ratio": 1.71,
+    "dividend_yield": 0.0,
+    "eps": 44.231,
+    "bv": 168.684
+  },
+  "statistik": {
+    "market_cap": 823819960320.0,
+    "enterprise_value": 882221645824.0,
+    "shares_outstanding": 799825231.0,
+    "float_shares": 9137305.0,
+    "free_float_pct": 0.011424126979060005,
+    "avg_volume": 37500.0,
+    "beta": -0.508,
+    "harga": 1030.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": 0.063,
+    "vol_trend": 130.54,
+    "price_chg_20d": -1.0
+  },
+  "update": "2026-10-06 10:36"
+}

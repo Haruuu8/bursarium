@@ -1,0 +1,50 @@
+{
+  "kode": "ZYRX",
+  "nama": "PT Zyrexindo Mandiri Buana Tbk",
+  "sektor": "Technology",
+  "industri": "Computer Hardware",
+  "harga": 128.0,
+  "rasio_kunci": {
+    "pe": 2.4577572,
+    "pb": 0.5501118,
+    "ps": 0.14491136,
+    "roe": 0.06843,
+    "roic": null,
+    "de": 109.194,
+    "margin_net": 0.01768,
+    "current_ratio": 1.259,
+    "dividend_yield": 3.89,
+    "eps": 52.08,
+    "bv": 232.68
+  },
+  "statistik": {
+    "market_cap": 170666819584.0,
+    "enterprise_value": 359851294720.0,
+    "shares_outstanding": 1333334556.0,
+    "float_shares": 331253637.0,
+    "free_float_pct": 0.24843999993052007,
+    "avg_volume": 849088.0,
+    "beta": 0.363,
+    "harga": 128.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.018,
+    "vol_trend": 0.29,
+    "price_chg_20d": -3.82
+  },
+  "update": "2026-10-06 10:39"
+}

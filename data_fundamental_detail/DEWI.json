@@ -1,0 +1,50 @@
+{
+  "kode": "DEWI",
+  "nama": "PT Dewi Shri Farmindo Tbk.",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 260.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.139035,
+    "ps": 5.5495677,
+    "roe": 0.04737,
+    "roic": null,
+    "de": 16.759,
+    "margin_net": 0.08214,
+    "current_ratio": 3.58,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 82.828
+  },
+  "statistik": {
+    "market_cap": 520000012288.0,
+    "enterprise_value": 541136158720.0,
+    "shares_outstanding": 2000000000.0,
+    "float_shares": 363820000.0,
+    "free_float_pct": 0.18191,
+    "avg_volume": 63052506.0,
+    "beta": -0.173,
+    "harga": 260.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.415,
+    "vol_trend": 0.9,
+    "price_chg_20d": 66.67
+  },
+  "update": "2026-10-06 10:22"
+}

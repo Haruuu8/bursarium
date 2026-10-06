@@ -1,0 +1,50 @@
+{
+  "kode": "WICO",
+  "nama": "Pt Wicaksana Overseas International Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Food Distribution",
+  "harga": 123.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -1.3363609,
+    "ps": 1.056991,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.02224,
+    "current_ratio": 0.795,
+    "dividend_yield": null,
+    "eps": -119.502,
+    "bv": -92.041
+  },
+  "statistik": {
+    "market_cap": 294426378240.0,
+    "enterprise_value": 546165850112.0,
+    "shares_outstanding": 2393710348.0,
+    "float_shares": 1391296266.0,
+    "free_float_pct": 0.5812300001804562,
+    "avg_volume": 0.0,
+    "beta": -0.661,
+    "harga": 123.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:39"
+}

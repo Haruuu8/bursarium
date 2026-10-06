@@ -1,0 +1,50 @@
+{
+  "kode": "SEMA",
+  "nama": "PT Semacom Integrated Tbk",
+  "sektor": "Industrials",
+  "industri": "Specialty Industrial Machinery",
+  "harga": 466.0,
+  "rasio_kunci": {
+    "pe": 26.672771,
+    "pb": 3.841968,
+    "ps": 3.3179097,
+    "roe": 0.05229,
+    "roic": null,
+    "de": 21.797,
+    "margin_net": 0.045500003,
+    "current_ratio": 2.765,
+    "dividend_yield": 0.0,
+    "eps": 17.471,
+    "bv": 121.292
+  },
+  "statistik": {
+    "market_cap": 627822624768.0,
+    "enterprise_value": 680413298688.0,
+    "shares_outstanding": 1347258842.0,
+    "float_shares": 342877375.0,
+    "free_float_pct": 0.25449999978549037,
+    "avg_volume": 15113971.0,
+    "beta": -0.454,
+    "harga": 466.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 10,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.255,
+    "vol_trend": 1.51,
+    "price_chg_20d": 303.42
+  },
+  "update": "2026-10-06 10:35"
+}

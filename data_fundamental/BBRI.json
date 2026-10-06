@@ -1,0 +1,28 @@
+{
+  "kode": "BBRI",
+  "sumber": "yfinance",
+  "metrics": {
+    "per": 7.665848,
+    "pbv": 1.4603939,
+    "roe": 0.18988001,
+    "roa": 0.027709998,
+    "der": null,
+    "eps": 407.0,
+    "bv": 2136.41,
+    "dividend_yield": 13.57,
+    "net_margin": 0.41705,
+    "gross_margin": 0.0,
+    "revenue": 146842700480512.0,
+    "net_income": 61241083035648.0,
+    "market_cap": 470134669967360.0,
+    "total_asset": null,
+    "total_equity": null,
+    "current_ratio": null
+  },
+  "info_extra": {
+    "nama": "PT Bank Rakyat Indonesia (Persero) Tbk",
+    "sektor": "Financial Services",
+    "industri": "Banks - Regional",
+    "harga": 3120.0
+  }
+}

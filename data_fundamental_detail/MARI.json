@@ -1,0 +1,50 @@
+{
+  "kode": "MARI",
+  "nama": "PT Mahaka Radio Integra Tbk",
+  "sektor": "Communication Services",
+  "industri": "Broadcasting",
+  "harga": 23.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 13.739546,
+    "ps": 1.4505348,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.2047,
+    "current_ratio": 3.24,
+    "dividend_yield": 0.0,
+    "eps": -5.087,
+    "bv": 1.674
+  },
+  "statistik": {
+    "market_cap": 120810807296.0,
+    "enterprise_value": 367762604032.0,
+    "shares_outstanding": 5252644000.0,
+    "float_shares": 2273186744.0,
+    "free_float_pct": 0.43277000002284566,
+    "avg_volume": 0.0,
+    "beta": 0.762,
+    "harga": 23.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:30"
+}

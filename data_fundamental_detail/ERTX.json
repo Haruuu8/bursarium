@@ -1,0 +1,50 @@
+{
+  "kode": "ERTX",
+  "nama": "PT Eratex Djaja Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Apparel Manufacturing",
+  "harga": 164.0,
+  "rasio_kunci": {
+    "pe": 164000.0,
+    "pb": 7130.4346,
+    "ps": 1954.0973,
+    "roe": 0.06866,
+    "roic": null,
+    "de": 126.793,
+    "margin_net": 0.01846,
+    "current_ratio": 1.358,
+    "dividend_yield": 0.0,
+    "eps": 0.001,
+    "bv": 0.023
+  },
+  "statistik": {
+    "market_cap": 210992529408.0,
+    "enterprise_value": 212308148224.0,
+    "shares_outstanding": 1286539792.0,
+    "float_shares": 100453027.0,
+    "free_float_pct": 0.0780800000315886,
+    "avg_volume": 3225878.0,
+    "beta": 0.316,
+    "harga": 164.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.646,
+    "vol_trend": 0.8,
+    "price_chg_20d": -11.76
+  },
+  "update": "2026-10-06 10:22"
+}

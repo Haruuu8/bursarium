@@ -1,0 +1,50 @@
+{
+  "kode": "PADA",
+  "nama": "PT Personel Alih Daya Tbk",
+  "sektor": "Industrials",
+  "industri": "Staffing & Employment Services",
+  "harga": 171.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 4.392838,
+    "ps": 0.39203465,
+    "roe": 0.042919997,
+    "roic": null,
+    "de": 169.041,
+    "margin_net": 0.00375,
+    "current_ratio": 1.556,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 38.927
+  },
+  "statistik": {
+    "market_cap": 538650017792.0,
+    "enterprise_value": 700652453888.0,
+    "shares_outstanding": 3150000000.0,
+    "float_shares": 899703000.0,
+    "free_float_pct": 0.28562,
+    "avg_volume": 71673528.0,
+    "beta": 0.749,
+    "harga": 171.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.326,
+    "vol_trend": 0.53,
+    "price_chg_20d": -25.91
+  },
+  "update": "2026-10-06 10:32"
+}

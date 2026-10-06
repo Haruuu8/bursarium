@@ -1,0 +1,50 @@
+{
+  "kode": "RELI",
+  "nama": "PT Reliance Sekuritas Indonesia Tbk",
+  "sektor": "Financial Services",
+  "industri": "Capital Markets",
+  "harga": 530.0,
+  "rasio_kunci": {
+    "pe": 45.50919,
+    "pb": 1.7983841,
+    "ps": 16.506104,
+    "roe": 0.0364,
+    "roic": null,
+    "de": 5.767,
+    "margin_net": 0.36451998,
+    "current_ratio": 3.196,
+    "dividend_yield": 0.0,
+    "eps": 11.646,
+    "bv": 294.709
+  },
+  "statistik": {
+    "market_cap": 954000015360.0,
+    "enterprise_value": 820973273088.0,
+    "shares_outstanding": 1800000000.0,
+    "float_shares": 260082000.0,
+    "free_float_pct": 0.14449,
+    "avg_volume": 37234.0,
+    "beta": -0.384,
+    "harga": 530.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.108,
+    "vol_trend": 0.59,
+    "price_chg_20d": -7.21
+  },
+  "update": "2026-10-06 10:34"
+}

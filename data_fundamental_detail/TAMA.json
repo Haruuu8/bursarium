@@ -1,0 +1,50 @@
+{
+  "kode": "TAMA",
+  "nama": "PT Lancartama Sejati Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 198.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -3.8337173,
+    "ps": 20.376892,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.0,
+    "current_ratio": 0.715,
+    "dividend_yield": 0.0,
+    "eps": -3.556,
+    "bv": -51.647
+  },
+  "statistik": {
+    "market_cap": 237600129024.0,
+    "enterprise_value": 367776104448.0,
+    "shares_outstanding": 1200000696.0,
+    "float_shares": 336624195.0,
+    "free_float_pct": 0.28051999979840014,
+    "avg_volume": 10500658.0,
+    "beta": -0.478,
+    "harga": 198.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.509,
+    "vol_trend": 0.42,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:37"
+}

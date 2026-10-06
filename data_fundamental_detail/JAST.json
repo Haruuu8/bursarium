@@ -1,0 +1,50 @@
+{
+  "kode": "JAST",
+  "nama": "PT. Jasnita Telekomindo Tbk",
+  "sektor": "Communication Services",
+  "industri": "Telecom Services",
+  "harga": 84.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.6368525,
+    "ps": 0.367721,
+    "roe": -0.05706,
+    "roic": null,
+    "de": 36.586,
+    "margin_net": -0.044159997,
+    "current_ratio": 0.952,
+    "dividend_yield": 0.0,
+    "eps": -14.904,
+    "bv": 51.318
+  },
+  "statistik": {
+    "market_cap": 90936360960.0,
+    "enterprise_value": 135239655424.0,
+    "shares_outstanding": 1082575738.0,
+    "float_shares": 505616998.0,
+    "free_float_pct": 0.46704999960012034,
+    "avg_volume": 36382509.0,
+    "beta": 0.315,
+    "harga": 84.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.296,
+    "vol_trend": 3.16,
+    "price_chg_20d": -14.43
+  },
+  "update": "2026-10-06 10:23"
+}

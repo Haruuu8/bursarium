@@ -1,0 +1,50 @@
+{
+  "kode": "KOCI",
+  "nama": "PT Kokoh Exa Nusantara Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 105.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.4515631,
+    "ps": 9.459671,
+    "roe": 0.079,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.21983999,
+    "current_ratio": 6.009,
+    "dividend_yield": 1.89,
+    "eps": null,
+    "bv": 30.421
+  },
+  "statistik": {
+    "market_cap": 469179858944.0,
+    "enterprise_value": 466030788608.0,
+    "shares_outstanding": 4468379727.0,
+    "float_shares": 519767759.0,
+    "free_float_pct": 0.11632130453446576,
+    "avg_volume": 31027065.0,
+    "beta": 1.739,
+    "harga": 105.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.284,
+    "vol_trend": 0.12,
+    "price_chg_20d": -13.11
+  },
+  "update": "2026-10-06 10:23"
+}

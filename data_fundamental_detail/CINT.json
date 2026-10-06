@@ -1,0 +1,50 @@
+{
+  "kode": "CINT",
+  "nama": "PT Chitose Internasional Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Furnishings, Fixtures & Appliances",
+  "harga": 196.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.64422613,
+    "ps": 0.34251112,
+    "roe": 0.1384,
+    "roic": null,
+    "de": 22.626,
+    "margin_net": 0.067940004,
+    "current_ratio": 1.634,
+    "dividend_yield": 7.14,
+    "eps": -98.865,
+    "bv": 304.241
+  },
+  "statistik": {
+    "market_cap": 196000006144.0,
+    "enterprise_value": 259103178752.0,
+    "shares_outstanding": 1000000000.0,
+    "float_shares": 213540000.0,
+    "free_float_pct": 0.21354,
+    "avg_volume": 1774609.0,
+    "beta": 0.065,
+    "harga": 196.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.616,
+    "vol_trend": 0.16,
+    "price_chg_20d": 3.21
+  },
+  "update": "2026-10-06 10:22"
+}

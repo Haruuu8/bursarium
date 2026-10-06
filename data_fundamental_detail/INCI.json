@@ -1,0 +1,50 @@
+{
+  "kode": "INCI",
+  "nama": "PT Intanwijaya Internasional Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 845.0,
+  "rasio_kunci": {
+    "pe": 10.040279,
+    "pb": 0.34985924,
+    "ps": 0.38934487,
+    "roe": 0.09373,
+    "roic": null,
+    "de": 0.638,
+    "margin_net": 0.10022,
+    "current_ratio": 4.249,
+    "dividend_yield": 2.45,
+    "eps": 84.161,
+    "bv": 2415.257
+  },
+  "statistik": {
+    "market_cap": 175469854720.0,
+    "enterprise_value": -16340338688.0,
+    "shares_outstanding": 207656617.0,
+    "float_shares": 62498412.0,
+    "free_float_pct": 0.3009699999109588,
+    "avg_volume": 178773.0,
+    "beta": 0.071,
+    "harga": 845.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.12,
+    "vol_trend": 1.29,
+    "price_chg_20d": 10.9
+  },
+  "update": "2026-10-06 10:22"
+}

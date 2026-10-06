@@ -1,0 +1,50 @@
+{
+  "kode": "ESIP",
+  "nama": "PT Sinergi Inti Plastindo Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Packaging & Containers",
+  "harga": 101.0,
+  "rasio_kunci": {
+    "pe": 33.779263,
+    "pb": 1.1218857,
+    "ps": 1.8738428,
+    "roe": 0.023759998,
+    "roic": null,
+    "de": 1.001,
+    "margin_net": 0.039330002,
+    "current_ratio": 10.789,
+    "dividend_yield": 1.06,
+    "eps": 2.99,
+    "bv": 90.027
+  },
+  "statistik": {
+    "market_cap": 112105332736.0,
+    "enterprise_value": 106547208192.0,
+    "shares_outstanding": 1109953847.0,
+    "float_shares": 436400475.0,
+    "free_float_pct": 0.393169928803355,
+    "avg_volume": 36836452.0,
+    "beta": 2.048,
+    "harga": 101.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": 0.029,
+    "vol_trend": 0.12,
+    "price_chg_20d": -28.47
+  },
+  "update": "2026-10-06 10:22"
+}

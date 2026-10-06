@@ -1,0 +1,50 @@
+{
+  "kode": "KRYA",
+  "nama": "PT Bangun Karya Perkasa Jaya Tbk",
+  "sektor": "Industrials",
+  "industri": "Engineering & Construction",
+  "harga": 50.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.170577,
+    "ps": 1.5795447,
+    "roe": -0.44698003,
+    "roic": null,
+    "de": 141.553,
+    "margin_net": -0.39016,
+    "current_ratio": 1.223,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 15.77
+  },
+  "statistik": {
+    "market_cap": 83197173760.0,
+    "enterprise_value": 126156480512.0,
+    "shares_outstanding": 1663943474.0,
+    "float_shares": 1050996616.0,
+    "free_float_pct": 0.631629999709954,
+    "avg_volume": 44482600.0,
+    "beta": 0.687,
+    "harga": 50.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.354,
+    "vol_trend": 0.86,
+    "price_chg_20d": -27.94
+  },
+  "update": "2026-10-06 10:23"
+}

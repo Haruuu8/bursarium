@@ -1,0 +1,50 @@
+{
+  "kode": "ASBI",
+  "nama": "PT Asuransi Bintang Tbk",
+  "sektor": "Financial Services",
+  "industri": "Insurance - Diversified",
+  "harga": 380.0,
+  "rasio_kunci": {
+    "pe": 7.7257757,
+    "pb": 0.28468385,
+    "ps": 0.4219521,
+    "roe": 0.044460002,
+    "roic": null,
+    "de": 0.949,
+    "margin_net": 0.06351,
+    "current_ratio": 2.675,
+    "dividend_yield": 1.45,
+    "eps": 49.186,
+    "bv": 1334.814
+  },
+  "statistik": {
+    "market_cap": 132386856960.0,
+    "enterprise_value": 122824974336.0,
+    "shares_outstanding": 348386472.0,
+    "float_shares": 53418098.0,
+    "free_float_pct": 0.15333000071254202,
+    "avg_volume": 75831.0,
+    "beta": 0.037,
+    "harga": 380.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.2,
+    "vol_trend": 0.22,
+    "price_chg_20d": -2.97
+  },
+  "update": "2026-10-06 10:21"
+}

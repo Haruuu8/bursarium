@@ -1,0 +1,50 @@
+{
+  "kode": "NICK",
+  "nama": "PT Charnic Capital Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate Services",
+  "harga": 2820.0,
+  "rasio_kunci": {
+    "pe": 8.546775,
+    "pb": 6.0673475,
+    "ps": 48.656048,
+    "roe": 0.10776,
+    "roic": null,
+    "de": 8.591,
+    "margin_net": 0.81988996,
+    "current_ratio": 68.573,
+    "dividend_yield": 0.0,
+    "eps": 329.949,
+    "bv": 464.783
+  },
+  "statistik": {
+    "market_cap": 1836243091456.0,
+    "enterprise_value": 1624878481408.0,
+    "shares_outstanding": 651150000.0,
+    "float_shares": 140427009.0,
+    "free_float_pct": 0.21566,
+    "avg_volume": 31512.0,
+    "beta": -0.229,
+    "harga": 2820.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.421,
+    "vol_trend": 0.0,
+    "price_chg_20d": 13.25
+  },
+  "update": "2026-10-06 10:32"
+}

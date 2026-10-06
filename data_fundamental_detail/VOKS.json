@@ -1,0 +1,50 @@
+{
+  "kode": "VOKS",
+  "nama": "PT Voksel Electric Tbk",
+  "sektor": "Industrials",
+  "industri": "Electrical Equipment & Parts",
+  "harga": 266.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.9454969,
+    "ps": 0.5417147,
+    "roe": -0.10223,
+    "roic": null,
+    "de": 200.132,
+    "margin_net": -0.02967,
+    "current_ratio": 1.032,
+    "dividend_yield": 0.0,
+    "eps": -53.017,
+    "bv": 136.726
+  },
+  "statistik": {
+    "market_cap": 1105390338048.0,
+    "enterprise_value": 1829188665344.0,
+    "shares_outstanding": 4155602595.0,
+    "float_shares": 837187699.0,
+    "free_float_pct": 0.20146000005084702,
+    "avg_volume": 1701674.0,
+    "beta": 0.251,
+    "harga": 266.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": -0.044,
+    "vol_trend": 0.33,
+    "price_chg_20d": 15.38
+  },
+  "update": "2026-10-06 10:39"
+}

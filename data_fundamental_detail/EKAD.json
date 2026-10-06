@@ -1,0 +1,50 @@
+{
+  "kode": "EKAD",
+  "nama": "PT Ekadharma International Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 382.0,
+  "rasio_kunci": {
+    "pe": 2.611555,
+    "pb": 1.082521,
+    "ps": 2.3256478,
+    "roe": 0.05076,
+    "roic": null,
+    "de": 2.118,
+    "margin_net": 0.10406999,
+    "current_ratio": 14.002,
+    "dividend_yield": 2.43,
+    "eps": 146.273,
+    "bv": 352.88
+  },
+  "statistik": {
+    "market_cap": 1334660169728.0,
+    "enterprise_value": 901437521920.0,
+    "shares_outstanding": 3493875000.0,
+    "float_shares": 619848364.0,
+    "free_float_pct": 0.1774100000715538,
+    "avg_volume": 11484146.0,
+    "beta": 0.269,
+    "harga": 382.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.369,
+    "vol_trend": 0.37,
+    "price_chg_20d": -12.67
+  },
+  "update": "2026-10-06 10:22"
+}

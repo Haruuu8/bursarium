@@ -1,0 +1,50 @@
+{
+  "kode": "BIKE",
+  "nama": "PT Sepeda Bersama Indonesia Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Leisure",
+  "harga": 1505.0,
+  "rasio_kunci": {
+    "pe": 57.757996,
+    "pb": 37.885464,
+    "ps": 6.592675,
+    "roe": -0.76928,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.2176,
+    "current_ratio": 1.985,
+    "dividend_yield": 0.0,
+    "eps": 26.057,
+    "bv": 39.725
+  },
+  "statistik": {
+    "market_cap": 1947344175104.0,
+    "enterprise_value": 1946646478848.0,
+    "shares_outstanding": 1293916404.0,
+    "float_shares": 276238213.0,
+    "free_float_pct": 0.21348999993047466,
+    "avg_volume": 536647.0,
+    "beta": 0.334,
+    "harga": 1505.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.322,
+    "vol_trend": 0.0,
+    "price_chg_20d": 65.38
+  },
+  "update": "2026-10-06 10:21"
+}

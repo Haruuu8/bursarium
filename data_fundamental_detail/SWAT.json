@@ -1,0 +1,50 @@
+{
+  "kode": "SWAT",
+  "nama": "PT Sriwahana Adityakarta Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Packaging & Containers",
+  "harga": 16.0,
+  "rasio_kunci": {
+    "pe": 5.082592,
+    "pb": 2.2219136,
+    "ps": 0.74059916,
+    "roe": -1.33198,
+    "roic": null,
+    "de": 2995.354,
+    "margin_net": -0.74781996,
+    "current_ratio": 3.552,
+    "dividend_yield": null,
+    "eps": 3.148,
+    "bv": 7.201
+  },
+  "statistik": {
+    "market_cap": 48307200000.0,
+    "enterprise_value": 419343990784.0,
+    "shares_outstanding": 3019200000.0,
+    "float_shares": 583098096.0,
+    "free_float_pct": 0.19313,
+    "avg_volume": 0.0,
+    "beta": 0.028,
+    "harga": 16.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:37"
+}

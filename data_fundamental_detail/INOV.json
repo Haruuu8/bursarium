@@ -1,0 +1,50 @@
+{
+  "kode": "INOV",
+  "nama": "PT Inocycle Technology Group Tbk",
+  "sektor": "Industrials",
+  "industri": "Waste Management",
+  "harga": 137.0,
+  "rasio_kunci": {
+    "pe": 7.379875,
+    "pb": 0.677738,
+    "ps": 0.33500478,
+    "roe": 0.21924,
+    "roic": null,
+    "de": 166.415,
+    "margin_net": 0.097799994,
+    "current_ratio": 0.64,
+    "dividend_yield": 0.0,
+    "eps": 18.564,
+    "bv": 202.143
+  },
+  "statistik": {
+    "market_cap": 247726407680.0,
+    "enterprise_value": 773555552256.0,
+    "shares_outstanding": 1808221900.0,
+    "float_shares": 390883328.0,
+    "free_float_pct": 0.21616999993197739,
+    "avg_volume": 3866176.0,
+    "beta": 0.674,
+    "harga": 137.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.584,
+    "vol_trend": 0.62,
+    "price_chg_20d": -2.14
+  },
+  "update": "2026-10-06 10:22"
+}

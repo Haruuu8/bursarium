@@ -1,0 +1,50 @@
+{
+  "kode": "MAXI",
+  "nama": "PT Maxindo Karya Anugerah Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 28.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.0748425,
+    "ps": 1.8716257,
+    "roe": -0.13467,
+    "roic": null,
+    "de": 107.606,
+    "margin_net": -0.13014,
+    "current_ratio": 0.626,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 13.495
+  },
+  "statistik": {
+    "market_cap": 269082787840.0,
+    "enterprise_value": 396104073216.0,
+    "shares_outstanding": 9610099981.0,
+    "float_shares": 3103485688.0,
+    "free_float_pct": 0.3229400000141372,
+    "avg_volume": 14124281.0,
+    "beta": 0.557,
+    "harga": 28.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.785,
+    "vol_trend": 745.39,
+    "price_chg_20d": -46.0
+  },
+  "update": "2026-10-06 10:30"
+}

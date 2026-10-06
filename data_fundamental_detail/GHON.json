@@ -1,0 +1,50 @@
+{
+  "kode": "GHON",
+  "nama": "PT Gihon Telekomunikasi Indonesia Tbk",
+  "sektor": "Communication Services",
+  "industri": "Telecom Services",
+  "harga": 1615.0,
+  "rasio_kunci": {
+    "pe": 9.885294,
+    "pb": 1.2742975,
+    "ps": 4.277246,
+    "roe": 0.093839996,
+    "roic": null,
+    "de": 95.242,
+    "margin_net": 0.33584,
+    "current_ratio": 0.166,
+    "dividend_yield": 11.06,
+    "eps": 163.374,
+    "bv": 1267.365
+  },
+  "statistik": {
+    "market_cap": 888249974784.0,
+    "enterprise_value": 1570345058304.0,
+    "shares_outstanding": 550000000.0,
+    "float_shares": 72974000.0,
+    "free_float_pct": 0.13268,
+    "avg_volume": 19484.0,
+    "beta": 0.212,
+    "harga": 1615.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.46,
+    "vol_trend": 0.36,
+    "price_chg_20d": -2.72
+  },
+  "update": "2026-10-06 10:22"
+}

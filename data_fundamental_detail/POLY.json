@@ -1,0 +1,50 @@
+{
+  "kode": "POLY",
+  "nama": "PT Asia Pacific Fibers Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 32.0,
+  "rasio_kunci": {
+    "pe": 31999.998,
+    "pb": -78.23961,
+    "ps": 1747.4055,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.15369001,
+    "current_ratio": 0.023,
+    "dividend_yield": 0.0,
+    "eps": 0.001,
+    "bv": -0.409
+  },
+  "statistik": {
+    "market_cap": 79864111104.0,
+    "enterprise_value": 80897490944.0,
+    "shares_outstanding": 2495753347.0,
+    "float_shares": 88299753.0,
+    "free_float_pct": 0.03537999983297228,
+    "avg_volume": 0.0,
+    "beta": 0.643,
+    "harga": 32.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:33"
+}

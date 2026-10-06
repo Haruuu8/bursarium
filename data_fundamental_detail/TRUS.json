@@ -1,0 +1,50 @@
+{
+  "kode": "TRUS",
+  "nama": "PT Trust Finance Indonesia Tbk",
+  "sektor": "Financial Services",
+  "industri": "Credit Services",
+  "harga": 460.0,
+  "rasio_kunci": {
+    "pe": 17.090841,
+    "pb": 0.8813864,
+    "ps": 9.15627,
+    "roe": null,
+    "roic": null,
+    "de": 0.059,
+    "margin_net": 0.40005,
+    "current_ratio": 89.329,
+    "dividend_yield": 13.16,
+    "eps": 26.915,
+    "bv": 521.905
+  },
+  "statistik": {
+    "market_cap": 368000008192.0,
+    "enterprise_value": 255797444608.0,
+    "shares_outstanding": 800000000.0,
+    "float_shares": 165784000.0,
+    "free_float_pct": 0.20723,
+    "avg_volume": 192639.0,
+    "beta": -0.355,
+    "harga": 460.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.159,
+    "vol_trend": 0.37,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:38"
+}

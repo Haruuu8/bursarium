@@ -1,0 +1,50 @@
+{
+  "kode": "ASPI",
+  "nama": "PT Andalan Sakti Primaindo Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Residential Construction",
+  "harga": 980.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 13.789416,
+    "ps": 173.94579,
+    "roe": -0.19975,
+    "roic": null,
+    "de": 46.847,
+    "margin_net": 0.0,
+    "current_ratio": 2.518,
+    "dividend_yield": 0.0,
+    "eps": -1.354,
+    "bv": 71.069
+  },
+  "statistik": {
+    "market_cap": 670134566912.0,
+    "enterprise_value": 706684649472.0,
+    "shares_outstanding": 683810725.0,
+    "float_shares": 333815882.0,
+    "free_float_pct": 0.48817000055095655,
+    "avg_volume": 2170039.0,
+    "beta": 0.102,
+    "harga": 980.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.254,
+    "vol_trend": 1.06,
+    "price_chg_20d": 94.06
+  },
+  "update": "2026-10-06 10:21"
+}

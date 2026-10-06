@@ -1,0 +1,65 @@
+{
+  "kode": "DEAL",
+  "nama": "PT Dewata Freightinternational Tbk",
+  "sektor": "",
+  "industri": "",
+  "harga": 6.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -0.12075836,
+    "ps": null,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": null,
+    "current_ratio": null,
+    "dividend_yield": null,
+    "eps": null,
+    "bv": -49.686
+  },
+  "statistik": {
+    "market_cap": 6877026304.0,
+    "enterprise_value": null,
+    "shares_outstanding": 1146170959.0,
+    "float_shares": null,
+    "free_float_pct": null,
+    "avg_volume": null,
+    "beta": null,
+    "harga": 6.0
+  },
+  "riwayat": {
+    "eps": {
+      "2022": -1.141,
+      "2021": -2.492
+    },
+    "revenue": {
+      "2022": 90825390976.0,
+      "2021": 86034518419.0
+    },
+    "revenue_per_share": {
+      "2022": 79.24244656769392,
+      "2021": 75.06255305409461
+    },
+    "net_income": {
+      "2022": -12994136178.0,
+      "2021": -28233723591.0
+    }
+  },
+  "tren": {
+    "roe": {},
+    "roa": {
+      "2022": -8.12359979362567,
+      "2021": -16.575779049235738
+    },
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

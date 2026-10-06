@@ -1,0 +1,50 @@
+{
+  "kode": "UVCR",
+  "nama": "PT Trimegah Karya Pratama Tbk",
+  "sektor": "Technology",
+  "industri": "Software - Application",
+  "harga": 274.0,
+  "rasio_kunci": {
+    "pe": 79.42029,
+    "pb": 5.0801888,
+    "ps": 0.46855968,
+    "roe": 0.12043,
+    "roic": null,
+    "de": 47.761,
+    "margin_net": 0.01082,
+    "current_ratio": 1.661,
+    "dividend_yield": 0.19,
+    "eps": 3.45,
+    "bv": 53.935
+  },
+  "statistik": {
+    "market_cap": 548039688192.0,
+    "enterprise_value": 575045763072.0,
+    "shares_outstanding": 2000144838.0,
+    "float_shares": 1399781363.0,
+    "free_float_pct": 0.6998399997870555,
+    "avg_volume": 67207319.0,
+    "beta": 1.764,
+    "harga": 274.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.414,
+    "vol_trend": 1.05,
+    "price_chg_20d": 78.67
+  },
+  "update": "2026-10-06 10:39"
+}

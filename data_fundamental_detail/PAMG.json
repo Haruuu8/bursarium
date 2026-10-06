@@ -1,0 +1,50 @@
+{
+  "kode": "PAMG",
+  "nama": "PT Bima Sakti Pertiwi Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Diversified",
+  "harga": 49.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.35665154,
+    "ps": 3.155086,
+    "roe": -0.00112,
+    "roic": null,
+    "de": 27.569,
+    "margin_net": -0.00988,
+    "current_ratio": 0.318,
+    "dividend_yield": 0.0,
+    "eps": -2.985,
+    "bv": 137.389
+  },
+  "statistik": {
+    "market_cap": 153124995072.0,
+    "enterprise_value": 264856027136.0,
+    "shares_outstanding": 3125000000.0,
+    "float_shares": 892593750.0,
+    "free_float_pct": 0.28563,
+    "avg_volume": 32326690.0,
+    "beta": 0.245,
+    "harga": 49.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.439,
+    "vol_trend": 0.5,
+    "price_chg_20d": -16.07
+  },
+  "update": "2026-10-06 10:32"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "GOLD",
+  "nama": "PT Visi Telekomunikasi Infrastruktur Tbk",
+  "sektor": "Communication Services",
+  "industri": "Telecom Services",
+  "harga": 272.0,
+  "rasio_kunci": {
+    "pe": 22.905264,
+    "pb": 0.78132856,
+    "ps": 5.801923,
+    "roe": 0.04555,
+    "roic": null,
+    "de": 4.498,
+    "margin_net": 0.32394,
+    "current_ratio": 0.592,
+    "dividend_yield": 0.0,
+    "eps": 11.875,
+    "bv": 348.125
+  },
+  "statistik": {
+    "market_cap": 347419082752.0,
+    "enterprise_value": 352891699200.0,
+    "shares_outstanding": 1277276000.0,
+    "float_shares": 236385469.0,
+    "free_float_pct": 0.18506999974946683,
+    "avg_volume": 328593.0,
+    "beta": 0.196,
+    "harga": 272.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.01,
+    "vol_trend": 0.13,
+    "price_chg_20d": -4.96
+  },
+  "update": "2026-10-06 10:22"
+}

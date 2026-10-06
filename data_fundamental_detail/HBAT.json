@@ -1,0 +1,50 @@
+{
+  "kode": "HBAT",
+  "nama": "PT Minahasa Membangun Hebat Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 398.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 5.0358715,
+    "ps": 18.01632,
+    "roe": 0.02125,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.07517,
+    "current_ratio": 90.171,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 79.033
+  },
+  "statistik": {
+    "market_cap": 414214848512.0,
+    "enterprise_value": 418877800448.0,
+    "shares_outstanding": 1040740800.0,
+    "float_shares": 240744162.0,
+    "free_float_pct": 0.23132000013836299,
+    "avg_volume": 1326303.0,
+    "beta": 2.879,
+    "harga": 398.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.524,
+    "vol_trend": 0.52,
+    "price_chg_20d": 28.3
+  },
+  "update": "2026-10-06 10:22"
+}

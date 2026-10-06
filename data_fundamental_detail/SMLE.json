@@ -1,0 +1,50 @@
+{
+  "kode": "SMLE",
+  "nama": "PT Sinergi Multi Lestarindo Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 314.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 7.0457296,
+    "ps": 3.4968429,
+    "roe": -0.03371,
+    "roic": null,
+    "de": 45.738,
+    "margin_net": -0.01702,
+    "current_ratio": 1.767,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 44.566
+  },
+  "statistik": {
+    "market_cap": 731040055296.0,
+    "enterprise_value": 720562552832.0,
+    "shares_outstanding": 2328153048.0,
+    "float_shares": 956568243.0,
+    "free_float_pct": 0.41087000007226326,
+    "avg_volume": 27397371.0,
+    "beta": 0.729,
+    "harga": 314.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 10,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.426,
+    "vol_trend": 1.94,
+    "price_chg_20d": 62.11
+  },
+  "update": "2026-10-06 10:36"
+}

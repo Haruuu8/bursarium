@@ -1,0 +1,50 @@
+{
+  "kode": "TIRA",
+  "nama": "PT Tira Austenite Tbk",
+  "sektor": "Industrials",
+  "industri": "Industrial Distribution",
+  "harga": 300.0,
+  "rasio_kunci": {
+    "pe": 80.29978,
+    "pb": 0.9706727,
+    "ps": 0.5830463,
+    "roe": 0.04414,
+    "roic": null,
+    "de": 73.748,
+    "margin_net": 0.02543,
+    "current_ratio": 1.137,
+    "dividend_yield": 0.0,
+    "eps": 3.736,
+    "bv": 309.064
+  },
+  "statistik": {
+    "market_cap": 176400007168.0,
+    "enterprise_value": 305578999808.0,
+    "shares_outstanding": 588000000.0,
+    "float_shares": 72224040.0,
+    "free_float_pct": 0.12283,
+    "avg_volume": 561712.0,
+    "beta": -0.546,
+    "harga": 300.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.202,
+    "vol_trend": 1.25,
+    "price_chg_20d": -27.05
+  },
+  "update": "2026-10-06 10:38"
+}

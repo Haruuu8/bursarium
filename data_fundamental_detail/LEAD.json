@@ -1,0 +1,50 @@
+{
+  "kode": "LEAD",
+  "nama": "PT Logindo Samudramakmur Tbk.",
+  "sektor": "Industrials",
+  "industri": "Marine Shipping",
+  "harga": 93.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 10333.334,
+    "ps": 14375.522,
+    "roe": 0.19538,
+    "roic": null,
+    "de": 72.035,
+    "margin_net": 0.25888002,
+    "current_ratio": 1.328,
+    "dividend_yield": 0.0,
+    "eps": -0.001,
+    "bv": 0.009
+  },
+  "statistik": {
+    "market_cap": 539364327424.0,
+    "enterprise_value": 533599322112.0,
+    "shares_outstanding": 5799616328.0,
+    "float_shares": 1996749906.0,
+    "free_float_pct": 0.34429000007463945,
+    "avg_volume": 33950647.0,
+    "beta": -0.399,
+    "harga": 93.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.243,
+    "vol_trend": 0.23,
+    "price_chg_20d": -14.81
+  },
+  "update": "2026-10-06 10:23"
+}

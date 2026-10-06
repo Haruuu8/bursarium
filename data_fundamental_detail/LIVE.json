@@ -1,0 +1,50 @@
+{
+  "kode": "LIVE",
+  "nama": "PT Homeco Victoria Makmur Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Furnishings, Fixtures & Appliances",
+  "harga": 162.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.2163846,
+    "ps": 4.7478576,
+    "roe": -0.010679999,
+    "roic": null,
+    "de": 47.16,
+    "margin_net": -0.02301,
+    "current_ratio": 2.678,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 73.092
+  },
+  "statistik": {
+    "market_cap": 744066842624.0,
+    "enterprise_value": 908898467840.0,
+    "shares_outstanding": 4593005014.0,
+    "float_shares": 810481665.0,
+    "free_float_pct": 0.17646000004998036,
+    "avg_volume": 4238763.0,
+    "beta": 0.653,
+    "harga": 162.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.127,
+    "vol_trend": 0.21,
+    "price_chg_20d": -12.77
+  },
+  "update": "2026-10-06 10:23"
+}

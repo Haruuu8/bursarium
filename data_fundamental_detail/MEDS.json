@@ -1,0 +1,50 @@
+{
+  "kode": "MEDS",
+  "nama": "PT Hetzer Medical Indonesia Tbk",
+  "sektor": "Healthcare",
+  "industri": "Medical Instruments & Supplies",
+  "harga": 81.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.6031625,
+    "ps": 8.431482,
+    "roe": -0.08199,
+    "roic": null,
+    "de": 12.764,
+    "margin_net": -0.27684,
+    "current_ratio": 1.182,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 31.116
+  },
+  "statistik": {
+    "market_cap": 126562500608.0,
+    "enterprise_value": 123140407296.0,
+    "shares_outstanding": 1562500000.0,
+    "float_shares": 739984375.0,
+    "free_float_pct": 0.47359,
+    "avg_volume": 114630873.0,
+    "beta": 1.182,
+    "harga": 81.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.622,
+    "vol_trend": 0.11,
+    "price_chg_20d": -27.18
+  },
+  "update": "2026-10-06 10:30"
+}

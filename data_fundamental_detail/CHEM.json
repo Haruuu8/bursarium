@@ -1,0 +1,50 @@
+{
+  "kode": "CHEM",
+  "nama": "PT Chemstar Indonesia Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 59.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.8851815,
+    "ps": 0.47513896,
+    "roe": -0.0198,
+    "roic": null,
+    "de": 33.314,
+    "margin_net": -0.01082,
+    "current_ratio": 2.361,
+    "dividend_yield": 0.61,
+    "eps": null,
+    "bv": 66.653
+  },
+  "statistik": {
+    "market_cap": 100301930496.0,
+    "enterprise_value": 124100657152.0,
+    "shares_outstanding": 1700032794.0,
+    "float_shares": 500030646.0,
+    "free_float_pct": 0.294130000176926,
+    "avg_volume": 19308109.0,
+    "beta": -0.785,
+    "harga": 59.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.167,
+    "vol_trend": 0.28,
+    "price_chg_20d": -23.29
+  },
+  "update": "2026-10-06 10:22"
+}

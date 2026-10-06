@@ -1,0 +1,50 @@
+{
+  "kode": "SMKL",
+  "nama": "PT Satyamitra Kemas Lestari Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Packaging & Containers",
+  "harga": 150.0,
+  "rasio_kunci": {
+    "pe": 4.5479355,
+    "pb": 0.4941818,
+    "ps": 0.26482698,
+    "roe": 0.03937,
+    "roic": null,
+    "de": 129.446,
+    "margin_net": 0.020499999,
+    "current_ratio": 0.97,
+    "dividend_yield": 2.05,
+    "eps": 32.982,
+    "bv": 303.532
+  },
+  "statistik": {
+    "market_cap": 512712802304.0,
+    "enterprise_value": 1845232402432.0,
+    "shares_outstanding": 3418085290.0,
+    "float_shares": 406068532.0,
+    "free_float_pct": 0.11879999986776223,
+    "avg_volume": 580411.0,
+    "beta": 0.117,
+    "harga": 150.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.051,
+    "vol_trend": 0.08,
+    "price_chg_20d": -6.37
+  },
+  "update": "2026-10-06 10:36"
+}

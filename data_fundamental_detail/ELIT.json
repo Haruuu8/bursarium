@@ -1,0 +1,50 @@
+{
+  "kode": "ELIT",
+  "nama": "PT Data Sinergitama Jaya Tbk",
+  "sektor": "Technology",
+  "industri": "Information Technology Services",
+  "harga": 270.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.087655,
+    "ps": 1.3957672,
+    "roe": 0.21215001,
+    "roic": null,
+    "de": 18.574,
+    "margin_net": 0.086330004,
+    "current_ratio": 1.537,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 87.445
+  },
+  "statistik": {
+    "market_cap": 546472361984.0,
+    "enterprise_value": 560899293184.0,
+    "shares_outstanding": 2023971757.0,
+    "float_shares": 543692557.0,
+    "free_float_pct": 0.2686265532706245,
+    "avg_volume": 24918233.0,
+    "beta": 0.195,
+    "harga": 270.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.022,
+    "vol_trend": 0.4,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

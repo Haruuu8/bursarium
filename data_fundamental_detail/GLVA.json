@@ -1,0 +1,50 @@
+{
+  "kode": "GLVA",
+  "nama": "PT Galva Technologies Tbk",
+  "sektor": "Technology",
+  "industri": "Electronics & Computer Distribution",
+  "harga": 318.0,
+  "rasio_kunci": {
+    "pe": 9.673886,
+    "pb": 1.162727,
+    "ps": 0.25045446,
+    "roe": 0.088719994,
+    "roic": null,
+    "de": 63.642,
+    "margin_net": 0.01827,
+    "current_ratio": 1.738,
+    "dividend_yield": 3.14,
+    "eps": 32.872,
+    "bv": 273.495
+  },
+  "statistik": {
+    "market_cap": 477000007680.0,
+    "enterprise_value": 675864969216.0,
+    "shares_outstanding": 1500000000.0,
+    "float_shares": 603180000.0,
+    "free_float_pct": 0.40212,
+    "avg_volume": 46530.0,
+    "beta": 0.587,
+    "harga": 318.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.402,
+    "vol_trend": 1.23,
+    "price_chg_20d": -3.05
+  },
+  "update": "2026-10-06 10:22"
+}

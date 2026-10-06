@@ -1,0 +1,50 @@
+{
+  "kode": "CRAB",
+  "nama": "PT Toba Surimi Industries Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 216.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.736474,
+    "ps": 0.6575757,
+    "roe": 0.07806,
+    "roic": null,
+    "de": 4.891,
+    "margin_net": 0.02865,
+    "current_ratio": 2.652,
+    "dividend_yield": 0.93,
+    "eps": null,
+    "bv": 124.39
+  },
+  "statistik": {
+    "market_cap": 421200003072.0,
+    "enterprise_value": 315845509120.0,
+    "shares_outstanding": 1950000000.0,
+    "float_shares": 296263500.0,
+    "free_float_pct": 0.15193,
+    "avg_volume": 576465.0,
+    "beta": 0.123,
+    "harga": 216.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.021,
+    "vol_trend": 1.05,
+    "price_chg_20d": 1.83
+  },
+  "update": "2026-10-06 10:22"
+}

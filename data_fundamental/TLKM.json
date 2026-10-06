@@ -1,0 +1,28 @@
+{
+  "kode": "TLKM",
+  "sumber": "yfinance",
+  "metrics": {
+    "per": 13.23164,
+    "pbv": 1.9077547,
+    "roe": 0.17683001,
+    "roa": 0.07579,
+    "der": 59.982,
+    "eps": 173.07,
+    "bv": 1200.364,
+    "dividend_yield": 9.92,
+    "net_margin": 0.12007,
+    "gross_margin": 0.59959,
+    "revenue": 149616007839744.0,
+    "net_income": 17964000608256.0,
+    "market_cap": 225750342959104.0,
+    "total_asset": null,
+    "total_equity": null,
+    "current_ratio": 0.791
+  },
+  "info_extra": {
+    "nama": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+    "sektor": "Communication Services",
+    "industri": "Telecom Services",
+    "harga": 2290.0
+  }
+}

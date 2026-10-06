@@ -1,0 +1,50 @@
+{
+  "kode": "BAUT",
+  "nama": "PT Mitra Angkasa Sejahtera Tbk",
+  "sektor": "Industrials",
+  "industri": "Tools & Accessories",
+  "harga": 31.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.8867531,
+    "ps": 1.0943779,
+    "roe": -0.027449999,
+    "roic": null,
+    "de": 10.095,
+    "margin_net": -0.034360003,
+    "current_ratio": 3.464,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 34.959
+  },
+  "statistik": {
+    "market_cap": 148805664768.0,
+    "enterprise_value": 160788578304.0,
+    "shares_outstanding": 4800182969.0,
+    "float_shares": 1439862883.0,
+    "free_float_pct": 0.29995999992057804,
+    "avg_volume": 5925493.0,
+    "beta": 0.787,
+    "harga": 31.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.156,
+    "vol_trend": 2.58,
+    "price_chg_20d": -21.05
+  },
+  "update": "2026-10-06 10:21"
+}

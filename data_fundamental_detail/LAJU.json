@@ -1,0 +1,50 @@
+{
+  "kode": "LAJU",
+  "nama": "PT Jasa Berdikari Logistics Tbk",
+  "sektor": "Industrials",
+  "industri": "Integrated Freight & Logistics",
+  "harga": 59.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.91700345,
+    "ps": 0.6102299,
+    "roe": 0.07941,
+    "roic": null,
+    "de": 75.223,
+    "margin_net": 0.05092,
+    "current_ratio": 1.045,
+    "dividend_yield": 0.28,
+    "eps": null,
+    "bv": 64.34
+  },
+  "statistik": {
+    "market_cap": 126846640128.0,
+    "enterprise_value": 178946392064.0,
+    "shares_outstanding": 2149942974.0,
+    "float_shares": 700107430.0,
+    "free_float_pct": 0.3256399999751807,
+    "avg_volume": 48208210.0,
+    "beta": -0.568,
+    "harga": 59.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.39,
+    "vol_trend": 0.73,
+    "price_chg_20d": -22.97
+  },
+  "update": "2026-10-06 10:23"
+}

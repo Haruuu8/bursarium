@@ -1,0 +1,50 @@
+{
+  "kode": "ICON",
+  "nama": "PT Island Concepts Indonesia Tbk",
+  "sektor": "Energy",
+  "industri": "Oil & Gas Equipment & Services",
+  "harga": 131.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.92506945,
+    "ps": 0.5646439,
+    "roe": 0.033,
+    "roic": null,
+    "de": 7.332,
+    "margin_net": 0.02001,
+    "current_ratio": 0.99,
+    "dividend_yield": 0.0,
+    "eps": -2.29,
+    "bv": 141.611
+  },
+  "statistik": {
+    "market_cap": 142757249024.0,
+    "enterprise_value": 231409500160.0,
+    "shares_outstanding": 1089750000.0,
+    "float_shares": 381063780.0,
+    "free_float_pct": 0.34968,
+    "avg_volume": 51280244.0,
+    "beta": 0.419,
+    "harga": 131.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.579,
+    "vol_trend": 0.16,
+    "price_chg_20d": -7.53
+  },
+  "update": "2026-10-06 10:22"
+}

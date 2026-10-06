@@ -1,0 +1,50 @@
+{
+  "kode": "ZATA",
+  "nama": "PT Bersama Zatta Jaya Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Apparel Retail",
+  "harga": 53.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.2896005,
+    "ps": 2.3902106,
+    "roe": -0.22555,
+    "roic": null,
+    "de": 31.115,
+    "margin_net": -0.45448002,
+    "current_ratio": 4.851,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 41.098
+  },
+  "statistik": {
+    "market_cap": 474137985024.0,
+    "enterprise_value": 550705823744.0,
+    "shares_outstanding": 8946000000.0,
+    "float_shares": 2508190020.0,
+    "free_float_pct": 0.28037,
+    "avg_volume": 181564317.0,
+    "beta": 2.537,
+    "harga": 53.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.226,
+    "vol_trend": 0.36,
+    "price_chg_20d": -22.06
+  },
+  "update": "2026-10-06 10:39"
+}

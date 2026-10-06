@@ -1,0 +1,50 @@
+{
+  "kode": "DSFI",
+  "nama": "PT Dharma Samudera Fishing Industries Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 84.0,
+  "rasio_kunci": {
+    "pe": 8.948545,
+    "pb": 0.53661096,
+    "ps": 0.22947322,
+    "roe": 0.07279,
+    "roic": null,
+    "de": 40.908,
+    "margin_net": 0.030030001,
+    "current_ratio": 1.987,
+    "dividend_yield": 0.0,
+    "eps": 9.387,
+    "bv": 156.538
+  },
+  "statistik": {
+    "market_cap": 155999387648.0,
+    "enterprise_value": 215650779136.0,
+    "shares_outstanding": 1857135500.0,
+    "float_shares": 564643477.0,
+    "free_float_pct": 0.30403999977384527,
+    "avg_volume": 22025057.0,
+    "beta": 0.375,
+    "harga": 84.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.114,
+    "vol_trend": 0.54,
+    "price_chg_20d": -6.74
+  },
+  "update": "2026-10-06 10:22"
+}

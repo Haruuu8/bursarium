@@ -1,0 +1,50 @@
+{
+  "kode": "TOSK",
+  "nama": "PT Topindo Solusi Komunika Tbk",
+  "sektor": "Technology",
+  "industri": "Software - Application",
+  "harga": 81.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.2635183,
+    "ps": 0.20748743,
+    "roe": 0.02173,
+    "roic": null,
+    "de": 19.067,
+    "margin_net": 0.00204,
+    "current_ratio": 2.34,
+    "dividend_yield": 0.56,
+    "eps": null,
+    "bv": 35.785
+  },
+  "statistik": {
+    "market_cap": 354397454336.0,
+    "enterprise_value": 367010185216.0,
+    "shares_outstanding": 4375277300.0,
+    "float_shares": 1047266375.0,
+    "free_float_pct": 0.2393600001078789,
+    "avg_volume": 22848869.0,
+    "beta": 0.969,
+    "harga": 81.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.092,
+    "vol_trend": 0.36,
+    "price_chg_20d": -6.9
+  },
+  "update": "2026-10-06 10:38"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "ALKA",
+  "nama": "PT Alakasa Industrindo Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Aluminum",
+  "harga": 6825.0,
+  "rasio_kunci": {
+    "pe": 180.01741,
+    "pb": 14.803616,
+    "ps": 24.723118,
+    "roe": 0.08809,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.14050001,
+    "current_ratio": 12.875,
+    "dividend_yield": 0.0,
+    "eps": 37.913,
+    "bv": 461.036
+  },
+  "statistik": {
+    "market_cap": 3464814133248.0,
+    "enterprise_value": 2872056217600.0,
+    "shares_outstanding": 107250000.0,
+    "float_shares": 22169733.0,
+    "free_float_pct": 0.2067107972027972,
+    "avg_volume": 321175.0,
+    "beta": 0.912,
+    "harga": 6825.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 9,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.562,
+    "vol_trend": 1.38,
+    "price_chg_20d": 38.35
+  },
+  "update": "2026-10-06 10:21"
+}

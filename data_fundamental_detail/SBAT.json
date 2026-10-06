@@ -1,0 +1,50 @@
+{
+  "kode": "SBAT",
+  "nama": "PT Sejahtera Bintang Abadi Textile Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Textile Manufacturing",
+  "harga": 1.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.03221857,
+    "ps": 0.13536143,
+    "roe": -0.39722002,
+    "roic": null,
+    "de": 229.112,
+    "margin_net": -2.0806599,
+    "current_ratio": 0.514,
+    "dividend_yield": null,
+    "eps": -11.374,
+    "bv": 31.038
+  },
+  "statistik": {
+    "market_cap": 4752982528.0,
+    "enterprise_value": 341088894976.0,
+    "shares_outstanding": 4752982378.0,
+    "float_shares": 2448784360.0,
+    "free_float_pct": 0.515210065018255,
+    "avg_volume": 0.0,
+    "beta": -0.033,
+    "harga": 1.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:35"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "KLIN",
+  "nama": "PT Klinko Karya Imaji Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Home Improvement Retail",
+  "harga": 118.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 5.3172317,
+    "ps": 19.478859,
+    "roe": -0.13976,
+    "roic": null,
+    "de": 1.748,
+    "margin_net": -0.55029,
+    "current_ratio": 10.238,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 22.192
+  },
+  "statistik": {
+    "market_cap": 154288586752.0,
+    "enterprise_value": 153438355456.0,
+    "shares_outstanding": 1307530330.0,
+    "float_shares": 120907330.0,
+    "free_float_pct": 0.09247000029437176,
+    "avg_volume": 396465.0,
+    "beta": -0.693,
+    "harga": 118.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.414,
+    "vol_trend": 0.7,
+    "price_chg_20d": 3.54
+  },
+  "update": "2026-10-06 10:23"
+}

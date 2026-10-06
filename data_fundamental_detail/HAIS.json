@@ -1,0 +1,50 @@
+{
+  "kode": "HAIS",
+  "nama": "PT Hasnur Internasional Shipping Tbk",
+  "sektor": "Industrials",
+  "industri": "Marine Shipping",
+  "harga": 175.0,
+  "rasio_kunci": {
+    "pe": 8.152807,
+    "pb": 0.5952381,
+    "ps": 0.56180733,
+    "roe": 0.08881,
+    "roic": null,
+    "de": 68.312,
+    "margin_net": 0.08691,
+    "current_ratio": 1.244,
+    "dividend_yield": 5.69,
+    "eps": 21.465,
+    "bv": 294.0
+  },
+  "statistik": {
+    "market_cap": 459593744384.0,
+    "enterprise_value": 1002748772352.0,
+    "shares_outstanding": 2626250000.0,
+    "float_shares": 524829800.0,
+    "free_float_pct": 0.19984,
+    "avg_volume": 648131.0,
+    "beta": 0.101,
+    "harga": 175.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.026,
+    "vol_trend": 0.58,
+    "price_chg_20d": -7.41
+  },
+  "update": "2026-10-06 10:22"
+}

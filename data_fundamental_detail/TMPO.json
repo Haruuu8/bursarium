@@ -1,0 +1,50 @@
+{
+  "kode": "TMPO",
+  "nama": "PT Tempo Inti Media Tbk",
+  "sektor": "Communication Services",
+  "industri": "Publishing",
+  "harga": 171.0,
+  "rasio_kunci": {
+    "pe": 38.0,
+    "pb": 0.7777783,
+    "ps": 0.8714755,
+    "roe": 0.01593,
+    "roic": null,
+    "de": 24.959,
+    "margin_net": 0.01757,
+    "current_ratio": 1.872,
+    "dividend_yield": 0.0,
+    "eps": 4.5,
+    "bv": 219.857
+  },
+  "statistik": {
+    "market_cap": 180974993408.0,
+    "enterprise_value": 249861881856.0,
+    "shares_outstanding": 1058333250.0,
+    "float_shares": 355229555.0,
+    "free_float_pct": 0.33564999965748027,
+    "avg_volume": 49143715.0,
+    "beta": 0.611,
+    "harga": 171.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": -0.247,
+    "vol_trend": 3.4,
+    "price_chg_20d": 2.35
+  },
+  "update": "2026-10-06 10:38"
+}

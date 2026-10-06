@@ -1,0 +1,50 @@
+{
+  "kode": "PDES",
+  "nama": "PT Destinasi Tirta Nusantara Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Travel Services",
+  "harga": 382.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.5213523,
+    "ps": 0.4395723,
+    "roe": null,
+    "roic": null,
+    "de": 121.193,
+    "margin_net": 0.04671,
+    "current_ratio": 1.87,
+    "dividend_yield": 0.27,
+    "eps": -84.2,
+    "bv": 151.506
+  },
+  "statistik": {
+    "market_cap": 273129996288.0,
+    "enterprise_value": 372646772736.0,
+    "shares_outstanding": 715000000.0,
+    "float_shares": 122057650.0,
+    "free_float_pct": 0.17071,
+    "avg_volume": 305031.0,
+    "beta": -0.35,
+    "harga": 382.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.637,
+    "vol_trend": 0.07,
+    "price_chg_20d": 0.53
+  },
+  "update": "2026-10-06 10:32"
+}

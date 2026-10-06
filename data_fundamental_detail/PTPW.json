@@ -1,0 +1,50 @@
+{
+  "kode": "PTPW",
+  "nama": "PT Pratama Widya Tbk",
+  "sektor": "Industrials",
+  "industri": "Engineering & Construction",
+  "harga": 1100.0,
+  "rasio_kunci": {
+    "pe": 14.602997,
+    "pb": 1.4011614,
+    "ps": 3.018052,
+    "roe": 0.08445,
+    "roic": null,
+    "de": 4.155,
+    "margin_net": 0.18052,
+    "current_ratio": 6.296,
+    "dividend_yield": 0.52,
+    "eps": 75.327,
+    "bv": 785.063
+  },
+  "statistik": {
+    "market_cap": 966006276096.0,
+    "enterprise_value": 925128261632.0,
+    "shares_outstanding": 878187500.0,
+    "float_shares": 84156708.0,
+    "free_float_pct": 0.09582999985766137,
+    "avg_volume": 34487.0,
+    "beta": 0.107,
+    "harga": 1100.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.471,
+    "vol_trend": 0.46,
+    "price_chg_20d": -7.95
+  },
+  "update": "2026-10-06 10:34"
+}

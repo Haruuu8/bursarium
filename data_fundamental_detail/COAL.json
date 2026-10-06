@@ -1,0 +1,50 @@
+{
+  "kode": "COAL",
+  "nama": "PT Black Diamond Resources Tbk",
+  "sektor": "Energy",
+  "industri": "Thermal Coal",
+  "harga": 31.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.5461881,
+    "ps": 1.6642514,
+    "roe": -0.025829999,
+    "roic": null,
+    "de": 54.49,
+    "margin_net": -0.0799,
+    "current_ratio": 0.763,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 56.757
+  },
+  "statistik": {
+    "market_cap": 193749991424.0,
+    "enterprise_value": 391646445568.0,
+    "shares_outstanding": 6250000000.0,
+    "float_shares": 4761812500.0,
+    "free_float_pct": 0.76189,
+    "avg_volume": 6298947.0,
+    "beta": 0.25,
+    "harga": 31.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "VAST",
+  "nama": "PT Vastland Indonesia Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate Services",
+  "harga": 104.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.7853265,
+    "ps": 7.7679987,
+    "roe": null,
+    "roic": null,
+    "de": 13.829,
+    "margin_net": 0.43363,
+    "current_ratio": 0.527,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 132.429
+  },
+  "statistik": {
+    "market_cap": 317796646912.0,
+    "enterprise_value": 360134311936.0,
+    "shares_outstanding": 3055737049.0,
+    "float_shares": 634798815.0,
+    "free_float_pct": 0.2077400001442336,
+    "avg_volume": 6652232.0,
+    "beta": 0.589,
+    "harga": 104.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.085,
+    "vol_trend": 0.29,
+    "price_chg_20d": -9.65
+  },
+  "update": "2026-10-06 10:39"
+}

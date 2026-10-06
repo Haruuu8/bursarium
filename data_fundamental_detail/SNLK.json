@@ -1,0 +1,50 @@
+{
+  "kode": "SNLK",
+  "nama": "PT Sunter Lakeside Hotel Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Lodging",
+  "harga": 232.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.6483508,
+    "ps": 2.147898,
+    "roe": -0.00902,
+    "roic": null,
+    "de": 17.399,
+    "margin_net": -0.03002,
+    "current_ratio": 2.22,
+    "dividend_yield": 0.0,
+    "eps": -18.551,
+    "bv": 357.831
+  },
+  "statistik": {
+    "market_cap": 104400003072.0,
+    "enterprise_value": 108837036032.0,
+    "shares_outstanding": 450000000.0,
+    "float_shares": 92754000.0,
+    "free_float_pct": 0.20612,
+    "avg_volume": 14788785.0,
+    "beta": 0.29,
+    "harga": 232.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.21,
+    "vol_trend": 0.65,
+    "price_chg_20d": -2.5
+  },
+  "update": "2026-10-06 10:36"
+}

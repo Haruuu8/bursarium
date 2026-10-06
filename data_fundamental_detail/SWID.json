@@ -1,0 +1,50 @@
+{
+  "kode": "SWID",
+  "nama": "PT Saraswanti Indoland Development Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 108.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.1555166,
+    "ps": 3.654093,
+    "roe": 0.11078,
+    "roic": null,
+    "de": 68.939,
+    "margin_net": 0.18193,
+    "current_ratio": 2.323,
+    "dividend_yield": 2.04,
+    "eps": null,
+    "bv": 50.104
+  },
+  "statistik": {
+    "market_cap": 581582061568.0,
+    "enterprise_value": 739710009344.0,
+    "shares_outstanding": 5385019201.0,
+    "float_shares": 1104628989.0,
+    "free_float_pct": 0.20513000005550028,
+    "avg_volume": 20719574.0,
+    "beta": 0.166,
+    "harga": 108.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.198,
+    "vol_trend": 1.37,
+    "price_chg_20d": -10.92
+  },
+  "update": "2026-10-06 10:37"
+}

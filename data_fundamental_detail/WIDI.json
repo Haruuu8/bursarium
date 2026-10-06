@@ -1,0 +1,50 @@
+{
+  "kode": "WIDI",
+  "nama": "PT Widiant Jaya Krenindo Tbk",
+  "sektor": "Industrials",
+  "industri": "Rental & Leasing Services",
+  "harga": 29.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.0548522,
+    "ps": 2.942189,
+    "roe": -0.03963,
+    "roic": null,
+    "de": 2.051,
+    "margin_net": -0.11251,
+    "current_ratio": 15.258,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 27.492
+  },
+  "statistik": {
+    "market_cap": 46400921600.0,
+    "enterprise_value": 42705178624.0,
+    "shares_outstanding": 1600031683.0,
+    "float_shares": 670637280.0,
+    "free_float_pct": 0.4191400002421077,
+    "avg_volume": 12748588.0,
+    "beta": -0.169,
+    "harga": 29.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.154,
+    "vol_trend": 0.43,
+    "price_chg_20d": 7.41
+  },
+  "update": "2026-10-06 10:39"
+}

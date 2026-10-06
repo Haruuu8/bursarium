@@ -1,0 +1,50 @@
+{
+  "kode": "BABY",
+  "nama": "PT Multitrend Indo Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Apparel Retail",
+  "harga": 186.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.8808361,
+    "ps": 0.3616026,
+    "roe": 0.01084,
+    "roic": null,
+    "de": 52.027,
+    "margin_net": 0.00374,
+    "current_ratio": 2.479,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 211.163
+  },
+  "statistik": {
+    "market_cap": 530997739520.0,
+    "enterprise_value": 744444854272.0,
+    "shares_outstanding": 2854826582.0,
+    "float_shares": 216081824.0,
+    "free_float_pct": 0.07569000000294938,
+    "avg_volume": 6006373.0,
+    "beta": 0.277,
+    "harga": 186.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.294,
+    "vol_trend": 0.33,
+    "price_chg_20d": -13.43
+  },
+  "update": "2026-10-06 10:21"
+}

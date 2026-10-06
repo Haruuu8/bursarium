@@ -1,0 +1,50 @@
+{
+  "kode": "LABS",
+  "nama": "PT UBC Medical Indonesia Tbk",
+  "sektor": "Healthcare",
+  "industri": "Medical Devices",
+  "harga": 154.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.881831,
+    "ps": 2.9270382,
+    "roe": 0.07067,
+    "roic": null,
+    "de": 15.159,
+    "margin_net": 0.05144,
+    "current_ratio": 2.8,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 39.672
+  },
+  "statistik": {
+    "market_cap": 608300040192.0,
+    "enterprise_value": 633090015232.0,
+    "shares_outstanding": 3950000000.0,
+    "float_shares": 700572000.0,
+    "free_float_pct": 0.17736,
+    "avg_volume": 4628620.0,
+    "beta": -0.174,
+    "harga": 154.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.505,
+    "vol_trend": 0.31,
+    "price_chg_20d": -15.22
+  },
+  "update": "2026-10-06 10:23"
+}

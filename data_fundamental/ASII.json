@@ -1,0 +1,28 @@
+{
+  "kode": "ASII",
+  "sumber": "yfinance",
+  "metrics": {
+    "per": 6.418919,
+    "pbv": 0.82419235,
+    "roe": 0.11983,
+    "roa": 0.0435,
+    "der": 41.125,
+    "eps": 740.0,
+    "bv": 5763.218,
+    "dividend_yield": 8.42,
+    "net_margin": 0.09354,
+    "gross_margin": 0.18989,
+    "revenue": 318448001351680.0,
+    "net_income": 29786999095296.0,
+    "market_cap": 189620289536000.0,
+    "total_asset": null,
+    "total_equity": null,
+    "current_ratio": 1.187
+  },
+  "info_extra": {
+    "nama": "PT Astra International Tbk",
+    "sektor": "Industrials",
+    "industri": "Conglomerates",
+    "harga": 4750.0
+  }
+}

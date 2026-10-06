@@ -1,0 +1,62 @@
+{
+  "kode": "MMIX",
+  "nama": "PT Multi Medika Internasional Tbk",
+  "sektor": "Healthcare",
+  "industri": "Pharmaceutical Retailers",
+  "harga": 930.0,
+  "rasio_kunci": {
+    "pe": 24.087023,
+    "pb": 23.76268,
+    "ps": 23.11775,
+    "roe": 0.02727,
+    "roic": null,
+    "de": 96.192,
+    "margin_net": 0.026129998,
+    "current_ratio": 5.6,
+    "dividend_yield": 0.0,
+    "eps": 38.61,
+    "bv": 39.137
+  },
+  "statistik": {
+    "market_cap": 4464395681792.0,
+    "enterprise_value": 4617049473024.0,
+    "shares_outstanding": 4800425380.0,
+    "float_shares": 1321413094.0,
+    "free_float_pct": 0.27526999992654816,
+    "avg_volume": 25938095.0,
+    "beta": 1.569,
+    "harga": 930.0
+  },
+  "riwayat": {
+    "eps": {
+      "2021": 5.217644
+    },
+    "revenue": {
+      "2021": 181842177291.0
+    },
+    "revenue_per_share": {
+      "2021": 37.88042994035666
+    },
+    "net_income": {
+      "2021": 25044692169.0
+    }
+  },
+  "tren": {
+    "roe": {
+      "2021": 94.87500053033295
+    },
+    "roa": {
+      "2021": 22.92056096945277
+    },
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.253,
+    "vol_trend": 0.66,
+    "price_chg_20d": 14.2
+  },
+  "update": "2026-10-06 10:31"
+}

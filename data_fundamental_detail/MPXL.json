@@ -1,0 +1,50 @@
+{
+  "kode": "MPXL",
+  "nama": "PT MPX Logistics International Tbk",
+  "sektor": "Industrials",
+  "industri": "Trucking",
+  "harga": 260.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 5.599707,
+    "ps": 3.6238573,
+    "roe": null,
+    "roic": null,
+    "de": 105.376,
+    "margin_net": -0.00698,
+    "current_ratio": 0.934,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 46.431
+  },
+  "statistik": {
+    "market_cap": 520003813376.0,
+    "enterprise_value": 576729120768.0,
+    "shares_outstanding": 2000014667.0,
+    "float_shares": 378402775.0,
+    "free_float_pct": 0.18920000000179998,
+    "avg_volume": 5119515.0,
+    "beta": 0.031,
+    "harga": 260.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.033,
+    "vol_trend": 10.05,
+    "price_chg_20d": 42.2
+  },
+  "update": "2026-10-06 10:31"
+}

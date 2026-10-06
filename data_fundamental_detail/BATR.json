@@ -1,0 +1,50 @@
+{
+  "kode": "BATR",
+  "nama": "PT Benteng Api Technic Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Building Materials",
+  "harga": 95.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.7554882,
+    "ps": 1.6413287,
+    "roe": 0.100559995,
+    "roic": null,
+    "de": 24.999,
+    "margin_net": 0.08831,
+    "current_ratio": 2.982,
+    "dividend_yield": 2.22,
+    "eps": null,
+    "bv": 54.116
+  },
+  "statistik": {
+    "market_cap": 282709524480.0,
+    "enterprise_value": 298486005760.0,
+    "shares_outstanding": 2975889553.0,
+    "float_shares": 537237341.0,
+    "free_float_pct": 0.18052999999896166,
+    "avg_volume": 2445993.0,
+    "beta": 0.468,
+    "harga": 95.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": -0.007,
+    "vol_trend": 4.88,
+    "price_chg_20d": 1.08
+  },
+  "update": "2026-10-06 10:21"
+}

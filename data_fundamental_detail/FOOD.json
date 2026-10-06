@@ -1,0 +1,50 @@
+{
+  "kode": "FOOD",
+  "nama": "PT Sentra Food Indonesia Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 176.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -4.55994,
+    "ps": 1.1927592,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.15646,
+    "current_ratio": 0.24,
+    "dividend_yield": 0.0,
+    "eps": -19.315,
+    "bv": -38.597
+  },
+  "statistik": {
+    "market_cap": 114400002048.0,
+    "enterprise_value": 121417244672.0,
+    "shares_outstanding": 650000000.0,
+    "float_shares": 150000500.0,
+    "free_float_pct": 0.23077,
+    "avg_volume": 0.0,
+    "beta": 0.507,
+    "harga": 176.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

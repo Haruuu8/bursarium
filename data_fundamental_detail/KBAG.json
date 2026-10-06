@@ -1,0 +1,50 @@
+{
+  "kode": "KBAG",
+  "nama": "PT Karya Bersama Anugerah Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Residential Construction",
+  "harga": 40.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.8473499,
+    "ps": 12.322697,
+    "roe": -0.03156,
+    "roic": null,
+    "de": 0.58,
+    "margin_net": -0.46653,
+    "current_ratio": 3.27,
+    "dividend_yield": 0.0,
+    "eps": -0.078,
+    "bv": 47.206
+  },
+  "statistik": {
+    "market_cap": 286000119808.0,
+    "enterprise_value": 285057515520.0,
+    "shares_outstanding": 7150002603.0,
+    "float_shares": 2446873891.0,
+    "free_float_pct": 0.34222000002815944,
+    "avg_volume": 6028774.0,
+    "beta": -0.021,
+    "harga": 40.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": 0.071,
+    "vol_trend": 4.01,
+    "price_chg_20d": -11.11
+  },
+  "update": "2026-10-06 10:23"
+}

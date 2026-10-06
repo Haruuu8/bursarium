@@ -1,0 +1,50 @@
+{
+  "kode": "TALF",
+  "nama": "PT Tunas Alfin Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Packaging & Containers",
+  "harga": 665.0,
+  "rasio_kunci": {
+    "pe": 43.721237,
+    "pb": 0.68744725,
+    "ps": 0.62635463,
+    "roe": 0.048800003,
+    "roic": null,
+    "de": 19.649,
+    "margin_net": 0.04369,
+    "current_ratio": 1.965,
+    "dividend_yield": 1.22,
+    "eps": 15.21,
+    "bv": 967.347
+  },
+  "statistik": {
+    "market_cap": 900034265088.0,
+    "enterprise_value": 1155768909824.0,
+    "shares_outstanding": 1353435000.0,
+    "float_shares": 110494433.0,
+    "free_float_pct": 0.08163999970445569,
+    "avg_volume": 349941.0,
+    "beta": -0.162,
+    "harga": 665.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.073,
+    "vol_trend": 0.45,
+    "price_chg_20d": -7.09
+  },
+  "update": "2026-10-06 10:37"
+}

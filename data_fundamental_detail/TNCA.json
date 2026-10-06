@@ -1,0 +1,50 @@
+{
+  "kode": "TNCA",
+  "nama": "PT Trimuda Nuansa Citra Tbk",
+  "sektor": "Industrials",
+  "industri": "Integrated Freight & Logistics",
+  "harga": 180.0,
+  "rasio_kunci": {
+    "pe": 56.057304,
+    "pb": 1.8194867,
+    "ps": 0.91655123,
+    "roe": -0.05317,
+    "roic": null,
+    "de": 2.197,
+    "margin_net": -0.027509999,
+    "current_ratio": 1.966,
+    "dividend_yield": 0.0,
+    "eps": 3.211,
+    "bv": 98.929
+  },
+  "statistik": {
+    "market_cap": 75895201792.0,
+    "enterprise_value": 72729239552.0,
+    "shares_outstanding": 421640000.0,
+    "float_shares": 148134781.0,
+    "free_float_pct": 0.3513299995256617,
+    "avg_volume": 3988266.0,
+    "beta": 0.719,
+    "harga": 180.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.658,
+    "vol_trend": 0.21,
+    "price_chg_20d": -1.68
+  },
+  "update": "2026-10-06 10:38"
+}

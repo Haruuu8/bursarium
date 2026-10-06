@@ -1,0 +1,50 @@
+{
+  "kode": "RBMS",
+  "nama": "PT Ristia Bintang Mahkotasejati Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 46.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.24542104,
+    "ps": 0.47311845,
+    "roe": 0.0173,
+    "roic": null,
+    "de": 27.002,
+    "margin_net": 0.03215,
+    "current_ratio": 1.886,
+    "dividend_yield": 0.0,
+    "eps": -10.043,
+    "bv": 187.433
+  },
+  "statistik": {
+    "market_cap": 122185785344.0,
+    "enterprise_value": 184858918912.0,
+    "shares_outstanding": 260000000.0,
+    "float_shares": 189281726.0,
+    "free_float_pct": 0.7280066384615385,
+    "avg_volume": 52679153.0,
+    "beta": 0.348,
+    "harga": 46.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.211,
+    "vol_trend": 1.11,
+    "price_chg_20d": -31.25
+  },
+  "update": "2026-10-06 10:34"
+}

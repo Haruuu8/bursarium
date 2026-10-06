@@ -1,0 +1,50 @@
+{
+  "kode": "WAPO",
+  "nama": "PT Wahana Pronatural Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Packaged Foods",
+  "harga": 300.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 6.111473,
+    "ps": 0.22299509,
+    "roe": -0.13741,
+    "roic": null,
+    "de": 0.053,
+    "margin_net": -0.00541,
+    "current_ratio": 1.377,
+    "dividend_yield": 0.0,
+    "eps": -1.287,
+    "bv": 49.088
+  },
+  "statistik": {
+    "market_cap": 372276953088.0,
+    "enterprise_value": 429990084608.0,
+    "shares_outstanding": 1240923111.0,
+    "float_shares": 290797922.0,
+    "free_float_pct": 0.2343400001355926,
+    "avg_volume": 4258714.0,
+    "beta": -0.765,
+    "harga": 300.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.215,
+    "vol_trend": 0.0,
+    "price_chg_20d": 104.65
+  },
+  "update": "2026-10-06 10:39"
+}

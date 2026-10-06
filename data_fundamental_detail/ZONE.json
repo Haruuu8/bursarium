@@ -1,0 +1,50 @@
+{
+  "kode": "ZONE",
+  "nama": "PT Mega Perintis Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Apparel Retail",
+  "harga": 665.0,
+  "rasio_kunci": {
+    "pe": 11.784303,
+    "pb": 1.4428918,
+    "ps": 0.6659282,
+    "roe": 0.0766,
+    "roic": null,
+    "de": 39.878,
+    "margin_net": 0.03463,
+    "current_ratio": 2.144,
+    "dividend_yield": 1.94,
+    "eps": 56.431,
+    "bv": 460.88
+  },
+  "statistik": {
+    "market_cap": 578664005632.0,
+    "enterprise_value": 689454448640.0,
+    "shares_outstanding": 870171478.0,
+    "float_shares": 131134842.0,
+    "free_float_pct": 0.15070000030499736,
+    "avg_volume": 297079.0,
+    "beta": -0.462,
+    "harga": 665.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.388,
+    "vol_trend": 0.65,
+    "price_chg_20d": -13.99
+  },
+  "update": "2026-10-06 10:39"
+}

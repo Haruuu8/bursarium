@@ -1,0 +1,50 @@
+{
+  "kode": "PTPS",
+  "nama": "PT Pulau Subur Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 150.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.7396348,
+    "ps": 4.9555817,
+    "roe": 0.097799994,
+    "roic": null,
+    "de": 0.22,
+    "margin_net": 0.28266,
+    "current_ratio": 46.411,
+    "dividend_yield": 5.33,
+    "eps": null,
+    "bv": 86.225
+  },
+  "statistik": {
+    "market_cap": 325127241728.0,
+    "enterprise_value": 260793401344.0,
+    "shares_outstanding": 2167514856.0,
+    "float_shares": 450019434.0,
+    "free_float_pct": 0.20761999981420196,
+    "avg_volume": 2859603.0,
+    "beta": 0.115,
+    "harga": 150.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.146,
+    "vol_trend": 0.49,
+    "price_chg_20d": -10.71
+  },
+  "update": "2026-10-06 10:34"
+}

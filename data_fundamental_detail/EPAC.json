@@ -1,0 +1,50 @@
+{
+  "kode": "EPAC",
+  "nama": "PT Megalestari Epack Sentosaraya Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Packaging & Containers",
+  "harga": 49.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.3044724,
+    "ps": 0.9177132,
+    "roe": 0.04172,
+    "roic": null,
+    "de": 118.121,
+    "margin_net": -0.022079999,
+    "current_ratio": 0.499,
+    "dividend_yield": 0.0,
+    "eps": -0.528,
+    "bv": 21.263
+  },
+  "statistik": {
+    "market_cap": 161866596352.0,
+    "enterprise_value": 242275352576.0,
+    "shares_outstanding": 3303400000.0,
+    "float_shares": 1220342028.0,
+    "free_float_pct": 0.36942,
+    "avg_volume": 200650801.0,
+    "beta": 0.591,
+    "harga": 49.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.017,
+    "vol_trend": 4.25,
+    "price_chg_20d": -14.55
+  },
+  "update": "2026-10-06 10:22"
+}

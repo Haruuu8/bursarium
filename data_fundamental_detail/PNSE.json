@@ -1,0 +1,50 @@
+{
+  "kode": "PNSE",
+  "nama": "PT Pudjiadi and Sons Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Resorts & Casinos",
+  "harga": 450.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.3502586,
+    "ps": 1.5997863,
+    "roe": -0.049000002,
+    "roic": null,
+    "de": 11.758,
+    "margin_net": -0.06684,
+    "current_ratio": 0.457,
+    "dividend_yield": 0.0,
+    "eps": -39.21,
+    "bv": 134.318
+  },
+  "statistik": {
+    "market_cap": 359016071168.0,
+    "enterprise_value": 425007742976.0,
+    "shares_outstanding": 797813496.0,
+    "float_shares": 65987154.0,
+    "free_float_pct": 0.08270999968142931,
+    "avg_volume": 24898.0,
+    "beta": -0.285,
+    "harga": 450.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.346,
+    "vol_trend": 0.44,
+    "price_chg_20d": -9.64
+  },
+  "update": "2026-10-06 10:33"
+}

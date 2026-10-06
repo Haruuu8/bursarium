@@ -1,0 +1,50 @@
+{
+  "kode": "ASHA",
+  "nama": "PT Cilacap Samudera Fishing Industry Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 43.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.9846764,
+    "ps": 0.915383,
+    "roe": -0.14092,
+    "roic": null,
+    "de": 3.062,
+    "margin_net": -0.06992,
+    "current_ratio": 4.927,
+    "dividend_yield": 0.0,
+    "eps": -3.15,
+    "bv": 21.666
+  },
+  "statistik": {
+    "market_cap": 215000006656.0,
+    "enterprise_value": 216030920704.0,
+    "shares_outstanding": 5000000000.0,
+    "float_shares": 2225000000.0,
+    "free_float_pct": 0.445,
+    "avg_volume": 39563418.0,
+    "beta": 1.32,
+    "harga": 43.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.222,
+    "vol_trend": 0.66,
+    "price_chg_20d": -25.86
+  },
+  "update": "2026-10-06 10:21"
+}

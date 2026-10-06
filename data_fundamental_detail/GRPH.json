@@ -1,0 +1,50 @@
+{
+  "kode": "GRPH",
+  "nama": "PT Griptha Putra Persada Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Lodging",
+  "harga": 111.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.4093806,
+    "ps": 3.12902,
+    "roe": 0.04142,
+    "roic": null,
+    "de": 20.033,
+    "margin_net": 0.09004,
+    "current_ratio": 0.649,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 78.758
+  },
+  "statistik": {
+    "market_cap": 111000002560.0,
+    "enterprise_value": 119603740672.0,
+    "shares_outstanding": 1000000000.0,
+    "float_shares": 292580000.0,
+    "free_float_pct": 0.29258,
+    "avg_volume": 42812009.0,
+    "beta": 0.791,
+    "harga": 111.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.212,
+    "vol_trend": 1.55,
+    "price_chg_20d": -21.21
+  },
+  "update": "2026-10-06 10:22"
+}

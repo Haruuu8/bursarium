@@ -1,0 +1,50 @@
+{
+  "kode": "LMPI",
+  "nama": "PT Langgeng Makmur Industri Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Furnishings, Fixtures & Appliances",
+  "harga": 158.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -4.1920934,
+    "ps": 0.464896,
+    "roe": -3.72275,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.47337002,
+    "current_ratio": 0.712,
+    "dividend_yield": 0.0,
+    "eps": -14.241,
+    "bv": -37.69
+  },
+  "statistik": {
+    "market_cap": 159345803264.0,
+    "enterprise_value": 406824878080.0,
+    "shares_outstanding": 1008517669.0,
+    "float_shares": 129725628.0,
+    "free_float_pct": 0.12863000023453233,
+    "avg_volume": 1663679.0,
+    "beta": 0.349,
+    "harga": 158.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.748,
+    "vol_trend": 0.27,
+    "price_chg_20d": -1.86
+  },
+  "update": "2026-10-06 10:23"
+}

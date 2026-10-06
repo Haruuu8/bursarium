@@ -1,0 +1,50 @@
+{
+  "kode": "MTWI",
+  "nama": "PT Malacca Trust Wuwungan Insurance Tbk",
+  "sektor": "Financial Services",
+  "industri": "Insurance - Diversified",
+  "harga": 260.0,
+  "rasio_kunci": {
+    "pe": 58.55856,
+    "pb": 1.8412555,
+    "ps": 0.39024112,
+    "roe": 0.05074,
+    "roic": null,
+    "de": 1.019,
+    "margin_net": 0.01066,
+    "current_ratio": 1.903,
+    "dividend_yield": 1.63,
+    "eps": 4.44,
+    "bv": 141.208
+  },
+  "statistik": {
+    "market_cap": 760366497792.0,
+    "enterprise_value": 412463497216.0,
+    "shares_outstanding": 2924486639.0,
+    "float_shares": 175439953.0,
+    "free_float_pct": 0.05998999983805363,
+    "avg_volume": 79517.0,
+    "beta": -0.28,
+    "harga": 260.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.118,
+    "vol_trend": 0.12,
+    "price_chg_20d": -2.26
+  },
+  "update": "2026-10-06 10:31"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "FIMP",
+  "nama": "PT Fimperkasa Utama Tbk",
+  "sektor": "Industrials",
+  "industri": "Engineering & Construction",
+  "harga": 69.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.3580272,
+    "ps": 12.376711,
+    "roe": -0.40941003,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.0,
+    "current_ratio": 5.147,
+    "dividend_yield": null,
+    "eps": -2.337,
+    "bv": 50.809
+  },
+  "statistik": {
+    "market_cap": 27600066560.0,
+    "enterprise_value": 27578882048.0,
+    "shares_outstanding": 400000975.0,
+    "float_shares": 235900575.0,
+    "free_float_pct": 0.589749999984375,
+    "avg_volume": 0.0,
+    "beta": 0.261,
+    "harga": 69.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "BEER",
+  "nama": "PT Jobubu Jarum Minahasa Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Beverages - Wineries & Distilleries",
+  "harga": 62.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.057389,
+    "ps": 6.6274714,
+    "roe": 0.004,
+    "roic": null,
+    "de": 4.681,
+    "margin_net": 0.025009999,
+    "current_ratio": 17.997,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 58.635
+  },
+  "statistik": {
+    "market_cap": 248000004096.0,
+    "enterprise_value": 254878253056.0,
+    "shares_outstanding": 4000000000.0,
+    "float_shares": 952320000.0,
+    "free_float_pct": 0.23808,
+    "avg_volume": 27243898.0,
+    "beta": -0.013,
+    "harga": 62.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.499,
+    "vol_trend": 0.82,
+    "price_chg_20d": -24.69
+  },
+  "update": "2026-10-06 10:21"
+}

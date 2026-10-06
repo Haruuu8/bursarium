@@ -1,0 +1,50 @@
+{
+  "kode": "VRNA",
+  "nama": "PT Mizuho Leasing Indonesia Tbk",
+  "sektor": "Financial Services",
+  "industri": "Credit Services",
+  "harga": 75.0,
+  "rasio_kunci": {
+    "pe": 108.85341,
+    "pb": 0.5733112,
+    "ps": 2.2070057,
+    "roe": 0.01754,
+    "roic": null,
+    "de": 307.727,
+    "margin_net": 0.06727,
+    "current_ratio": 1.418,
+    "dividend_yield": 0.0,
+    "eps": 0.689,
+    "bv": 130.819
+  },
+  "statistik": {
+    "market_cap": 426551541760.0,
+    "enterprise_value": 2669888667648.0,
+    "shares_outstanding": 5687353997.0,
+    "float_shares": null,
+    "free_float_pct": null,
+    "avg_volume": 4615114.0,
+    "beta": 0.056,
+    "harga": 75.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.225,
+    "vol_trend": 0.13,
+    "price_chg_20d": -25.74
+  },
+  "update": "2026-10-06 10:39"
+}

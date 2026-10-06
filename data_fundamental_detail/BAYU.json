@@ -1,0 +1,50 @@
+{
+  "kode": "BAYU",
+  "nama": "PT Bayu Buana Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Travel Services",
+  "harga": 1315.0,
+  "rasio_kunci": {
+    "pe": 55.871857,
+    "pb": 0.7823595,
+    "ps": 0.20087239,
+    "roe": 0.23264,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.055419996,
+    "current_ratio": 2.151,
+    "dividend_yield": 7.58,
+    "eps": 23.536,
+    "bv": 1680.813
+  },
+  "statistik": {
+    "market_cap": 464485318656.0,
+    "enterprise_value": 10501417984.0,
+    "shares_outstanding": 353220780.0,
+    "float_shares": 254050514.0,
+    "free_float_pct": 0.7192400005458343,
+    "avg_volume": 124196.0,
+    "beta": -0.087,
+    "harga": 1315.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.405,
+    "vol_trend": 0.5,
+    "price_chg_20d": -1.86
+  },
+  "update": "2026-10-06 10:21"
+}

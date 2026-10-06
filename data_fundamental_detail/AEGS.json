@@ -1,0 +1,50 @@
+{
+  "kode": "AEGS",
+  "nama": "PT. Anugerah Spareparts Sejahtera Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Auto Parts",
+  "harga": 48.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.69609606,
+    "ps": 1.713648,
+    "roe": 0.0078100003,
+    "roic": null,
+    "de": 0.416,
+    "margin_net": 0.01916,
+    "current_ratio": 10.005,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 68.956
+  },
+  "statistik": {
+    "market_cap": 48291872768.0,
+    "enterprise_value": 36732874752.0,
+    "shares_outstanding": 1006080721.0,
+    "float_shares": 400078060.0,
+    "free_float_pct": 0.39766000048419575,
+    "avg_volume": 5800836.0,
+    "beta": 1.637,
+    "harga": 48.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.064,
+    "vol_trend": 0.62,
+    "price_chg_20d": -2.04
+  },
+  "update": "2026-10-06 10:20"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "BAPI",
+  "nama": "PT Bhakti Agung Propertindo Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 20.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.2813454,
+    "ps": 70.42796,
+    "roe": -0.053319998,
+    "roic": null,
+    "de": 42.909,
+    "margin_net": 0.0,
+    "current_ratio": 5.665,
+    "dividend_yield": 0.0,
+    "eps": -0.18,
+    "bv": 71.087
+  },
+  "statistik": {
+    "market_cap": 111839600640.0,
+    "enterprise_value": 265187262464.0,
+    "shares_outstanding": 5591980103.0,
+    "float_shares": 2955249645.0,
+    "free_float_pct": 0.5284800000297856,
+    "avg_volume": 26199388.0,
+    "beta": -0.033,
+    "harga": 20.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.039,
+    "vol_trend": 4.09,
+    "price_chg_20d": -14.29
+  },
+  "update": "2026-10-06 10:21"
+}

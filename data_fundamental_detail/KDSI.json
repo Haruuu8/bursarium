@@ -1,0 +1,50 @@
+{
+  "kode": "KDSI",
+  "nama": "PT Kedawung Setia Industrial Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Packaging & Containers",
+  "harga": 468.0,
+  "rasio_kunci": {
+    "pe": 2.6095102,
+    "pb": 0.9504024,
+    "ps": 0.34585428,
+    "roe": 0.08116,
+    "roic": null,
+    "de": 23.512,
+    "margin_net": 0.02903,
+    "current_ratio": 1.742,
+    "dividend_yield": 4.27,
+    "eps": 179.344,
+    "bv": 492.423
+  },
+  "statistik": {
+    "market_cap": 758160031744.0,
+    "enterprise_value": 864803618816.0,
+    "shares_outstanding": 1620000000.0,
+    "float_shares": 257742000.0,
+    "free_float_pct": 0.1591,
+    "avg_volume": 12166.0,
+    "beta": -0.111,
+    "harga": 468.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.476,
+    "vol_trend": 1.35,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:23"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "AHAP",
+  "nama": "PT Asuransi Harta Aman Pratama Tbk",
+  "sektor": "Financial Services",
+  "industri": "Insurance - Property & Casualty",
+  "harga": 95.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.7013962,
+    "ps": 0.70757574,
+    "roe": -0.0994,
+    "roic": null,
+    "de": 19.505,
+    "margin_net": -0.02301,
+    "current_ratio": 839.669,
+    "dividend_yield": 0.0,
+    "eps": -2.968,
+    "bv": 35.167
+  },
+  "statistik": {
+    "market_cap": 588000002048.0,
+    "enterprise_value": 371060932608.0,
+    "shares_outstanding": 6189473684.0,
+    "float_shares": 1266895000.0,
+    "free_float_pct": 0.20468541667362875,
+    "avg_volume": 47446013.0,
+    "beta": 0.253,
+    "harga": 95.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.24,
+    "vol_trend": 0.3,
+    "price_chg_20d": -6.93
+  },
+  "update": "2026-10-06 10:21"
+}

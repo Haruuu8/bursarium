@@ -1,0 +1,50 @@
+{
+  "kode": "SMGA",
+  "nama": "PT Sumber Mineral Global Abadi Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Other Industrial Metals & Mining",
+  "harga": 88.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.8016912,
+    "ps": 0.295502,
+    "roe": 0.18254,
+    "roic": null,
+    "de": 7.794,
+    "margin_net": 0.03086,
+    "current_ratio": 1.742,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 48.843
+  },
+  "statistik": {
+    "market_cap": 770000027648.0,
+    "enterprise_value": 740650713088.0,
+    "shares_outstanding": 8750000000.0,
+    "float_shares": 1750000000.0,
+    "free_float_pct": 0.2,
+    "avg_volume": 15209117.0,
+    "beta": null,
+    "harga": 88.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 6,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.021,
+    "vol_trend": 1.34,
+    "price_chg_20d": -3.33
+  },
+  "update": "2026-10-06 10:36"
+}

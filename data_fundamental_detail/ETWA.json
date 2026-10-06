@@ -1,0 +1,65 @@
+{
+  "kode": "ETWA",
+  "nama": "PT Eterindo Wahanatama Tbk",
+  "sektor": "",
+  "industri": "",
+  "harga": 70.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": -0.75840473,
+    "ps": null,
+    "roe": null,
+    "roic": null,
+    "de": null,
+    "margin_net": null,
+    "current_ratio": null,
+    "dividend_yield": null,
+    "eps": null,
+    "bv": -92.299
+  },
+  "statistik": {
+    "market_cap": 326806994944.0,
+    "enterprise_value": null,
+    "shares_outstanding": 4668671400.0,
+    "float_shares": null,
+    "free_float_pct": null,
+    "avg_volume": null,
+    "beta": null,
+    "harga": 70.0
+  },
+  "riwayat": {
+    "eps": {
+      "2022": -60.42,
+      "2021": -97.43
+    },
+    "revenue": {
+      "2022": 48306825917.0,
+      "2021": 3715594629.0
+    },
+    "revenue_per_share": {
+      "2022": 10.347017765482489,
+      "2021": 0.7958569602906729
+    },
+    "net_income": {
+      "2022": -282063443382.0,
+      "2021": -124379252361.0
+    }
+  },
+  "tren": {
+    "roe": {},
+    "roa": {
+      "2022": -31.508270815192756,
+      "2021": -11.805671902787761
+    },
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

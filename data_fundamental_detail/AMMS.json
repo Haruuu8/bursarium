@@ -1,0 +1,50 @@
+{
+  "kode": "AMMS",
+  "nama": "PT Agung Menjangan Mas Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 210.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.5727046,
+    "ps": 17.604624,
+    "roe": -0.03782,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.18514,
+    "current_ratio": 20.998,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 58.779
+  },
+  "statistik": {
+    "market_cap": 251999993856.0,
+    "enterprise_value": 242974932992.0,
+    "shares_outstanding": 1200000000.0,
+    "float_shares": 298800000.0,
+    "free_float_pct": 0.249,
+    "avg_volume": 915498.0,
+    "beta": null,
+    "harga": 210.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.058,
+    "vol_trend": 0.35,
+    "price_chg_20d": -7.14
+  },
+  "update": "2026-10-06 10:21"
+}

@@ -1,0 +1,68 @@
+{
+  "kode": "TRUE",
+  "nama": "PT Triniti Dinamik Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 58.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.074392,
+    "ps": 4.7529225,
+    "roe": -0.16271,
+    "roic": null,
+    "de": 135.373,
+    "margin_net": -0.40636003,
+    "current_ratio": 3.176,
+    "dividend_yield": 0.0,
+    "eps": -5.06,
+    "bv": 27.96
+  },
+  "statistik": {
+    "market_cap": 439124262912.0,
+    "enterprise_value": 629595111424.0,
+    "shares_outstanding": 7571107860.0,
+    "float_shares": 1396188000.0,
+    "free_float_pct": 0.1844099999388993,
+    "avg_volume": 90575080.0,
+    "beta": null,
+    "harga": 58.0
+  },
+  "riwayat": {
+    "eps": {
+      "2025": -4.65,
+      "2024": -7.7
+    },
+    "revenue": {
+      "2025": 91502525432.0,
+      "2024": 87150570699.0
+    },
+    "revenue_per_share": {
+      "2025": 12.085751137614885,
+      "2024": 11.5109403155432
+    },
+    "net_income": {
+      "2025": -35217885774.0,
+      "2024": -58294056088.0
+    }
+  },
+  "tren": {
+    "roe": {
+      "2025": -15.722942762102853,
+      "2024": -22.525979492820756
+    },
+    "roa": {
+      "2025": -5.165038333841836,
+      "2024": -7.569045863913672
+    },
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.152,
+    "vol_trend": 1.2,
+    "price_chg_20d": -8.0
+  },
+  "update": "2026-10-06 10:38"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "VINS",
+  "nama": "PT Victoria Insurance Tbk",
+  "sektor": "Financial Services",
+  "industri": "Insurance - Property & Casualty",
+  "harga": 141.0,
+  "rasio_kunci": {
+    "pe": 17.866194,
+    "pb": 0.9516032,
+    "ps": 1.3113347,
+    "roe": 0.09413999,
+    "roic": null,
+    "de": 0.573,
+    "margin_net": 0.13045,
+    "current_ratio": 1.168,
+    "dividend_yield": 0.0,
+    "eps": 7.892,
+    "bv": 148.171
+  },
+  "statistik": {
+    "market_cap": 205940867072.0,
+    "enterprise_value": 202539450368.0,
+    "shares_outstanding": 1460573616.0,
+    "float_shares": 93128174.0,
+    "free_float_pct": 0.06376136949197089,
+    "avg_volume": 838164.0,
+    "beta": 0.655,
+    "harga": 141.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.398,
+    "vol_trend": 0.09,
+    "price_chg_20d": -2.78
+  },
+  "update": "2026-10-06 10:39"
+}

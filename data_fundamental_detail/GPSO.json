@@ -1,0 +1,50 @@
+{
+  "kode": "GPSO",
+  "nama": "PT Geoprima Solusi Tbk",
+  "sektor": "Technology",
+  "industri": "Scientific & Technical Instruments",
+  "harga": 216.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.4192903,
+    "ps": 31.626318,
+    "roe": -0.041479997,
+    "roic": null,
+    "de": 2.411,
+    "margin_net": -0.35496,
+    "current_ratio": 12.788,
+    "dividend_yield": 0.0,
+    "eps": -3.716,
+    "bv": 63.171
+  },
+  "statistik": {
+    "market_cap": 158417666048.0,
+    "enterprise_value": 146237227008.0,
+    "shares_outstanding": 733415103.0,
+    "float_shares": 385129663.0,
+    "free_float_pct": 0.5251182603475784,
+    "avg_volume": 35595295.0,
+    "beta": 0.437,
+    "harga": 216.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.175,
+    "vol_trend": 0.66,
+    "price_chg_20d": -24.83
+  },
+  "update": "2026-10-06 10:22"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "INTD",
+  "nama": "PT Inter Delta Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Paper & Paper Products",
+  "harga": 326.0,
+  "rasio_kunci": {
+    "pe": 65.831985,
+    "pb": 5.6372123,
+    "ps": 5.616743,
+    "roe": -0.04889,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.05013,
+    "current_ratio": 53.428,
+    "dividend_yield": 0.0,
+    "eps": 4.952,
+    "bv": 57.83
+  },
+  "statistik": {
+    "market_cap": 192935919616.0,
+    "enterprise_value": 192287604736.0,
+    "shares_outstanding": 591828000.0,
+    "float_shares": 75487661.0,
+    "free_float_pct": 0.12754999932412794,
+    "avg_volume": 1141744.0,
+    "beta": 0.308,
+    "harga": 326.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.168,
+    "vol_trend": 0.24,
+    "price_chg_20d": 25.95
+  },
+  "update": "2026-10-06 10:22"
+}

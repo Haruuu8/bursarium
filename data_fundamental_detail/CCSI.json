@@ -1,0 +1,50 @@
+{
+  "kode": "CCSI",
+  "nama": "PT Communication Cable Systems Indonesia Tbk",
+  "sektor": "Technology",
+  "industri": "Communication Equipment",
+  "harga": 432.0,
+  "rasio_kunci": {
+    "pe": 13.286584,
+    "pb": 1.0470418,
+    "ps": 1.8608923,
+    "roe": 0.00105,
+    "roic": null,
+    "de": 16.756,
+    "margin_net": 0.00224,
+    "current_ratio": 2.497,
+    "dividend_yield": 0.0,
+    "eps": 32.514,
+    "bv": 412.591
+  },
+  "statistik": {
+    "market_cap": 576000032768.0,
+    "enterprise_value": 603805057024.0,
+    "shares_outstanding": 1333333331.0,
+    "float_shares": 373119999.0,
+    "free_float_pct": 0.27983999973972,
+    "avg_volume": 4912304.0,
+    "beta": 0.26,
+    "harga": 432.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": -0.062,
+    "vol_trend": 2.17,
+    "price_chg_20d": 50.7
+  },
+  "update": "2026-10-06 10:22"
+}

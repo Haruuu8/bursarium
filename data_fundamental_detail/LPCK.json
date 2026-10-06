@@ -1,0 +1,50 @@
+{
+  "kode": "LPCK",
+  "nama": "PT Lippo Cikarang Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate - Development",
+  "harga": 510.0,
+  "rasio_kunci": {
+    "pe": 11.325783,
+    "pb": 0.38090175,
+    "ps": 0.68538535,
+    "roe": 0.03504,
+    "roic": null,
+    "de": 11.621,
+    "margin_net": 0.061739996,
+    "current_ratio": 2.954,
+    "dividend_yield": 0.0,
+    "eps": 45.03,
+    "bv": 1338.928
+  },
+  "statistik": {
+    "market_cap": 2618689585152.0,
+    "enterprise_value": 2977111212032.0,
+    "shares_outstanding": 5134685692.0,
+    "float_shares": 564815426.0,
+    "free_float_pct": 0.10999999997662953,
+    "avg_volume": 490984.0,
+    "beta": 0.393,
+    "harga": 510.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.381,
+    "vol_trend": 0.51,
+    "price_chg_20d": -15.13
+  },
+  "update": "2026-10-06 10:23"
+}

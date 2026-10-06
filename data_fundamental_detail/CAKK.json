@@ -1,0 +1,50 @@
+{
+  "kode": "CAKK",
+  "nama": "PT Cahayaputra Asa Keramik Tbk",
+  "sektor": "Industrials",
+  "industri": "Building Products & Equipment",
+  "harga": 156.0,
+  "rasio_kunci": {
+    "pe": 13.009757,
+    "pb": 1.3985387,
+    "ps": 0.40597838,
+    "roe": -0.20448999,
+    "roic": null,
+    "de": 206.987,
+    "margin_net": -0.06613,
+    "current_ratio": 0.532,
+    "dividend_yield": 0.0,
+    "eps": 11.991,
+    "bv": 111.545
+  },
+  "statistik": {
+    "market_cap": 187714830336.0,
+    "enterprise_value": 464443211776.0,
+    "shares_outstanding": 1203300219.0,
+    "float_shares": 136658806.0,
+    "free_float_pct": 0.1135700001065154,
+    "avg_volume": 584620.0,
+    "beta": 0.043,
+    "harga": 156.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.134,
+    "vol_trend": 0.39,
+    "price_chg_20d": -2.5
+  },
+  "update": "2026-10-06 10:22"
+}

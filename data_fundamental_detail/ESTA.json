@@ -1,0 +1,50 @@
+{
+  "kode": "ESTA",
+  "nama": "PT Esta Multi Usaha Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Lodging",
+  "harga": 171.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 2.3511944,
+    "ps": 7.8808346,
+    "roe": -0.04283,
+    "roic": null,
+    "de": 79.691,
+    "margin_net": -0.14681,
+    "current_ratio": 0.867,
+    "dividend_yield": 0.0,
+    "eps": -0.417,
+    "bv": 72.729
+  },
+  "statistik": {
+    "market_cap": 414735564800.0,
+    "enterprise_value": 528678715392.0,
+    "shares_outstanding": 2425354179.0,
+    "float_shares": 718123119.0,
+    "free_float_pct": 0.29609000005767816,
+    "avg_volume": 2923161.0,
+    "beta": 0.1,
+    "harga": 171.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.452,
+    "vol_trend": 0.32,
+    "price_chg_20d": -4.07
+  },
+  "update": "2026-10-06 10:22"
+}

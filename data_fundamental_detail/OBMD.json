@@ -1,0 +1,50 @@
+{
+  "kode": "OBMD",
+  "nama": "PT OBM Drilchem Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 187.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.711649,
+    "ps": 1.1283054,
+    "roe": 0.07757,
+    "roic": null,
+    "de": 0.929,
+    "margin_net": 0.11823,
+    "current_ratio": 27.109,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 262.77
+  },
+  "statistik": {
+    "market_cap": 150720675840.0,
+    "enterprise_value": 48705273856.0,
+    "shares_outstanding": 805992931.0,
+    "float_shares": 199531610.0,
+    "free_float_pct": 0.24756000000203476,
+    "avg_volume": 1461587.0,
+    "beta": -1.836,
+    "harga": 187.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.526,
+    "vol_trend": 0.38,
+    "price_chg_20d": -7.11
+  },
+  "update": "2026-10-06 10:32"
+}

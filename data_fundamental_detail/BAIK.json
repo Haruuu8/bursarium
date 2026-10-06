@@ -1,0 +1,50 @@
+{
+  "kode": "BAIK",
+  "nama": "PT Bersama Mencapai Puncak Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Restaurants",
+  "harga": 238.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.9631941,
+    "ps": 1.1992711,
+    "roe": 0.0252,
+    "roic": null,
+    "de": 1.015,
+    "margin_net": 0.01602,
+    "current_ratio": 10.731,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 121.231
+  },
+  "statistik": {
+    "market_cap": 268344426496.0,
+    "enterprise_value": 225996652544.0,
+    "shares_outstanding": 1127497572.0,
+    "float_shares": 222398896.0,
+    "free_float_pct": 0.19724999993170717,
+    "avg_volume": 42516701.0,
+    "beta": 2.958,
+    "harga": 238.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.265,
+    "vol_trend": 0.62,
+    "price_chg_20d": -16.79
+  },
+  "update": "2026-10-06 10:21"
+}

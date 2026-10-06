@@ -1,0 +1,50 @@
+{
+  "kode": "SICO",
+  "nama": "PT Sigma Energy Compressindo Tbk",
+  "sektor": "Energy",
+  "industri": "Oil & Gas Equipment & Services",
+  "harga": 117.0,
+  "rasio_kunci": {
+    "pe": 12.330066,
+    "pb": 0.79528,
+    "ps": 0.67778486,
+    "roe": 0.09514,
+    "roic": null,
+    "de": 28.618,
+    "margin_net": 0.08043,
+    "current_ratio": 7.21,
+    "dividend_yield": 4.24,
+    "eps": 9.489,
+    "bv": 147.118
+  },
+  "statistik": {
+    "market_cap": 106479099904.0,
+    "enterprise_value": 126094950400.0,
+    "shares_outstanding": 910077764.0,
+    "float_shares": 244128360.0,
+    "free_float_pct": 0.26824999978793024,
+    "avg_volume": 6981877.0,
+    "beta": -0.111,
+    "harga": 117.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.204,
+    "vol_trend": 4.8,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:35"
+}

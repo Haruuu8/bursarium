@@ -1,0 +1,50 @@
+{
+  "kode": "RSCH",
+  "nama": "PT Charlie Hospital Semarang Tbk",
+  "sektor": "Healthcare",
+  "industri": "Medical Care Facilities",
+  "harga": 560.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 12.316083,
+    "ps": 12.42239,
+    "roe": -0.12072,
+    "roic": null,
+    "de": 51.346,
+    "margin_net": -0.12977,
+    "current_ratio": 0.476,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 45.469
+  },
+  "statistik": {
+    "market_cap": 1483999936512.0,
+    "enterprise_value": 1544027766784.0,
+    "shares_outstanding": 2650000000.0,
+    "float_shares": 530000000.0,
+    "free_float_pct": 0.2,
+    "avg_volume": 25684938.0,
+    "beta": -0.066,
+    "harga": 560.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 8,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.506,
+    "vol_trend": 1.14,
+    "price_chg_20d": 35.27
+  },
+  "update": "2026-10-06 10:35"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "TRON",
+  "nama": "PT Teknologi Karya Digital Nusa Tbk",
+  "sektor": "Technology",
+  "industri": "Information Technology Services",
+  "harga": 82.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.3557754,
+    "ps": 7.2162952,
+    "roe": -0.15021,
+    "roic": null,
+    "de": 23.423,
+    "margin_net": -0.88302004,
+    "current_ratio": 3.578,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 60.482
+  },
+  "statistik": {
+    "market_cap": 242008932352.0,
+    "enterprise_value": 259785048064.0,
+    "shares_outstanding": 2951328448.0,
+    "float_shares": 1203541000.0,
+    "free_float_pct": 0.4077963605899549,
+    "avg_volume": 25837819.0,
+    "beta": 0.386,
+    "harga": 82.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.291,
+    "vol_trend": 0.49,
+    "price_chg_20d": -23.3
+  },
+  "update": "2026-10-06 10:38"
+}

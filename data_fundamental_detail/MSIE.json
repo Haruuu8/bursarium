@@ -1,0 +1,50 @@
+{
+  "kode": "MSIE",
+  "nama": "PT Multisarana Intan Eduka Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate Services",
+  "harga": 121.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.5557498,
+    "ps": 25.200527,
+    "roe": 0.01149,
+    "roic": null,
+    "de": 1.548,
+    "margin_net": 0.18511999,
+    "current_ratio": 1.366,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 77.776
+  },
+  "statistik": {
+    "market_cap": 176660938752.0,
+    "enterprise_value": 173364953088.0,
+    "shares_outstanding": 1460007754.0,
+    "float_shares": 336460268.0,
+    "free_float_pct": 0.23045101444029728,
+    "avg_volume": 9797174.0,
+    "beta": 3.565,
+    "harga": 121.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0.125,
+    "vol_trend": 0.53,
+    "price_chg_20d": -13.14
+  },
+  "update": "2026-10-06 10:31"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "GULA",
+  "nama": "PT Aman Agrindo Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 790.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 5.8971944,
+    "ps": 3.0275567,
+    "roe": -0.03508,
+    "roic": null,
+    "de": 52.44,
+    "margin_net": -0.01833,
+    "current_ratio": 1.262,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 133.962
+  },
+  "statistik": {
+    "market_cap": 845586366464.0,
+    "enterprise_value": 903113474048.0,
+    "shares_outstanding": 1070362500.0,
+    "float_shares": 263127213.0,
+    "free_float_pct": 0.2458299996496514,
+    "avg_volume": 28030826.0,
+    "beta": 0.593,
+    "harga": 790.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.175,
+    "vol_trend": 0.73,
+    "price_chg_20d": -2.48
+  },
+  "update": "2026-10-06 10:22"
+}

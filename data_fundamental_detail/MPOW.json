@@ -1,0 +1,50 @@
+{
+  "kode": "MPOW",
+  "nama": "PT Megapower Makmur Tbk",
+  "sektor": "Utilities",
+  "industri": "Utilities - Independent Power Producers",
+  "harga": 105.0,
+  "rasio_kunci": {
+    "pe": 15.967153,
+    "pb": 0.89211375,
+    "ps": 3.2791965,
+    "roe": -0.16517,
+    "roic": null,
+    "de": 31.825,
+    "margin_net": -0.66865,
+    "current_ratio": 0.364,
+    "dividend_yield": 0.0,
+    "eps": 6.576,
+    "bv": 117.698
+  },
+  "statistik": {
+    "market_cap": 85784690688.0,
+    "enterprise_value": 115990560768.0,
+    "shares_outstanding": 816997053.0,
+    "float_shares": 549144569.0,
+    "free_float_pct": 0.6721499997870861,
+    "avg_volume": 13374771.0,
+    "beta": 0.084,
+    "harga": 105.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.291,
+    "vol_trend": 1.48,
+    "price_chg_20d": -9.48
+  },
+  "update": "2026-10-06 10:31"
+}

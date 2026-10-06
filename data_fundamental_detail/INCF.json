@@ -1,0 +1,50 @@
+{
+  "kode": "INCF",
+  "nama": "PT Indo Komoditi Korpora Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 50.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.5669577,
+    "ps": 0.5576292,
+    "roe": -0.00168,
+    "roic": null,
+    "de": 169.258,
+    "margin_net": -0.00196,
+    "current_ratio": 0.949,
+    "dividend_yield": 0.0,
+    "eps": -0.354,
+    "bv": 88.19
+  },
+  "statistik": {
+    "market_cap": 71918518272.0,
+    "enterprise_value": 335185346560.0,
+    "shares_outstanding": 1438370465.0,
+    "float_shares": 481901221.0,
+    "free_float_pct": 0.3350327559736149,
+    "avg_volume": 0.0,
+    "beta": 0.717,
+    "harga": 50.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

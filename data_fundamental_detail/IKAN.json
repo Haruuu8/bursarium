@@ -1,0 +1,50 @@
+{
+  "kode": "IKAN",
+  "nama": "PT Era Mandiri Cemerlang Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Farm Products",
+  "harga": 81.0,
+  "rasio_kunci": {
+    "pe": 41.32653,
+    "pb": 0.90917253,
+    "ps": 0.5691014,
+    "roe": -0.0055299997,
+    "roic": null,
+    "de": 61.35,
+    "margin_net": -0.00347,
+    "current_ratio": 2.045,
+    "dividend_yield": 0.0,
+    "eps": 1.96,
+    "bv": 89.092
+  },
+  "statistik": {
+    "market_cap": 67499970560.0,
+    "enterprise_value": 105475284992.0,
+    "shares_outstanding": 833333000.0,
+    "float_shares": 333333200.0,
+    "free_float_pct": 0.4,
+    "avg_volume": 25666203.0,
+    "beta": 0.035,
+    "harga": 81.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.492,
+    "vol_trend": 0.07,
+    "price_chg_20d": -13.98
+  },
+  "update": "2026-10-06 10:22"
+}

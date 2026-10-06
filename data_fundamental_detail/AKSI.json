@@ -1,0 +1,50 @@
+{
+  "kode": "AKSI",
+  "nama": "PT Mineral Sumberdaya Mandiri Tbk",
+  "sektor": "Industrials",
+  "industri": "Trucking",
+  "harga": 344.0,
+  "rasio_kunci": {
+    "pe": 13.506086,
+    "pb": 1.5519683,
+    "ps": 0.6446358,
+    "roe": -0.0949,
+    "roic": null,
+    "de": 71.852,
+    "margin_net": -0.041490003,
+    "current_ratio": 2.231,
+    "dividend_yield": 0.0,
+    "eps": 25.47,
+    "bv": 221.654
+  },
+  "statistik": {
+    "market_cap": 247680008192.0,
+    "enterprise_value": 307909787648.0,
+    "shares_outstanding": 720000000.0,
+    "float_shares": 54302400.0,
+    "free_float_pct": 0.07542,
+    "avg_volume": 1786938.0,
+    "beta": 1.214,
+    "harga": 344.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.183,
+    "vol_trend": 0.22,
+    "price_chg_20d": 23.02
+  },
+  "update": "2026-10-06 10:21"
+}

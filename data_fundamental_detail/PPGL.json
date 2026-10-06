@@ -1,0 +1,50 @@
+{
+  "kode": "PPGL",
+  "nama": "PT Prima Globalindo Logistik Tbk",
+  "sektor": "Industrials",
+  "industri": "Integrated Freight & Logistics",
+  "harga": 468.0,
+  "rasio_kunci": {
+    "pe": 19.561947,
+    "pb": 9.712769,
+    "ps": 2.848785,
+    "roe": 0.07235,
+    "roic": null,
+    "de": 24.934,
+    "margin_net": 0.043309998,
+    "current_ratio": 4.14,
+    "dividend_yield": 9.29,
+    "eps": 23.924,
+    "bv": 48.184
+  },
+  "statistik": {
+    "market_cap": 360911339520.0,
+    "enterprise_value": 366132658176.0,
+    "shares_outstanding": 771178020.0,
+    "float_shares": 185722803.0,
+    "free_float_pct": 0.2408300005749645,
+    "avg_volume": 2671168.0,
+    "beta": 0.856,
+    "harga": 468.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:33"
+}

@@ -1,0 +1,50 @@
+{
+  "kode": "ATAP",
+  "nama": "PT Trimitra Prawara Goldland Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Residential Construction",
+  "harga": 650.0,
+  "rasio_kunci": {
+    "pe": 198.47328,
+    "pb": 10.478125,
+    "ps": 37.46419,
+    "roe": 0.02251,
+    "roic": null,
+    "de": 11.945,
+    "margin_net": 0.07958,
+    "current_ratio": 5.023,
+    "dividend_yield": 0.0,
+    "eps": 3.275,
+    "bv": 62.034
+  },
+  "statistik": {
+    "market_cap": 812499992576.0,
+    "enterprise_value": 739907010560.0,
+    "shares_outstanding": 1250000000.0,
+    "float_shares": 1138300000.0,
+    "free_float_pct": 0.91064,
+    "avg_volume": 1853039.0,
+    "beta": 0.514,
+    "harga": 650.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 7,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.145,
+    "vol_trend": 0.8,
+    "price_chg_20d": 5.36
+  },
+  "update": "2026-10-06 10:21"
+}

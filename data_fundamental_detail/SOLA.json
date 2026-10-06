@@ -1,0 +1,50 @@
+{
+  "kode": "SOLA",
+  "nama": "PT Xolare RCR Energy TBK",
+  "sektor": "Industrials",
+  "industri": "Engineering & Construction",
+  "harga": 76.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 1.3149927,
+    "ps": 0.77695394,
+    "roe": 0.18242,
+    "roic": null,
+    "de": 26.021,
+    "margin_net": 0.0987,
+    "current_ratio": 1.384,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 57.795
+  },
+  "statistik": {
+    "market_cap": 249840500736.0,
+    "enterprise_value": 290689417216.0,
+    "shares_outstanding": 3287375000.0,
+    "float_shares": 622727446.0,
+    "free_float_pct": 0.1894299999239515,
+    "avg_volume": 11005422.0,
+    "beta": 0.392,
+    "harga": 76.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.357,
+    "vol_trend": 0.97,
+    "price_chg_20d": -20.43
+  },
+  "update": "2026-10-06 10:36"
+}

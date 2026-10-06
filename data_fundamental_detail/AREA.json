@@ -1,0 +1,50 @@
+{
+  "kode": "AREA",
+  "nama": "PT Dunia Virtual Online Tbk",
+  "sektor": "Technology",
+  "industri": "Information Technology Services",
+  "harga": 320.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 3.3277524,
+    "ps": 10.874005,
+    "roe": 0.03371,
+    "roic": null,
+    "de": 7.937,
+    "margin_net": 0.10836001,
+    "current_ratio": 3.267,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 96.161
+  },
+  "statistik": {
+    "market_cap": 812672286720.0,
+    "enterprise_value": 790232629248.0,
+    "shares_outstanding": 2539601000.0,
+    "float_shares": 509774109.0,
+    "free_float_pct": 0.20073000010631592,
+    "avg_volume": 2361984.0,
+    "beta": -0.473,
+    "harga": 320.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.223,
+    "vol_trend": 0.56,
+    "price_chg_20d": -6.98
+  },
+  "update": "2026-10-06 10:21"
+}

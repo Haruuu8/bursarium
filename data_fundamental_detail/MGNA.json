@@ -1,0 +1,50 @@
+{
+  "kode": "MGNA",
+  "nama": "PT Magna Investama Mandiri Tbk",
+  "sektor": "Financial Services",
+  "industri": "Credit Services",
+  "harga": 208.0,
+  "rasio_kunci": {
+    "pe": 5.774249,
+    "pb": 25.886745,
+    "ps": 17.578499,
+    "roe": -0.11956,
+    "roic": null,
+    "de": 164.705,
+    "margin_net": -0.10998999,
+    "current_ratio": 0.311,
+    "dividend_yield": 0.0,
+    "eps": 36.022,
+    "bv": 8.035
+  },
+  "statistik": {
+    "market_cap": 709524783104.0,
+    "enterprise_value": 757573287936.0,
+    "shares_outstanding": 3411176835.0,
+    "float_shares": 823096506.0,
+    "free_float_pct": 0.24129400081365174,
+    "avg_volume": 26701812.0,
+    "beta": -0.037,
+    "harga": 208.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.233,
+    "vol_trend": 0.31,
+    "price_chg_20d": 112.63
+  },
+  "update": "2026-10-06 10:30"
+}

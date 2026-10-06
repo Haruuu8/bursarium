@@ -1,0 +1,50 @@
+{
+  "kode": "TOOL",
+  "nama": "PT Rohartindo Nusantara Luas Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Furnishings, Fixtures & Appliances",
+  "harga": 57.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.6517712,
+    "ps": 2.205703,
+    "roe": -0.055320002,
+    "roic": null,
+    "de": 9.895,
+    "margin_net": -0.19268,
+    "current_ratio": 14.368,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 87.454
+  },
+  "statistik": {
+    "market_cap": 116851163136.0,
+    "enterprise_value": 127154438144.0,
+    "shares_outstanding": 2050020320.0,
+    "float_shares": 410024564.0,
+    "free_float_pct": 0.20000999990087903,
+    "avg_volume": 69457622.0,
+    "beta": 0.947,
+    "harga": 57.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.624,
+    "vol_trend": 0.42,
+    "price_chg_20d": -23.94
+  },
+  "update": "2026-10-06 10:38"
+}

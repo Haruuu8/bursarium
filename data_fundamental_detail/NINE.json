@@ -1,0 +1,50 @@
+{
+  "kode": "NINE",
+  "nama": "PT Techno9 Indonesia Tbk",
+  "sektor": "Technology",
+  "industri": "Information Technology Services",
+  "harga": 81.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 6.813594,
+    "ps": 74.21718,
+    "roe": -0.32484,
+    "roic": null,
+    "de": 16.3,
+    "margin_net": 0.0,
+    "current_ratio": 2.817,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 11.888
+  },
+  "statistik": {
+    "market_cap": 174716993536.0,
+    "enterprise_value": 170326671360.0,
+    "shares_outstanding": 2157000000.0,
+    "float_shares": 1198105650.0,
+    "free_float_pct": 0.55545,
+    "avg_volume": 12413507.0,
+    "beta": -2.115,
+    "harga": 81.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.173,
+    "vol_trend": 0.82,
+    "price_chg_20d": -23.53
+  },
+  "update": "2026-10-06 10:32"
+}

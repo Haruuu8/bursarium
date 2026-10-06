@@ -1,0 +1,50 @@
+{
+  "kode": "IPAC",
+  "nama": "PT Era Graharealty Tbk",
+  "sektor": "Real Estate",
+  "industri": "Real Estate Services",
+  "harga": 189.0,
+  "rasio_kunci": {
+    "pe": 49.437614,
+    "pb": 5.107004,
+    "ps": 2.9815211,
+    "roe": 0.02853,
+    "roic": null,
+    "de": 2.226,
+    "margin_net": 0.026099999,
+    "current_ratio": 5.44,
+    "dividend_yield": 0.0,
+    "eps": 3.823,
+    "bv": 37.008
+  },
+  "statistik": {
+    "market_cap": 179525140480.0,
+    "enterprise_value": 160651395072.0,
+    "shares_outstanding": 949868500.0,
+    "float_shares": 89306636.0,
+    "free_float_pct": 0.0940199996104724,
+    "avg_volume": 114343.0,
+    "beta": 0.659,
+    "harga": 189.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.128,
+    "vol_trend": 0.0,
+    "price_chg_20d": 2.16
+  },
+  "update": "2026-10-06 10:22"
+}

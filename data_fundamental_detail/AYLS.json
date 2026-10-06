@@ -1,0 +1,50 @@
+{
+  "kode": "AYLS",
+  "nama": "PT Arkayana Lestari Grup Tbk",
+  "sektor": "Consumer Defensive",
+  "industri": "Food Distribution",
+  "harga": 197.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 5.2104,
+    "ps": 7.375987,
+    "roe": -0.22233,
+    "roic": null,
+    "de": null,
+    "margin_net": -0.35880002,
+    "current_ratio": 28.68,
+    "dividend_yield": 0.0,
+    "eps": -2.127,
+    "bv": 37.809
+  },
+  "statistik": {
+    "market_cap": 168124383232.0,
+    "enterprise_value": 151501864960.0,
+    "shares_outstanding": 853423236.0,
+    "float_shares": 258706720.0,
+    "free_float_pct": 0.30314000028000176,
+    "avg_volume": 11193001.0,
+    "beta": 0.84,
+    "harga": 197.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 4,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.17,
+    "vol_trend": 0.47,
+    "price_chg_20d": 11.25
+  },
+  "update": "2026-10-06 10:21"
+}

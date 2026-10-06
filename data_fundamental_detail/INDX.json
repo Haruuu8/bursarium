@@ -1,0 +1,50 @@
+{
+  "kode": "INDX",
+  "nama": "PT Tanah Laut Tbk",
+  "sektor": "Industrials",
+  "industri": "Marine Shipping",
+  "harga": 60.0,
+  "rasio_kunci": {
+    "pe": 769.2308,
+    "pb": 1.1392765,
+    "ps": 139.13661,
+    "roe": -0.31612,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.0,
+    "current_ratio": 0.085,
+    "dividend_yield": 0.0,
+    "eps": 0.078,
+    "bv": 52.665
+  },
+  "statistik": {
+    "market_cap": 26274816000.0,
+    "enterprise_value": 26257604608.0,
+    "shares_outstanding": 437913588.0,
+    "float_shares": 187878067.0,
+    "free_float_pct": 0.42903000077723097,
+    "avg_volume": 0.0,
+    "beta": 0.862,
+    "harga": 60.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

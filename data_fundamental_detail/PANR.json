@@ -1,0 +1,50 @@
+{
+  "kode": "PANR",
+  "nama": "PT Panorama Sentrawisata Tbk",
+  "sektor": "Consumer Cyclical",
+  "industri": "Travel Services",
+  "harga": 400.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.6009588,
+    "ps": 0.13530141,
+    "roe": 0.13425,
+    "roic": null,
+    "de": 15.616,
+    "margin_net": 0.02012,
+    "current_ratio": 1.578,
+    "dividend_yield": 7.46,
+    "eps": -75.046,
+    "bv": 665.603
+  },
+  "statistik": {
+    "market_cap": 555000004608.0,
+    "enterprise_value": 804938711040.0,
+    "shares_outstanding": 1387500000.0,
+    "float_shares": 293026125.0,
+    "free_float_pct": 0.21119,
+    "avg_volume": 79593.0,
+    "beta": 0.336,
+    "harga": 400.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.137,
+    "vol_trend": 0.76,
+    "price_chg_20d": -7.87
+  },
+  "update": "2026-10-06 10:32"
+}

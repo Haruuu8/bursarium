@@ -1,0 +1,50 @@
+{
+  "kode": "FWCT",
+  "nama": "PT Wijaya Cahaya Timber Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Lumber & Wood Production",
+  "harga": 79.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.48414576,
+    "ps": 0.12999436,
+    "roe": -0.13345,
+    "roic": null,
+    "de": 111.137,
+    "margin_net": -0.03832,
+    "current_ratio": 1.717,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 163.174
+  },
+  "statistik": {
+    "market_cap": 155077001216.0,
+    "enterprise_value": 448131465216.0,
+    "shares_outstanding": 1963000000.0,
+    "float_shares": 353909270.0,
+    "free_float_pct": 0.18029,
+    "avg_volume": 15611162.0,
+    "beta": -0.434,
+    "harga": 79.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 2,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.231,
+    "vol_trend": 0.71,
+    "price_chg_20d": -17.02
+  },
+  "update": "2026-10-06 10:22"
+}

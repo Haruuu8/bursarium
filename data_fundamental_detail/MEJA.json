@@ -1,0 +1,50 @@
+{
+  "kode": "MEJA",
+  "nama": "PT Harta Djaya Karya Tbk",
+  "sektor": "Industrials",
+  "industri": "Engineering & Construction",
+  "harga": 147.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 4.2254734,
+    "ps": 113.70407,
+    "roe": -0.35884997,
+    "roic": null,
+    "de": 16.439,
+    "margin_net": 0.0,
+    "current_ratio": 3.428,
+    "dividend_yield": 0.0,
+    "eps": null,
+    "bv": 34.789
+  },
+  "statistik": {
+    "market_cap": 383387926528.0,
+    "enterprise_value": 347140882432.0,
+    "shares_outstanding": 2608081058.0,
+    "float_shares": 1574602858.0,
+    "free_float_pct": 0.6037400000165178,
+    "avg_volume": 47986023.0,
+    "beta": 1.137,
+    "harga": 147.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 10,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.335,
+    "vol_trend": 8.63,
+    "price_chg_20d": 16.81
+  },
+  "update": "2026-10-06 10:30"
+}

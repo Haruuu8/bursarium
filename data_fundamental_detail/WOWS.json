@@ -1,0 +1,50 @@
+{
+  "kode": "WOWS",
+  "nama": "PT Ginting Jaya Energi Tbk",
+  "sektor": "Energy",
+  "industri": "Oil & Gas Equipment & Services",
+  "harga": 52.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.2377969,
+    "ps": 0.5479317,
+    "roe": 0.02737,
+    "roic": null,
+    "de": 12.101,
+    "margin_net": 0.0622,
+    "current_ratio": 1.811,
+    "dividend_yield": 0.0,
+    "eps": -2.104,
+    "bv": 218.674
+  },
+  "statistik": {
+    "market_cap": 128737435648.0,
+    "enterprise_value": 192359219200.0,
+    "shares_outstanding": 2475720000.0,
+    "float_shares": 1085875549.0,
+    "free_float_pct": 0.4386099999192154,
+    "avg_volume": 28185180.0,
+    "beta": 0.224,
+    "harga": 52.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 3,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.105,
+    "vol_trend": 0.37,
+    "price_chg_20d": -11.86
+  },
+  "update": "2026-10-06 10:39"
+}

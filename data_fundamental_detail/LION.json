@@ -1,0 +1,50 @@
+{
+  "kode": "LION",
+  "nama": "PT Lion Metal Works Tbk",
+  "sektor": "Industrials",
+  "industri": "Business Equipment & Supplies",
+  "harga": 274.0,
+  "rasio_kunci": {
+    "pe": null,
+    "pb": 0.31941321,
+    "ps": 0.497736,
+    "roe": -0.06305,
+    "roic": null,
+    "de": 5.762,
+    "margin_net": -0.101780005,
+    "current_ratio": 5.33,
+    "dividend_yield": 0.0,
+    "eps": -8.273,
+    "bv": 857.823
+  },
+  "statistik": {
+    "market_cap": 142523842560.0,
+    "enterprise_value": 19572371456.0,
+    "shares_outstanding": 520160000.0,
+    "float_shares": 218706474.0,
+    "free_float_pct": 0.42046000076899415,
+    "avg_volume": 395588.0,
+    "beta": 0.376,
+    "harga": 274.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 0,
+    "label": "DISTRIBUSI",
+    "tipe": "DISTRIBUTION",
+    "cmf": -0.64,
+    "vol_trend": 20.77,
+    "price_chg_20d": -28.8
+  },
+  "update": "2026-10-06 10:23"
+}

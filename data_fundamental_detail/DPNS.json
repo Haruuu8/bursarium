@@ -1,0 +1,50 @@
+{
+  "kode": "DPNS",
+  "nama": "PT Duta Pertiwi Nusantara Tbk",
+  "sektor": "Basic Materials",
+  "industri": "Specialty Chemicals",
+  "harga": 310.0,
+  "rasio_kunci": {
+    "pe": 4.298511,
+    "pb": 0.3023119,
+    "ps": 7.9600277,
+    "roe": 0.00176,
+    "roic": null,
+    "de": null,
+    "margin_net": 0.04615,
+    "current_ratio": 467.128,
+    "dividend_yield": null,
+    "eps": 72.118,
+    "bv": 1025.431
+  },
+  "statistik": {
+    "market_cap": 102650281984.0,
+    "enterprise_value": -97907515392.0,
+    "shares_outstanding": 331129952.0,
+    "float_shares": 142094485.0,
+    "free_float_pct": 0.4291199999932353,
+    "avg_volume": 0.0,
+    "beta": -0.058,
+    "harga": 310.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 5,
+    "label": "NETRAL",
+    "tipe": "NEUTRAL",
+    "cmf": 0,
+    "vol_trend": 1.0,
+    "price_chg_20d": 0.0
+  },
+  "update": "2026-10-06 10:22"
+}

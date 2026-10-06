@@ -1,0 +1,50 @@
+{
+  "kode": "AIMS",
+  "nama": "PT Artha Mahiya Investama Tbk",
+  "sektor": "Energy",
+  "industri": "Thermal Coal",
+  "harga": 825.0,
+  "rasio_kunci": {
+    "pe": 44.22881,
+    "pb": 637.0657,
+    "ps": 88.159615,
+    "roe": null,
+    "roic": null,
+    "de": 482.391,
+    "margin_net": 0.38951,
+    "current_ratio": 0.104,
+    "dividend_yield": 0.0,
+    "eps": 18.653,
+    "bv": 1.295
+  },
+  "statistik": {
+    "market_cap": 181500002304.0,
+    "enterprise_value": 182866984960.0,
+    "shares_outstanding": 220000000.0,
+    "float_shares": 71794800.0,
+    "free_float_pct": 0.32634,
+    "avg_volume": 968571.0,
+    "beta": 0.944,
+    "harga": 825.0
+  },
+  "riwayat": {
+    "eps": {},
+    "revenue": {},
+    "revenue_per_share": {},
+    "net_income": {}
+  },
+  "tren": {
+    "roe": {},
+    "roa": {},
+    "pe": {}
+  },
+  "akumulasi": {
+    "score": 10,
+    "label": "AKUMULASI",
+    "tipe": "ACCUMULATION",
+    "cmf": 0.291,
+    "vol_trend": 6.27,
+    "price_chg_20d": 60.19
+  },
+  "update": "2026-10-06 10:21"
+}
