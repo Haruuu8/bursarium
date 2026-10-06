@@ -1,0 +1,935 @@
+kode,sektor
+AALI,Consumer Non-Cyclicals
+ABBA,Consumer Cyclicals
+ABDA,Financials
+ABMM,Energy
+ACES,Consumer Cyclicals
+ACRO,Consumer Cyclicals
+ACST,Infrastructures
+ADCP,Properties & Real Estate
+ADES,Consumer Non-Cyclicals
+ADHI,Infrastructures
+ADMF,Financials
+ADMG,Basic Materials
+ADMR,Energy
+ADRO,Energy
+AEGS,Consumer Cyclicals
+AGAR,Consumer Non-Cyclicals
+AGII,Basic Materials
+AGRO,Financials
+AGRS,Financials
+AHAP,Financials
+AIMS,Energy
+AISA,Consumer Non-Cyclicals
+AKKU,Consumer Cyclicals
+AKPI,Basic Materials
+AKRA,Energy
+AKSI,Transportation & Logistic
+ALDO,Basic Materials
+ALII,Energy
+ALKA,Basic Materials
+ALMI,Basic Materials
+ALTO,Consumer Non-Cyclicals
+AMAG,Financials
+AMAN,Properties & Real Estate
+AMAR,Financials
+AMFG,Industrials
+AMIN,Industrials
+AMMN,Basic Materials
+AMMS,Consumer Non-Cyclicals
+AMOR,Financials
+AMRT,Consumer Non-Cyclicals
+ANDI,Consumer Non-Cyclicals
+ANJT,Consumer Non-Cyclicals
+ANTM,Basic Materials
+APEX,Energy
+APIC,Financials
+APII,Industrials
+APLI,Basic Materials
+APLN,Properties & Real Estate
+ARCI,Basic Materials
+AREA,Technology
+ARGO,Consumer Cyclicals
+ARII,Energy
+ARKA,Industrials
+ARKO,Infrastructures
+ARMY,Properties & Real Estate
+ARNA,Industrials
+ARTA,Consumer Cyclicals
+ARTI,Energy
+ARTO,Financials
+ASBI,Financials
+ASDM,Financials
+ASGR,Industrials
+ASHA,Consumer Non-Cyclicals
+ASII,Industrials
+ASJT,Financials
+ASLC,Consumer Cyclicals
+ASLI,Infrastructures
+ASMI,Financials
+ASPI,Properties & Real Estate
+ASRI,Properties & Real Estate
+ASRM,Financials
+ASSA,Transportation & Logistic
+ATAP,Properties & Real Estate
+ATIC,Technology
+ATLA,Energy
+AUTO,Consumer Cyclicals
+AVIA,Basic Materials
+AWAN,Technology
+AXIO,Technology
+AYAM,Consumer Non-Cyclicals
+AYLS,Basic Materials
+BABP,Financials
+BABY,Consumer Cyclicals
+BACA,Financials
+BAIK,Consumer Cyclicals
+BAJA,Basic Materials
+BALI,Infrastructures
+BANK,Financials
+BAPA,Properties & Real Estate
+BAPI,Properties & Real Estate
+BATA,Consumer Cyclicals
+BATR,Basic Materials
+BAUT,Consumer Cyclicals
+BAYU,Consumer Cyclicals
+BBCA,Financials
+BBHI,Financials
+BBKP,Financials
+BBLD,Financials
+BBMD,Financials
+BBNI,Financials
+BBRI,Financials
+BBRM,Energy
+BBSI,Financials
+BBSS,Properties & Real Estate
+BBTN,Financials
+BBYB,Financials
+BCAP,Financials
+BCIC,Financials
+BCIP,Properties & Real Estate
+BDKR,Infrastructures
+BDMN,Financials
+BEBS,Basic Materials
+BEEF,Consumer Non-Cyclicals
+BEER,Consumer Non-Cyclicals
+BEKS,Financials
+BELI,Technology
+BELL,Consumer Cyclicals
+BESS,Energy
+BEST,Properties & Real Estate
+BFIN,Financials
+BGTG,Financials
+BHAT,Financials
+BHIT,Industrials
+BIKA,Properties & Real Estate
+BIKE,Consumer Cyclicals
+BIMA,Consumer Cyclicals
+BINA,Financials
+BINO,Industrials
+BIPI,Energy
+BIPP,Properties & Real Estate
+BIRD,Transportation & Logistic
+BISI,Consumer Non-Cyclicals
+BJBR,Financials
+BJTM,Financials
+BKDP,Properties & Real Estate
+BKSL,Properties & Real Estate
+BKSW,Financials
+BLES,Basic Materials
+BLTA,Transportation & Logistic
+BLTZ,Consumer Cyclicals
+BLUE,Industrials
+BMAS,Financials
+BMBL,Consumer Cyclicals
+BMHS,Healthcare
+BMRI,Financials
+BMSR,Basic Materials
+BMTR,Consumer Cyclicals
+BNBA,Financials
+BNBR,Industrials
+BNGA,Financials
+BNII,Financials
+BNLI,Financials
+BOBA,Consumer Non-Cyclicals
+BOGA,Consumer Cyclicals
+BOLA,Consumer Cyclicals
+BOLT,Consumer Cyclicals
+BOSS,Energy
+BPFI,Financials
+BPII,Financials
+BPTR,Transportation & Logistic
+BRAM,Consumer Cyclicals
+BREN,Infrastructures
+BRIS,Financials
+BRMS,Basic Materials
+BRNA,Basic Materials
+BRPT,Basic Materials
+BSBK,Properties & Real Estate
+BSDE,Properties & Real Estate
+BSIM,Financials
+BSML,Energy
+BSSR,Energy
+BSWD,Financials
+BTEK,Consumer Non-Cyclicals
+BTEL,Infrastructures
+BTON,Basic Materials
+BTPN,Financials
+BTPS,Financials
+BUAH,Consumer Non-Cyclicals
+BUDI,Consumer Non-Cyclicals
+BUKA,Technology
+BUKK,Infrastructures
+BULL,Energy
+BUMI,Energy
+BUVA,Consumer Cyclicals
+BVIC,Financials
+BWPT,Consumer Non-Cyclicals
+BYAN,Energy
+CAKK,Industrials
+CAMP,Consumer Non-Cyclicals
+CANI,Energy
+CARE,Healthcare
+CARS,Consumer Cyclicals
+CASA,Financials
+CASH,Technology
+CASS,Infrastructures
+CBMF,Consumer Cyclicals
+CBPE,Properties & Real Estate
+CBRE,Energy
+CBUT,Consumer Non-Cyclicals
+CCSI,Industrials
+CEKA,Consumer Non-Cyclicals
+CENT,Infrastructures
+CFIN,Financials
+CGAS,Energy
+CHEM,Basic Materials
+CHIP,Technology
+CINT,Consumer Cyclicals
+CITA,Basic Materials
+CITY,Properties & Real Estate
+CLAY,Consumer Cyclicals
+CLEO,Consumer Non-Cyclicals
+CLPI,Basic Materials
+CMNP,Infrastructures
+CMNT,Basic Materials
+CMPP,Transportation & Logistic
+CMRY,Consumer Non-Cyclicals
+CNKO,Energy
+CNMA,Consumer Cyclicals
+CNTX,Consumer Cyclicals
+COAL,Energy
+COCO,Consumer Non-Cyclicals
+COWL,Properties & Real Estate
+CPIN,Consumer Non-Cyclicals
+CPRI,Properties & Real Estate
+CPRO,Consumer Non-Cyclicals
+CRAB,Consumer Non-Cyclicals
+CRSN,Industrials
+CSAP,Consumer Cyclicals
+CSIS,Properties & Real Estate
+CSMI,Consumer Cyclicals
+CSRA,Consumer Non-Cyclicals
+CTBN,Basic Materials
+CTRA,Properties & Real Estate
+CTTH,Industrials
+CUAN,Energy
+CYBR,Technology
+DADA,Properties & Real Estate
+DART,Properties & Real Estate
+DATA,Infrastructures
+DAYA,Consumer Non-Cyclicals
+DCII,Technology
+DEAL,Transportation & Logistic
+DEFI,Financials
+DEPO,Consumer Cyclicals
+DEWA,Energy
+DEWI,Consumer Non-Cyclicals
+DFAM,Consumer Cyclicals
+DGIK,Infrastructures
+DGNS,Healthcare
+DIGI,Consumer Cyclicals
+DILD,Properties & Real Estate
+DIVA,Technology
+DKFT,Basic Materials
+DLTA,Consumer Non-Cyclicals
+DMAS,Properties & Real Estate
+DMMX,Technology
+DMND,Consumer Non-Cyclicals
+DNAR,Financials
+DNET,Financials
+DOID,Energy
+DOOH,Consumer Cyclicals
+DPNS,Basic Materials
+DPUM,Consumer Non-Cyclicals
+DRMA,Consumer Cyclicals
+DSFI,Consumer Non-Cyclicals
+DSNG,Consumer Non-Cyclicals
+DSSA,Energy
+DUCK,Consumer Cyclicals
+DUTI,Properties & Real Estate
+DVLA,Healthcare
+DWGL,Energy
+DYAN,Industrials
+EAST,Consumer Cyclicals
+ECII,Consumer Cyclicals
+EDGE,Technology
+EKAD,Basic Materials
+ELIT,Technology
+ELPI,Transportation & Logistic
+ELSA,Energy
+ELTY,Properties & Real Estate
+EMDE,Properties & Real Estate
+EMTK,Technology
+ENAK,Consumer Cyclicals
+ENRG,Energy
+ENVY,Technology
+ENZO,Consumer Non-Cyclicals
+EPAC,Basic Materials
+EPMT,Consumer Non-Cyclicals
+ERAA,Consumer Cyclicals
+ERAL,Consumer Cyclicals
+ERTX,Consumer Cyclicals
+ESIP,Basic Materials
+ESSA,Basic Materials
+ESTA,Consumer Cyclicals
+ESTI,Consumer Cyclicals
+ETWA,Basic Materials
+EURO,Consumer Non-Cyclicals
+EXCL,Infrastructures
+FAPA,Consumer Non-Cyclicals
+FAST,Consumer Cyclicals
+FASW,Basic Materials
+FILM,Consumer Cyclicals
+FIMP,Infrastructures
+FIRE,Energy
+FISH,Consumer Non-Cyclicals
+FITT,Consumer Cyclicals
+FLMC,Consumer Non-Cyclicals
+FMII,Properties & Real Estate
+FOLK,Industrials
+FOOD,Consumer Non-Cyclicals
+FORU,Consumer Cyclicals
+FORZ,Properties & Real Estate
+FPNI,Basic Materials
+FREN,Infrastructures
+FUJI,Financials
+FUTR,Consumer Cyclicals
+FWCT,Basic Materials
+GAMA,Properties & Real Estate
+GDST,Basic Materials
+GDYR,Consumer Cyclicals
+GEMA,Consumer Cyclicals
+GEMS,Energy
+GGRM,Consumer Non-Cyclicals
+GGRP,Basic Materials
+GHON,Infrastructures
+GIAA,Transportation & Logistic
+GJTL,Consumer Cyclicals
+GLOB,Consumer Cyclicals
+GLVA,Technology
+GMFI,Infrastructures
+GMTD,Properties & Real Estate
+GOLD,Infrastructures
+GOLF,Consumer Cyclicals
+GOLL,Consumer Non-Cyclicals
+GOOD,Consumer Non-Cyclicals
+GOTO,Technology
+GPRA,Properties & Real Estate
+GPSO,Industrials
+GRIA,Properties & Real Estate
+GRPH,Consumer Cyclicals
+GRPM,Consumer Non-Cyclicals
+GSMF,Financials
+GTBO,Energy
+GTRA,Transportation & Logistic
+GTSI,Energy
+GULA,Consumer Non-Cyclicals
+GUNA,Consumer Non-Cyclicals
+GWSA,Consumer Cyclicals
+GZCO,Consumer Non-Cyclicals
+HADE,Infrastructures
+HAIS,Transportation & Logistic
+HAJJ,Consumer Cyclicals
+HALO,Healthcare
+HATM,Transportation & Logistic
+HBAT,Properties & Real Estate
+HDFA,Financials
+HDIT,Technology
+HDTX,Consumer Cyclicals
+HEAL,Healthcare
+HELI,Transportation & Logistic
+HERO,Consumer Non-Cyclicals
+HEXA,Industrials
+HILL,Energy
+HITS,Energy
+HKMU,Basic Materials
+HMSP,Consumer Non-Cyclicals
+HOKI,Consumer Non-Cyclicals
+HOME,Consumer Cyclicals
+HOMI,Properties & Real Estate
+HOPE,Industrials
+HOTL,Consumer Cyclicals
+HRME,Consumer Cyclicals
+HRTA,Consumer Cyclicals
+HRUM,Energy
+HUMI,Energy
+HYGN,Industrials
+IATA,Energy
+IBFN,Industrials
+IBOS,Consumer Non-Cyclicals
+IBST,Infrastructures
+ICBP,Consumer Non-Cyclicals
+ICON,Industrials
+IDEA,Consumer Cyclicals
+IDPR,Infrastructures
+IFII,Basic Materials
+IFSH,Basic Materials
+IGAR,Basic Materials
+IIKP,Consumer Cyclicals
+IKAI,Industrials
+IKAN,Consumer Non-Cyclicals
+IKBI,Industrials
+IKPM,Healthcare
+IMAS,Consumer Cyclicals
+IMJS,Transportation & Logistic
+IMPC,Industrials
+INAF,Healthcare
+INAI,Basic Materials
+INCF,Basic Materials
+INCI,Basic Materials
+INCO,Basic Materials
+INDF,Consumer Non-Cyclicals
+INDO,Properties & Real Estate
+INDR,Consumer Cyclicals
+INDS,Consumer Cyclicals
+INDX,Industrials
+INDY,Energy
+INET,Infrastructures
+INKP,Basic Materials
+INOV,Consumer Cyclicals
+INPC,Financials
+INPP,Properties & Real Estate
+INPS,Energy
+INRU,Basic Materials
+INTA,Industrials
+INTD,Basic Materials
+INTP,Basic Materials
+IOTF,Technology
+IPAC,Properties & Real Estate
+IPCC,Infrastructures
+IPCM,Infrastructures
+IPOL,Basic Materials
+IPPE,Consumer Non-Cyclicals
+IPTV,Consumer Cyclicals
+IRRA,Healthcare
+IRSX,Technology
+ISAP,Consumer Cyclicals
+ISAT,Infrastructures
+ISEA,Consumer Non-Cyclicals
+ISSP,Basic Materials
+ITIC,Consumer Non-Cyclicals
+ITMA,Energy
+ITMG,Energy
+JARR,Consumer Non-Cyclicals
+JAST,Infrastructures
+JATI,Technology
+JAWA,Consumer Non-Cyclicals
+JAYA,Transportation & Logistic
+JECC,Industrials
+JGLE,Consumer Cyclicals
+JIHD,Consumer Cyclicals
+JKON,Infrastructures
+JKSW,Basic Materials
+JMAS,Financials
+JPFA,Consumer Non-Cyclicals
+JRPT,Properties & Real Estate
+JSKY,Energy
+JSMR,Infrastructures
+JSPT,Consumer Cyclicals
+JTPE,Industrials
+KAEF,Healthcare
+KARW,Infrastructures
+KAYU,Basic Materials
+KBAG,Properties & Real Estate
+KBLI,Industrials
+KBLM,Industrials
+KBLV,Infrastructures
+KBRI,Basic Materials
+KDSI,Basic Materials
+KDTN,Consumer Cyclicals
+KEEN,Infrastructures
+KEJU,Consumer Non-Cyclicals
+KETR,Infrastructures
+KIAS,Industrials
+KICI,Consumer Cyclicals
+KIJA,Properties & Real Estate
+KING,Industrials
+KINO,Consumer Non-Cyclicals
+KIOS,Technology
+KJEN,Transportation & Logistic
+KKES,Basic Materials
+KKGI,Energy
+KLAS,Transportation & Logistic
+KLBF,Healthcare
+KLIN,Consumer Cyclicals
+KMDS,Consumer Non-Cyclicals
+KMTR,Basic Materials
+KOBX,Industrials
+KOCI,Properties & Real Estate
+KOIN,Industrials
+KOKA,Infrastructures
+KONI,Industrials
+KOPI,Energy
+KOTA,Consumer Cyclicals
+KPAL,Industrials
+KPAS,Consumer Non-Cyclicals
+KPIG,Consumer Cyclicals
+KRAH,Industrials
+KRAS,Basic Materials
+KREN,Technology
+KRYA,Infrastructures
+KUAS,Industrials
+LABA,Industrials
+LABS,Healthcare
+LAJU,Transportation & Logistic
+LAND,Properties & Real Estate
+LAPD,Consumer Non-Cyclicals
+LCGP,Properties & Real Estate
+LCKM,Infrastructures
+LEAD,Energy
+LFLO,Consumer Cyclicals
+LIFE,Financials
+LINK,Infrastructures
+LION,Industrials
+LIVE,Consumer Cyclicals
+LMAS,Technology
+LMAX,Consumer Cyclicals
+LMPI,Consumer Cyclicals
+LMSH,Basic Materials
+LOPI,Transportation & Logistic
+LPCK,Properties & Real Estate
+LPGI,Financials
+LPIN,Consumer Cyclicals
+LPKR,Properties & Real Estate
+LPLI,Properties & Real Estate
+LPPF,Consumer Cyclicals
+LPPS,Financials
+LRNA,Transportation & Logistic
+LSIP,Consumer Non-Cyclicals
+LTLS,Basic Materials
+LUCK,Technology
+LUCY,Consumer Cyclicals
+MABA,Consumer Cyclicals
+MAGP,Consumer Non-Cyclicals
+MAHA,Energy
+MAIN,Consumer Non-Cyclicals
+MAMI,Consumer Cyclicals
+MANG,Infrastructures
+MAPA,Consumer Cyclicals
+MAPB,Consumer Cyclicals
+MAPI,Consumer Cyclicals
+MARI,Consumer Cyclicals
+MARK,Industrials
+MASA,Consumer Cyclicals
+MASB,Financials
+MAXI,Consumer Non-Cyclicals
+MAYA,Financials
+MBAP,Energy
+MBMA,Basic Materials
+MBSS,Energy
+MBTO,Consumer Non-Cyclicals
+MCAS,Technology
+MCOL,Energy
+MCOR,Financials
+MDIA,Consumer Cyclicals
+MDKA,Basic Materials
+MDKI,Basic Materials
+MDLN,Properties & Real Estate
+MDRN,Industrials
+MEDC,Energy
+MEDS,Healthcare
+MEGA,Financials
+MEJA,Consumer Cyclicals
+MENN,Technology
+MERK,Healthcare
+META,Infrastructures
+MFIN,Financials
+MFMI,Industrials
+MGLV,Consumer Cyclicals
+MGNA,Consumer Cyclicals
+MGRO,Consumer Non-Cyclicals
+MHKI,Industrials
+MICE,Consumer Cyclicals
+MIDI,Consumer Non-Cyclicals
+MIKA,Healthcare
+MINA,Consumer Cyclicals
+MIRA,Transportation & Logistic
+MITI,Transportation & Logistic
+MKAP,Energy
+MKNT,Consumer Cyclicals
+MKPI,Properties & Real Estate
+MKTR,Consumer Non-Cyclicals
+MLBI,Consumer Non-Cyclicals
+MLIA,Industrials
+MLPL,Consumer Non-Cyclicals
+MLPT,Technology
+MMIX,Healthcare
+MMLP,Properties & Real Estate
+MNCN,Consumer Cyclicals
+MOLI,Basic Materials
+MORA,Infrastructures
+MPIX,Technology
+MPMX,Consumer Cyclicals
+MPOW,Infrastructures
+MPPA,Consumer Non-Cyclicals
+MPRO,Properties & Real Estate
+MPXL,Transportation & Logistic
+MRAT,Consumer Non-Cyclicals
+MREI,Financials
+MSIE,Properties & Real Estate
+MSIN,Consumer Cyclicals
+MSJA,Consumer Non-Cyclicals
+MSKY,Consumer Cyclicals
+MSTI,Technology
+MTDL,Technology
+MTEL,Infrastructures
+MTFN,Energy
+MTLA,Properties & Real Estate
+MTMH,Healthcare
+MTPS,Infrastructures
+MTRA,Infrastructures
+MTSM,Properties & Real Estate
+MTWI,Financials
+MUTU,Industrials
+MYOH,Energy
+MYOR,Consumer Non-Cyclicals
+MYRX,Properties & Real Estate
+MYTX,Consumer Cyclicals
+NANO,Consumer Non-Cyclicals
+NASA,Properties & Real Estate
+NASI,Consumer Non-Cyclicals
+NATO,Consumer Cyclicals
+NAYZ,Consumer Non-Cyclicals
+NCKL,Basic Materials
+NELY,Transportation & Logistic
+NETV,Consumer Cyclicals
+NFCX,Technology
+NICE,Basic Materials
+NICK,Financials
+NICL,Basic Materials
+NIKL,Basic Materials
+NINE,Technology
+NIPS,Consumer Cyclicals
+NIRO,Properties & Real Estate
+NISP,Financials
+NOBU,Financials
+NPGF,Basic Materials
+NRCA,Infrastructures
+NSSS,Consumer Non-Cyclicals
+NTBK,Industrials
+NUSA,Consumer Cyclicals
+NZIA,Properties & Real Estate
+OASA,Infrastructures
+OBMD,Basic Materials
+OCAP,Financials
+OILS,Consumer Non-Cyclicals
+OKAS,Basic Materials
+OLIV,Consumer Cyclicals
+OMED,Healthcare
+OMRE,Properties & Real Estate
+OPMS,Basic Materials
+PACK,Basic Materials
+PADA,Industrials
+PADI,Financials
+PALM,Financials
+PAMG,Properties & Real Estate
+PANI,Properties & Real Estate
+PANR,Consumer Cyclicals
+PANS,Financials
+PART,Consumer Cyclicals
+PBID,Basic Materials
+PBRX,Consumer Cyclicals
+PBSA,Infrastructures
+PCAR,Consumer Non-Cyclicals
+PDES,Consumer Cyclicals
+PDPP,Basic Materials
+PEGE,Financials
+PEHA,Healthcare
+PEVE,Healthcare
+PGAS,Energy
+PGEO,Infrastructures
+PGJO,Technology
+PGLI,Consumer Cyclicals
+PGUN,Consumer Non-Cyclicals
+PICO,Basic Materials
+PIPA,Industrials
+PJAA,Consumer Cyclicals
+PKPK,Energy
+PLAN,Consumer Cyclicals
+PLAS,Financials
+PLIN,Properties & Real Estate
+PMJS,Consumer Cyclicals
+PMMP,Consumer Non-Cyclicals
+PNBN,Financials
+PNBS,Financials
+PNGO,Consumer Non-Cyclicals
+PNIN,Financials
+PNLF,Financials
+PNSE,Consumer Cyclicals
+POLA,Financials
+POLI,Properties & Real Estate
+POLL,Properties & Real Estate
+POLU,Consumer Cyclicals
+POLY,Consumer Cyclicals
+POOL,Financials
+PORT,Infrastructures
+POSA,Properties & Real Estate
+POWR,Infrastructures
+PPGL,Transportation & Logistic
+PPRE,Infrastructures
+PPRI,Basic Materials
+PPRO,Properties & Real Estate
+PRAS,Consumer Cyclicals
+PRAY,Healthcare
+PRDA,Healthcare
+PRIM,Healthcare
+PSAB,Basic Materials
+PSDN,Consumer Non-Cyclicals
+PSGO,Consumer Non-Cyclicals
+PSKT,Consumer Cyclicals
+PSSI,Energy
+PTBA,Energy
+PTDU,Infrastructures
+PTIS,Energy
+PTMP,Industrials
+PTPP,Infrastructures
+PTPS,Consumer Non-Cyclicals
+PTPW,Infrastructures
+PTRO,Energy
+PTSN,Technology
+PTSP,Consumer Cyclicals
+PUDP,Properties & Real Estate
+PURA,Transportation & Logistic
+PURE,Basic Materials
+PURI,Properties & Real Estate
+PWON,Properties & Real Estate
+PYFA,Healthcare
+PZZA,Consumer Cyclicals
+RAAM,Consumer Cyclicals
+RAFI,Consumer Cyclicals
+RAJA,Energy
+RALS,Consumer Cyclicals
+RANC,Consumer Non-Cyclicals
+RBMS,Properties & Real Estate
+RCCC,Transportation & Logistic
+RDTX,Properties & Real Estate
+REAL,Properties & Real Estate
+RELF,Properties & Real Estate
+RELI,Financials
+RGAS,Energy
+RICY,Consumer Cyclicals
+RIGS,Energy
+RIMO,Properties & Real Estate
+RISE,Properties & Real Estate
+RMKE,Energy
+RMKO,Energy
+ROCK,Properties & Real Estate
+RODA,Properties & Real Estate
+RONY,Infrastructures
+ROTI,Consumer Non-Cyclicals
+RSCH,Healthcare
+RSGK,Healthcare
+RUIS,Energy
+RUNS,Technology
+SAFE,Transportation & Logistic
+SAGE,Properties & Real Estate
+SAME,Healthcare
+SAMF,Basic Materials
+SAPX,Transportation & Logistic
+SATU,Properties & Real Estate
+SBAT,Consumer Cyclicals
+SBMA,Basic Materials
+SCCO,Industrials
+SCMA,Consumer Cyclicals
+SCNP,Consumer Cyclicals
+SCPI,Healthcare
+SDMU,Transportation & Logistic
+SDPC,Consumer Non-Cyclicals
+SDRA,Financials
+SEMA,Energy
+SFAN,Financials
+SGER,Energy
+SGRO,Consumer Non-Cyclicals
+SHID,Consumer Cyclicals
+SHIP,Energy
+SICO,Energy
+SIDO,Healthcare
+SILO,Healthcare
+SIMA,Basic Materials
+SIMP,Consumer Non-Cyclicals
+SINI,Industrials
+SIPD,Consumer Non-Cyclicals
+SKBM,Consumer Non-Cyclicals
+SKLT,Consumer Non-Cyclicals
+SKRN,Industrials
+SKYB,Technology
+SLIS,Consumer Cyclicals
+SMAR,Consumer Non-Cyclicals
+SMBR,Basic Materials
+SMCB,Basic Materials
+SMDM,Properties & Real Estate
+SMDR,Transportation & Logistic
+SMGA,Basic Materials
+SMGR,Basic Materials
+SMIL,Industrials
+SMKL,Basic Materials
+SMKM,Infrastructures
+SMLE,Basic Materials
+SMMA,Financials
+SMMT,Energy
+SMRA,Properties & Real Estate
+SMRU,Energy
+SMSM,Consumer Cyclicals
+SNLK,Consumer Cyclicals
+SOCI,Energy
+SOFA,Consumer Cyclicals
+SOHO,Healthcare
+SOLA,Basic Materials
+SONA,Consumer Cyclicals
+SOSS,Industrials
+SOTS,Consumer Cyclicals
+SOUL,Consumer Non-Cyclicals
+SPMA,Basic Materials
+SPRE,Consumer Cyclicals
+SPTO,Industrials
+SQMI,Basic Materials
+SRAJ,Healthcare
+SRIL,Consumer Cyclicals
+SRSN,Basic Materials
+SRTG,Financials
+SSIA,Infrastructures
+SSMS,Consumer Non-Cyclicals
+SSTM,Consumer Cyclicals
+STAA,Consumer Non-Cyclicals
+STAR,Financials
+STRK,Consumer Non-Cyclicals
+STTP,Consumer Non-Cyclicals
+SUGI,Energy
+SULI,Basic Materials
+SUNI,Energy
+SUPR,Infrastructures
+SURE,Energy
+SURI,Healthcare
+SWAT,Basic Materials
+SWID,Consumer Cyclicals
+TALF,Basic Materials
+TAMA,Infrastructures
+TAMU,Energy
+TAPG,Consumer Non-Cyclicals
+TARA,Properties & Real Estate
+TAXI,Transportation & Logistic
+TAYS,Consumer Non-Cyclicals
+TBIG,Infrastructures
+TBLA,Consumer Non-Cyclicals
+TBMS,Basic Materials
+TCID,Consumer Non-Cyclicals
+TCPI,Energy
+TDPM,Basic Materials
+TEBE,Energy
+TECH,Technology
+TELE,Consumer Cyclicals
+TFAS,Technology
+TFCO,Consumer Cyclicals
+TGKA,Consumer Non-Cyclicals
+TGRA,Infrastructures
+TGUK,Consumer Non-Cyclicals
+TIFA,Financials
+TINS,Basic Materials
+TIRA,Industrials
+TIRT,Basic Materials
+TKIM,Basic Materials
+TLDN,Consumer Non-Cyclicals
+TLKM,Infrastructures
+TMAS,Transportation & Logistic
+TMPO,Consumer Cyclicals
+TNCA,Transportation & Logistic
+TOBA,Energy
+TOOL,Consumer Cyclicals
+TOPS,Infrastructures
+TOSK,Technology
+TOTL,Infrastructures
+TOTO,Industrials
+TOWR,Infrastructures
+TOYS,Consumer Cyclicals
+TPIA,Basic Materials
+TPMA,Energy
+TRAM,Energy
+TRGU,Consumer Non-Cyclicals
+TRIL,Industrials
+TRIM,Financials
+TRIN,Properties & Real Estate
+TRIO,Consumer Cyclicals
+TRIS,Consumer Cyclicals
+TRJA,Transportation & Logistic
+TRON,Technology
+TRST,Basic Materials
+TRUE,Properties & Real Estate
+TRUK,Transportation & Logistic
+TRUS,Financials
+TSPC,Healthcare
+TUGU,Financials
+TYRE,Consumer Cyclicals
+UANG,Properties & Real Estate
+UCID,Consumer Non-Cyclicals
+UDNG,Consumer Non-Cyclicals
+UFOE,Consumer Cyclicals
+ULTJ,Consumer Non-Cyclicals
+UNIC,Basic Materials
+UNIQ,Energy
+UNIT,Consumer Cyclicals
+UNSP,Consumer Non-Cyclicals
+UNTD,Consumer Cyclicals
+UNTR,Industrials
+UNVR,Consumer Non-Cyclicals
+URBN,Properties & Real Estate
+UVCR,Technology
+VAST,Properties & Real Estate
+VICI,Consumer Non-Cyclicals
+VICO,Financials
+VINS,Financials
+VISI,Industrials
+VIVA,Consumer Cyclicals
+VKTR,Consumer Cyclicals
+VOKS,Industrials
+VRNA,Financials
+VTNY,Financials
+WAPO,Consumer Non-Cyclicals
+WEGE,Infrastructures
+WEHA,Transportation & Logistic
+WGSH,Technology
+WICO,Consumer Non-Cyclicals
+WIDI,Industrials
+WIFI,Technology
+WIIM,Consumer Non-Cyclicals
+WIKA,Infrastructures
+WINE,Consumer Non-Cyclicals
+WINR,Properties & Real Estate
+WINS,Energy
+WIRG,Technology
+WMPP,Consumer Non-Cyclicals
+WMUU,Consumer Non-Cyclicals
+WOMF,Financials
+WOOD,Consumer Cyclicals
+WOWS,Energy
+WSBP,Basic Materials
+WSKT,Infrastructures
+WTON,Basic Materials
+YELO,Consumer Cyclicals
+YPAS,Basic Materials
+YULE,Financials
+ZATA,Consumer Cyclicals
+ZBRA,Industrials
+ZINC,Basic Materials
+ZONE,Consumer Cyclicals
+ZYRX,Technology

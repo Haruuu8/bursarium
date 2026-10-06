@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.log
+.streamlit/secrets.toml
+
+# Data besar jangan di-upload
+data_ohlcv_idx/
+quant/output/cari_lagi*.csv
+quant/output/semua_kombinasi*.csv
+quant/output/max_wr_full.csv
+quant/output/mp_combo*.csv
+quant/output/cross_section*.csv
+quant/output/pattern_mining*.csv
+quant/output/nego_september*.csv

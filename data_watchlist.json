@@ -1,0 +1,79 @@
+{
+  "AIMS": {
+    "tanggal_tambah": "2026-10-06 11:52",
+    "harga_entry": 825.0,
+    "match": "AT",
+    "strength": 2,
+    "rating": 75.5,
+    "class": "⭐ KUAT",
+    "hist_wr": 71.0,
+    "hist_n": 321,
+    "source": "screener_v3"
+  },
+  "CSMI": {
+    "tanggal_tambah": "2026-10-06 11:52",
+    "harga_entry": 412.0,
+    "match": "AT",
+    "strength": 2,
+    "rating": 75.5,
+    "class": "⭐ KUAT",
+    "hist_wr": 71.0,
+    "hist_n": 321,
+    "source": "screener_v3"
+  },
+  "MITI": {
+    "tanggal_tambah": "2026-10-06 11:52",
+    "harga_entry": 350.0,
+    "match": "AT",
+    "strength": 2,
+    "rating": 75.5,
+    "class": "⭐ KUAT",
+    "hist_wr": 71.0,
+    "hist_n": 321,
+    "source": "screener_v3"
+  },
+  "MBSS": {
+    "tanggal_tambah": "2026-10-06 11:52",
+    "harga_entry": 4400.0,
+    "match": "AT",
+    "strength": 2,
+    "rating": 75.5,
+    "class": "⭐ KUAT",
+    "hist_wr": 71.0,
+    "hist_n": 321,
+    "source": "screener_v3"
+  },
+  "KDTN": {
+    "tanggal_tambah": "2026-10-06 11:52",
+    "harga_entry": 530.0,
+    "match": "AT",
+    "strength": 2,
+    "rating": 75.5,
+    "class": "⭐ KUAT",
+    "hist_wr": 71.0,
+    "hist_n": 321,
+    "source": "screener_v3"
+  },
+  "PGLI": {
+    "tanggal_tambah": "2026-10-06 11:52",
+    "harga_entry": 332.0,
+    "match": "AT",
+    "strength": 2,
+    "rating": 75.5,
+    "class": "⭐ KUAT",
+    "hist_wr": 71.0,
+    "hist_n": 321,
+    "source": "screener_v3"
+  },
+  "ROCK": {
+    "tanggal_tambah": "2026-10-06 11:53",
+    "harga_entry": 3700.0,
+    "match": "AB",
+    "strength": 2,
+    "rating": 69.7,
+    "class": "⭐ KUAT",
+    "hist_wr": 69.3,
+    "hist_n": 101,
+    "source": "screener_v3"
+  }
+}
